@@ -28,8 +28,7 @@ short tenure, and frequent travel, so the analysis surfaces real, explainable pa
 |---|---|
 | [`hr_employee_data.csv`](hr_employee_data.csv) | Raw dataset — 1,800 employees, 16 columns |
 | [`HR_Analytics_Dashboard.xlsx`](HR_Analytics_Dashboard.xlsx) | Interactive Excel dashboard (Raw Data / Summary / Dashboard sheets) |
-| [`PowerBI_Build_Guide.md`](PowerBI_Build_Guide.md) | Step-by-step guide with every DAX measure used to build the Power BI dashboard |
-| [`generate_data.py`](generate_data.py) | Script that generated the dataset (for full reproducibility) |
+
 
 ## 🔑 Key Questions Answered
 
@@ -50,12 +49,6 @@ Built directly from `hr_employee_data.csv`. Includes:
 - **Department × Job Role matrix** for drill-down
 - **Slicers:** Department, Gender, OverTime, Age Band
 
-Six DAX measures power the report, including a defensively-written `Attrition Rate` measure using
-`DIVIDE()` to avoid errors when a filter returns zero rows. Full walkthrough — every measure,
-every visual, every setting — is in [`PowerBI_Build_Guide.md`](PowerBI_Build_Guide.md).
-
-> 📸 *Add a screenshot of your finished Power BI report here once built — drag the image into this
-> README on GitHub, right below this line.*
 
 ## 🟢 Excel Dashboard
 
@@ -77,19 +70,10 @@ Verified with a full recalculation: **5,508 formulas, zero errors.**
 - Writing defensive formulas / DAX measures that don't break when filtered to an empty subset
 - Designing conditional formatting that highlights risk visually instead of just listing numbers
 
-## 🛠️ How to Run It
-
-**Power BI:**
-1. Open Power BI Desktop → Get Data → Text/CSV → select `hr_employee_data.csv`
-2. Follow [`PowerBI_Build_Guide.md`](PowerBI_Build_Guide.md) from Step 2 onward
-
-**Excel:**
-Just open `HR_Analytics_Dashboard.xlsx` — the dropdowns and charts work immediately, no setup needed.
 
 ## 🧰 Tools Used
 
 Power BI (DAX, calculated columns, slicers) · Excel (SUMIFS, COUNTIFS, AVERAGEIFS, conditional
-formatting, interactive dashboards) · Python (dataset generation)
+formatting, interactive dashboards) 
 
 ---
-🔗 Part of my data analytics portfolio — [github.com/nadaelsayed26](https://github.com/nadaelsayed26)
