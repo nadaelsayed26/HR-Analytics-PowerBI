@@ -1,0 +1,1801 @@
+Employee ID,Department,Job Role,Gender,Age,Hire Date,Years At Company,Education,Marital Status,Business Travel,OverTime,Distance From Home,Job Satisfaction,Performance Rating,Monthly Salary,Attrition
+1001,Sales,Account Manager,Female,40,2016-11-27,9.1,Bachelor,Married,Travel_Rarely,No,17,2,3,7921,No
+1002,R&D,Research Scientist,Male,36,2015-08-10,10.4,Bachelor,Divorced,Travel_Rarely,No,15,1,4,11721,No
+1003,Finance,Accountant,Male,31,2018-08-09,7.4,High School,Married,Non-Travel,Yes,24,3,3,9214,No
+1004,HR,HR Specialist,Male,34,2023-04-21,2.7,PhD,Married,Travel_Rarely,No,19,1,2,7810,No
+1005,Sales,Sales Executive,Female,40,2019-02-08,6.9,Bachelor,Single,Travel_Frequently,No,1,1,2,10399,No
+1006,Sales,Sales Executive,Male,58,2013-10-22,12.2,Master,Married,Non-Travel,Yes,12,3,3,10719,No
+1007,Sales,Sales Executive,Male,49,2018-07-04,7.5,Master,Married,Travel_Frequently,No,14,2,4,9987,No
+1008,HR,HR Manager,Male,37,2023-05-27,2.6,High School,Married,Travel_Rarely,No,27,3,2,6922,No
+1009,R&D,Research Scientist,Female,26,2021-08-08,4.4,Master,Single,Non-Travel,No,2,3,2,11261,No
+1010,HR,HR Specialist,Female,31,2017-03-16,8.8,Master,Married,Travel_Rarely,No,10,2,3,7924,No
+1011,Sales,Account Manager,Male,23,2025-07-02,0.5,Bachelor,Single,Travel_Frequently,No,22,4,3,9824,Yes
+1012,Sales,Sales Manager,Male,33,2025-09-13,0.3,Bachelor,Single,Travel_Frequently,No,5,3,3,7842,No
+1013,Sales,Sales Executive,Male,33,2015-09-16,10.3,Bachelor,Married,Travel_Rarely,No,17,1,3,8076,No
+1014,Sales,Account Manager,Male,36,2022-03-15,3.8,Master,Single,Non-Travel,No,10,3,4,10282,No
+1015,Finance,Finance Manager,Male,54,2014-02-09,11.9,Bachelor,Married,Non-Travel,No,25,2,2,12544,No
+1016,R&D,Lab Technician,Female,28,2019-11-27,6.1,Master,Married,Travel_Rarely,No,17,1,3,11738,No
+1017,HR,HR Manager,Male,36,2025-08-07,0.4,Master,Single,Non-Travel,No,13,4,3,6506,No
+1018,HR,Recruiter,Male,24,2024-08-08,1.4,Bachelor,Married,Travel_Frequently,No,21,3,3,9377,No
+1019,Finance,Finance Manager,Male,32,2022-08-08,3.4,Bachelor,Single,Non-Travel,No,3,3,3,9512,No
+1020,Marketing,Marketing Specialist,Female,35,2016-07-04,9.5,Bachelor,Married,Non-Travel,Yes,1,3,3,11205,No
+1021,IT,Data Analyst,Male,60,2012-03-17,13.8,Master,Single,Travel_Rarely,No,15,3,3,14241,No
+1022,Sales,Sales Executive,Male,44,2009-10-23,16.2,PhD,Married,Non-Travel,No,2,4,3,11732,No
+1023,Sales,Account Manager,Male,28,2019-03-16,6.8,Bachelor,Single,Non-Travel,Yes,19,4,3,7717,Yes
+1024,R&D,R&D Manager,Male,36,2017-05-28,8.6,Master,Married,Travel_Rarely,No,22,1,2,12889,No
+1025,IT,Data Analyst,Male,25,2024-01-01,2.0,Bachelor,Married,Travel_Rarely,No,22,3,2,10414,No
+1026,Finance,Financial Analyst,Male,26,2025-02-06,0.9,High School,Married,Travel_Rarely,No,6,1,3,8736,No
+1027,R&D,Research Scientist,Male,36,2012-01-04,14.0,Bachelor,Married,Travel_Rarely,No,17,4,2,13409,No
+1028,Sales,Sales Manager,Male,23,2024-08-08,1.4,Bachelor,Single,Travel_Frequently,No,30,3,3,7579,No
+1029,Marketing,Content Creator,Male,41,2018-03-16,7.8,PhD,Divorced,Travel_Rarely,Yes,12,2,3,9599,No
+1030,Finance,Financial Analyst,Male,56,2016-01-03,10.0,Bachelor,Single,Travel_Rarely,Yes,15,3,4,9959,No
+1031,R&D,R&D Manager,Female,58,2023-05-27,2.6,High School,Married,Travel_Rarely,Yes,22,2,3,9241,No
+1032,R&D,R&D Manager,Female,29,2024-09-13,1.3,Master,Married,Travel_Rarely,No,7,2,3,9916,No
+1033,HR,HR Manager,Male,56,2008-10-23,17.2,Bachelor,Married,Travel_Rarely,No,10,2,3,12054,No
+1034,R&D,Research Scientist,Female,58,2009-05-30,16.6,Bachelor,Married,Travel_Frequently,No,25,4,3,10598,No
+1035,Sales,Sales Manager,Female,44,2018-03-16,7.8,Master,Married,Travel_Rarely,No,25,1,3,8672,No
+1036,IT,Data Analyst,Female,26,2022-04-21,3.7,Bachelor,Single,Travel_Rarely,No,4,3,3,12111,No
+1037,IT,QA Engineer,Male,24,2023-11-26,2.1,Bachelor,Married,Travel_Rarely,Yes,5,3,2,12600,No
+1038,Sales,Account Manager,Male,36,2017-02-08,8.9,Bachelor,Married,Travel_Frequently,No,21,1,3,9298,No
+1039,IT,QA Engineer,Male,50,2010-03-18,15.8,High School,Married,Travel_Rarely,Yes,19,1,3,12488,Yes
+1040,R&D,R&D Manager,Female,41,2021-09-14,4.3,High School,Single,Non-Travel,No,28,2,3,9092,No
+1041,Sales,Sales Manager,Male,29,2024-05-26,1.6,Master,Married,Non-Travel,Yes,20,1,3,8467,No
+1042,Marketing,Content Creator,Male,47,2019-11-27,6.1,Bachelor,Divorced,Travel_Rarely,No,2,4,1,8531,No
+1043,HR,HR Specialist,Male,38,2012-10-22,13.2,Master,Married,Non-Travel,No,22,4,3,9037,No
+1044,Sales,Sales Manager,Male,53,2019-07-04,6.5,Master,Married,Non-Travel,No,4,3,3,9245,No
+1045,R&D,Lab Technician,Male,52,2021-08-08,4.4,Master,Married,Non-Travel,No,20,3,3,11742,Yes
+1046,HR,HR Specialist,Male,35,2023-01-01,3.0,Master,Single,Travel_Rarely,Yes,21,4,3,7369,No
+1047,Sales,Account Manager,Male,45,2016-05-28,9.6,Bachelor,Married,Travel_Rarely,Yes,22,1,4,8924,No
+1048,R&D,Lab Technician,Male,47,2025-05-26,0.6,Master,Divorced,Non-Travel,No,25,2,3,11579,No
+1049,IT,Data Analyst,Female,54,2021-10-20,4.2,Bachelor,Divorced,Travel_Rarely,No,25,2,3,10324,No
+1050,IT,Data Analyst,Female,29,2019-11-27,6.1,High School,Married,Non-Travel,No,10,4,4,11580,No
+1051,Marketing,Content Creator,Male,39,2019-09-15,6.3,Master,Married,Travel_Frequently,Yes,21,3,4,8006,No
+1052,HR,Recruiter,Female,35,2017-02-08,8.9,Master,Single,Travel_Rarely,Yes,11,1,2,8218,Yes
+1053,Sales,Sales Executive,Male,42,2014-07-05,11.5,Master,Married,Travel_Rarely,No,6,2,2,11939,No
+1054,R&D,Research Scientist,Female,46,2010-03-18,15.8,Master,Married,Travel_Rarely,Yes,11,2,3,12103,No
+1055,Marketing,Marketing Specialist,Female,51,2011-10-23,14.2,PhD,Single,Travel_Rarely,No,2,4,4,8469,No
+1056,HR,HR Specialist,Male,22,2025-04-20,0.7,High School,Single,Non-Travel,No,21,1,4,9550,No
+1057,Sales,Sales Manager,Female,60,2008-09-17,17.3,Master,Married,Non-Travel,No,21,2,3,12804,No
+1058,Marketing,Content Creator,Female,57,2020-10-20,5.2,Bachelor,Married,Non-Travel,No,2,1,3,10334,No
+1059,HR,Recruiter,Male,57,2016-07-04,9.5,Master,Married,Travel_Rarely,No,24,4,3,9935,No
+1060,Marketing,Marketing Manager,Male,33,2014-04-23,11.7,Bachelor,Divorced,Non-Travel,No,9,4,3,9895,No
+1061,R&D,R&D Manager,Male,40,2015-04-23,10.7,High School,Divorced,Non-Travel,Yes,25,2,3,12399,No
+1062,IT,QA Engineer,Female,33,2020-10-20,5.2,High School,Single,Travel_Rarely,Yes,22,3,4,12799,No
+1063,HR,Recruiter,Male,25,2023-04-21,2.7,Bachelor,Divorced,Travel_Rarely,No,9,2,4,6842,No
+1064,R&D,Research Scientist,Male,59,2022-07-03,3.5,Master,Married,Travel_Rarely,Yes,2,4,4,10798,No
+1065,Marketing,Marketing Manager,Female,51,2010-04-24,15.7,PhD,Single,Travel_Frequently,No,21,4,2,11564,No
+1066,Sales,Account Manager,Male,54,2009-05-30,16.6,High School,Divorced,Non-Travel,No,26,3,3,12173,No
+1067,Sales,Account Manager,Female,25,2023-01-01,3.0,PhD,Married,Non-Travel,No,16,1,3,7356,No
+1068,Finance,Accountant,Female,25,2024-05-26,1.6,Master,Single,Travel_Rarely,No,9,2,3,8827,No
+1069,R&D,R&D Manager,Female,46,2008-02-11,17.9,Master,Married,Travel_Rarely,No,27,3,3,11818,No
+1070,Marketing,Marketing Specialist,Female,26,2022-09-14,3.3,PhD,Divorced,Travel_Rarely,No,14,3,3,8599,No
+1071,IT,Data Analyst,Male,34,2021-03-15,4.8,Bachelor,Married,Travel_Frequently,No,4,2,2,12691,No
+1072,IT,QA Engineer,Male,48,2010-02-10,15.9,Bachelor,Married,Non-Travel,No,7,1,3,13474,No
+1073,Sales,Sales Executive,Female,40,2010-02-10,15.9,Master,Divorced,Travel_Frequently,No,2,2,4,12074,No
+1074,Sales,Sales Manager,Female,23,2025-12-31,0.0,Master,Single,Travel_Rarely,No,13,3,4,8356,No
+1075,Sales,Sales Manager,Male,38,2013-05-29,12.6,Bachelor,Married,Non-Travel,No,6,1,4,10436,Yes
+1076,Finance,Financial Analyst,Male,27,2024-05-26,1.6,Master,Married,Travel_Rarely,No,16,4,3,8743,No
+1077,Finance,Accountant,Male,56,2012-09-16,13.3,Bachelor,Single,Travel_Rarely,No,21,4,4,10152,No
+1078,HR,HR Manager,Male,31,2024-03-14,1.8,Master,Single,Travel_Frequently,No,16,2,3,7234,No
+1079,Sales,Sales Executive,Male,44,2020-04-21,5.7,Master,Single,Travel_Rarely,No,28,2,4,10836,No
+1080,Sales,Sales Manager,Male,55,2020-10-20,5.2,Bachelor,Married,Non-Travel,No,11,2,3,10252,Yes
+1081,Sales,Sales Manager,Male,53,2012-07-05,13.5,Bachelor,Married,Travel_Rarely,No,14,2,2,12016,No
+1082,Sales,Sales Manager,Male,57,2006-05-31,19.6,Bachelor,Single,Travel_Frequently,Yes,1,3,3,11323,No
+1083,Sales,Sales Manager,Female,44,2017-02-08,8.9,PhD,Married,Travel_Rarely,No,8,2,4,11087,No
+1084,HR,Recruiter,Male,46,2022-08-08,3.4,Bachelor,Single,Travel_Rarely,No,10,4,3,7272,No
+1085,R&D,R&D Manager,Male,55,2024-11-25,1.1,Bachelor,Single,Travel_Rarely,No,21,1,2,11195,No
+1086,R&D,Research Scientist,Male,23,2025-08-07,0.4,Master,Divorced,Non-Travel,No,13,2,3,8369,Yes
+1087,Sales,Account Manager,Female,48,2013-10-22,12.2,Bachelor,Married,Travel_Frequently,Yes,25,1,4,10593,No
+1088,R&D,Research Scientist,Female,54,2024-02-07,1.9,Bachelor,Single,Travel_Rarely,No,9,4,3,12048,Yes
+1089,Sales,Sales Executive,Male,41,2008-01-05,18.0,Master,Married,Non-Travel,No,26,3,3,11723,No
+1090,Finance,Financial Analyst,Female,36,2018-10-21,7.2,Master,Married,Travel_Frequently,No,28,2,3,12441,Yes
+1091,IT,Data Analyst,Female,44,2023-07-03,2.5,Bachelor,Single,Non-Travel,Yes,6,2,3,12434,No
+1092,HR,HR Manager,Female,58,2014-09-16,11.3,Bachelor,Divorced,Travel_Rarely,No,10,3,3,10785,No
+1093,Sales,Sales Executive,Female,42,2022-05-27,3.6,Bachelor,Married,Non-Travel,No,5,4,3,7133,No
+1094,IT,IT Manager,Male,46,2013-09-16,12.3,Bachelor,Married,Travel_Frequently,No,28,2,2,14539,No
+1095,IT,Software Engineer,Female,29,2023-10-20,2.2,Bachelor,Married,Non-Travel,Yes,21,3,4,13470,No
+1096,Finance,Accountant,Male,35,2021-10-20,4.2,PhD,Married,Non-Travel,No,21,4,4,12044,No
+1097,Sales,Sales Executive,Female,34,2020-03-15,5.8,Bachelor,Single,Travel_Frequently,No,5,2,4,8857,No
+1098,Finance,Finance Manager,Female,23,2024-07-02,1.5,Bachelor,Single,Travel_Rarely,Yes,4,3,2,9549,No
+1099,Finance,Finance Manager,Female,33,2024-08-08,1.4,High School,Single,Travel_Rarely,No,30,2,1,10885,No
+1100,IT,IT Manager,Female,60,2015-03-17,10.8,PhD,Single,Non-Travel,No,9,3,3,14007,Yes
+1101,Sales,Account Manager,Female,51,2018-08-09,7.4,Master,Single,Travel_Frequently,No,30,4,3,8748,No
+1102,Sales,Sales Executive,Male,30,2018-09-15,7.3,High School,Married,Travel_Rarely,No,10,4,4,9214,No
+1103,Marketing,Marketing Specialist,Male,28,2022-01-01,4.0,Bachelor,Married,Non-Travel,Yes,12,2,3,6943,No
+1104,R&D,R&D Manager,Female,47,2025-08-07,0.4,Master,Single,Travel_Rarely,No,26,2,2,8338,No
+1105,Marketing,Marketing Specialist,Male,28,2025-03-14,0.8,Bachelor,Divorced,Non-Travel,No,2,4,1,9131,No
+1106,Sales,Account Manager,Male,28,2020-11-26,5.1,Master,Single,Travel_Rarely,No,8,1,1,10473,No
+1107,IT,QA Engineer,Female,57,2021-09-14,4.3,Master,Married,Travel_Frequently,No,30,3,3,12038,No
+1108,Finance,Accountant,Male,31,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,Yes,10,1,2,10038,No
+1109,IT,IT Manager,Female,51,2018-07-04,7.5,Master,Married,Non-Travel,Yes,13,1,3,12186,Yes
+1110,Finance,Accountant,Female,58,2009-07-06,16.5,Bachelor,Married,Travel_Rarely,Yes,10,1,4,13503,No
+1111,R&D,Lab Technician,Male,37,2012-09-16,13.3,High School,Single,Non-Travel,No,12,1,2,13548,No
+1112,IT,Software Engineer,Male,51,2012-03-17,13.8,PhD,Single,Non-Travel,No,30,3,2,12122,No
+1113,IT,QA Engineer,Male,30,2021-01-01,5.0,High School,Single,Non-Travel,No,4,4,4,10877,No
+1114,Finance,Finance Manager,Male,42,2015-04-23,10.7,PhD,Married,Travel_Frequently,Yes,2,1,3,9156,No
+1115,R&D,R&D Manager,Male,49,2010-09-17,15.3,Master,Single,Non-Travel,No,25,2,3,13914,No
+1116,HR,Recruiter,Male,31,2019-04-22,6.7,PhD,Married,Travel_Rarely,No,2,1,3,6862,No
+1117,Sales,Sales Executive,Female,46,2006-10-24,19.2,PhD,Single,Non-Travel,No,26,2,4,13213,No
+1118,Finance,Financial Analyst,Female,25,2022-08-08,3.4,Bachelor,Married,Travel_Rarely,No,20,3,3,8498,No
+1119,R&D,R&D Manager,Female,23,2025-08-07,0.4,Master,Married,Travel_Rarely,No,27,1,4,8781,No
+1120,IT,QA Engineer,Male,45,2012-07-05,13.5,Master,Married,Travel_Rarely,Yes,13,2,3,15340,No
+1121,HR,Recruiter,Female,60,2017-01-02,9.0,Bachelor,Married,Travel_Rarely,Yes,11,2,2,8665,No
+1122,Marketing,Content Creator,Male,36,2019-05-28,6.6,Master,Single,Travel_Rarely,No,1,2,4,8790,Yes
+1123,Sales,Sales Manager,Male,43,2018-02-08,7.9,Master,Married,Travel_Rarely,Yes,11,4,3,10046,No
+1124,IT,Data Analyst,Female,29,2018-09-15,7.3,Bachelor,Divorced,Travel_Rarely,No,6,4,3,12232,No
+1125,IT,Software Engineer,Male,57,2008-10-23,17.2,Master,Single,Travel_Rarely,No,19,3,2,15543,No
+1126,Sales,Account Manager,Male,37,2015-05-29,10.6,Master,Divorced,Travel_Rarely,No,26,1,3,8332,Yes
+1127,Sales,Account Manager,Female,58,2015-03-17,10.8,Bachelor,Single,Non-Travel,No,22,2,2,12088,No
+1128,IT,QA Engineer,Female,59,2016-01-03,10.0,High School,Single,Non-Travel,No,20,3,3,12153,No
+1129,IT,Data Analyst,Female,27,2022-10-20,3.2,Master,Married,Travel_Rarely,No,6,2,4,12264,No
+1130,Finance,Accountant,Female,41,2012-05-29,13.6,High School,Single,Travel_Frequently,No,19,4,3,10628,No
+1131,IT,Software Engineer,Male,57,2015-03-17,10.8,Bachelor,Single,Non-Travel,No,25,3,3,14624,Yes
+1132,IT,QA Engineer,Male,55,2020-09-14,5.3,PhD,Married,Non-Travel,No,6,3,3,11937,No
+1133,Sales,Account Manager,Male,53,2021-07-03,4.5,Bachelor,Married,Travel_Rarely,Yes,12,1,3,9191,Yes
+1134,Sales,Account Manager,Female,39,2025-08-07,0.4,Bachelor,Single,Non-Travel,Yes,20,2,4,9915,No
+1135,Sales,Account Manager,Female,39,2019-05-28,6.6,Bachelor,Single,Travel_Rarely,No,27,1,3,10025,No
+1136,IT,QA Engineer,Male,54,2008-11-29,17.1,Master,Divorced,Travel_Rarely,Yes,19,1,3,12411,No
+1137,IT,IT Manager,Female,22,2025-02-06,0.9,Bachelor,Single,Non-Travel,No,7,2,3,12912,No
+1138,Marketing,Marketing Specialist,Male,36,2020-02-08,5.9,Master,Single,Travel_Rarely,Yes,16,3,4,9539,No
+1139,R&D,Lab Technician,Male,55,2018-09-15,7.3,Master,Married,Travel_Rarely,No,10,4,3,12947,No
+1140,IT,IT Manager,Female,52,2012-08-10,13.4,Bachelor,Married,Travel_Rarely,No,9,4,4,13228,No
+1141,Marketing,Marketing Specialist,Male,58,2007-10-24,18.2,Bachelor,Single,Travel_Rarely,No,4,2,3,12599,No
+1142,IT,Data Analyst,Male,43,2018-05-28,7.6,PhD,Single,Travel_Rarely,Yes,24,4,3,14527,No
+1143,Sales,Sales Executive,Male,38,2017-11-27,8.1,High School,Married,Non-Travel,Yes,24,1,3,10738,No
+1144,R&D,Research Scientist,Male,38,2024-09-13,1.3,Bachelor,Married,Non-Travel,No,15,2,3,8598,Yes
+1145,IT,IT Manager,Male,38,2025-05-26,0.6,Bachelor,Divorced,Travel_Frequently,No,18,1,1,12068,Yes
+1146,IT,Data Analyst,Female,45,2024-05-26,1.6,Master,Married,Non-Travel,No,27,4,3,11469,No
+1147,Sales,Account Manager,Male,28,2024-03-14,1.8,Bachelor,Divorced,Travel_Rarely,No,17,2,2,10277,No
+1148,Sales,Sales Executive,Female,24,2025-04-20,0.7,Master,Married,Non-Travel,No,29,4,2,9343,No
+1149,Marketing,Marketing Specialist,Female,48,2015-10-23,10.2,Bachelor,Married,Travel_Rarely,No,12,1,3,11311,No
+1150,IT,QA Engineer,Male,46,2019-01-02,7.0,Bachelor,Single,Travel_Rarely,No,15,1,3,12013,Yes
+1151,R&D,R&D Manager,Female,48,2022-03-15,3.8,Master,Single,Travel_Rarely,No,16,2,3,12267,Yes
+1152,R&D,R&D Manager,Male,34,2024-10-19,1.2,Master,Married,Travel_Rarely,No,30,1,3,8226,No
+1153,Marketing,Content Creator,Female,27,2021-11-26,4.1,PhD,Married,Travel_Frequently,No,8,4,3,7143,No
+1154,Finance,Accountant,Male,26,2021-04-21,4.7,Bachelor,Single,Travel_Frequently,No,12,4,3,9364,No
+1155,R&D,Lab Technician,Female,36,2014-07-05,11.5,PhD,Divorced,Non-Travel,No,23,4,3,11676,No
+1156,Finance,Accountant,Male,55,2018-10-21,7.2,Bachelor,Married,Travel_Rarely,No,11,4,4,12398,No
+1157,HR,HR Specialist,Male,55,2014-03-17,11.8,Master,Single,Travel_Frequently,No,19,4,3,10489,No
+1158,R&D,Lab Technician,Male,54,2009-11-29,16.1,Bachelor,Divorced,Travel_Rarely,No,4,3,3,11768,No
+1159,Marketing,Content Creator,Male,41,2012-08-10,13.4,Bachelor,Single,Travel_Rarely,No,14,1,2,10137,Yes
+1160,Sales,Account Manager,Male,23,2024-11-25,1.1,Master,Married,Travel_Frequently,No,5,2,3,8858,Yes
+1161,Marketing,Content Creator,Female,39,2024-02-07,1.9,Bachelor,Married,Non-Travel,No,19,2,4,9390,No
+1162,Sales,Account Manager,Male,58,2006-10-24,19.2,High School,Married,Travel_Frequently,No,12,1,3,10879,No
+1163,HR,HR Manager,Male,44,2019-02-08,6.9,Bachelor,Single,Travel_Rarely,No,4,2,3,6538,No
+1164,Finance,Accountant,Male,58,2023-08-08,2.4,Bachelor,Married,Travel_Rarely,Yes,4,4,2,9843,No
+1165,IT,IT Manager,Male,50,2010-08-11,15.4,Bachelor,Married,Travel_Rarely,No,21,4,3,14228,No
+1166,IT,QA Engineer,Female,43,2007-07-07,18.5,High School,Married,Travel_Rarely,No,18,3,3,15303,No
+1167,Finance,Accountant,Male,27,2025-07-02,0.5,Bachelor,Married,Non-Travel,No,22,4,3,10884,No
+1168,Marketing,Content Creator,Female,46,2024-10-19,1.2,Bachelor,Divorced,Travel_Rarely,No,5,1,3,9761,No
+1169,IT,Data Analyst,Male,48,2012-01-04,14.0,Master,Married,Travel_Frequently,No,21,1,3,14388,Yes
+1170,Marketing,Marketing Manager,Male,25,2022-11-26,3.1,Master,Single,Travel_Rarely,Yes,3,4,3,10144,No
+1171,Sales,Sales Executive,Female,40,2021-09-14,4.3,Bachelor,Single,Travel_Rarely,No,30,3,2,9715,No
+1172,R&D,R&D Manager,Female,23,2024-04-20,1.7,Master,Single,Travel_Rarely,No,15,2,3,12145,Yes
+1173,Finance,Accountant,Female,35,2022-02-07,3.9,Bachelor,Married,Non-Travel,Yes,8,2,3,8175,No
+1174,HR,HR Manager,Male,60,2006-02-11,19.9,PhD,Married,Non-Travel,No,14,1,3,8580,Yes
+1175,HR,Recruiter,Female,46,2024-08-08,1.4,Master,Divorced,Non-Travel,No,20,4,3,7264,No
+1176,R&D,Lab Technician,Female,46,2022-07-03,3.5,Bachelor,Married,Travel_Rarely,No,15,2,4,10595,No
+1177,IT,IT Manager,Male,40,2020-11-26,5.1,Bachelor,Single,Travel_Frequently,Yes,19,3,3,11335,Yes
+1178,HR,HR Manager,Female,42,2021-10-20,4.2,Bachelor,Divorced,Travel_Rarely,No,5,1,2,10059,No
+1179,Finance,Financial Analyst,Female,57,2014-02-09,11.9,Bachelor,Married,Non-Travel,Yes,5,1,1,10900,No
+1180,Sales,Sales Manager,Female,36,2013-03-17,12.8,PhD,Single,Non-Travel,No,18,1,1,11507,No
+1181,Sales,Account Manager,Female,52,2021-11-26,4.1,Master,Single,Non-Travel,No,15,2,2,8219,No
+1182,Marketing,Marketing Manager,Female,36,2019-07-04,6.5,Bachelor,Married,Non-Travel,No,1,1,2,7908,No
+1183,R&D,R&D Manager,Female,32,2016-03-16,9.8,Bachelor,Married,Travel_Rarely,No,7,1,3,11053,No
+1184,Finance,Accountant,Male,58,2019-05-28,6.6,Bachelor,Single,Non-Travel,No,25,3,3,11439,No
+1185,IT,Software Engineer,Male,24,2025-10-19,0.2,Master,Married,Non-Travel,No,17,3,3,12659,No
+1186,Sales,Sales Manager,Female,37,2012-11-28,13.1,Bachelor,Single,Travel_Rarely,No,11,1,2,9871,No
+1187,IT,Software Engineer,Male,53,2016-10-22,9.2,Bachelor,Married,Travel_Rarely,Yes,13,2,2,11868,No
+1188,Sales,Sales Executive,Female,34,2021-07-03,4.5,Bachelor,Married,Travel_Rarely,No,29,1,3,7210,Yes
+1189,IT,QA Engineer,Female,42,2013-03-17,12.8,Bachelor,Single,Travel_Rarely,No,22,4,3,13114,No
+1190,R&D,Lab Technician,Male,36,2019-02-08,6.9,Bachelor,Divorced,Travel_Frequently,Yes,11,1,4,12329,Yes
+1191,R&D,Research Scientist,Female,36,2012-11-28,13.1,Bachelor,Divorced,Non-Travel,No,16,3,3,12909,No
+1192,Sales,Account Manager,Female,28,2023-04-21,2.7,Master,Married,Travel_Frequently,No,30,1,4,8615,Yes
+1193,Sales,Sales Executive,Male,52,2025-08-07,0.4,Master,Married,Travel_Rarely,No,3,2,2,9307,No
+1194,Finance,Accountant,Male,52,2023-05-27,2.6,PhD,Single,Travel_Rarely,No,1,4,3,8682,Yes
+1195,Marketing,Marketing Specialist,Female,40,2017-08-09,8.4,Bachelor,Married,Travel_Rarely,No,21,4,1,9919,No
+1196,IT,Data Analyst,Male,29,2018-02-08,7.9,Bachelor,Single,Travel_Frequently,Yes,5,1,3,11978,No
+1197,R&D,Research Scientist,Male,59,2016-04-22,9.7,Bachelor,Single,Travel_Rarely,No,3,1,3,10081,No
+1198,IT,QA Engineer,Male,32,2019-02-08,6.9,Bachelor,Married,Travel_Frequently,Yes,6,1,3,13635,Yes
+1199,HR,HR Manager,Female,53,2014-07-05,11.5,Master,Divorced,Travel_Frequently,No,2,3,4,10861,Yes
+1200,IT,Software Engineer,Female,55,2018-07-04,7.5,Bachelor,Married,Travel_Rarely,Yes,2,4,3,13176,No
+1201,HR,HR Specialist,Female,35,2017-09-15,8.3,Bachelor,Married,Travel_Rarely,Yes,7,3,2,7360,Yes
+1202,Finance,Financial Analyst,Male,42,2020-04-21,5.7,Bachelor,Single,Non-Travel,No,4,2,4,11040,No
+1203,IT,IT Manager,Female,51,2009-11-29,16.1,Bachelor,Married,Travel_Frequently,No,9,4,4,12852,No
+1204,IT,Data Analyst,Male,34,2013-03-17,12.8,Bachelor,Divorced,Travel_Rarely,No,5,2,4,13189,No
+1205,R&D,R&D Manager,Female,60,2010-10-23,15.2,PhD,Married,Travel_Rarely,Yes,30,4,4,11803,No
+1206,Finance,Finance Manager,Male,56,2016-04-22,9.7,Master,Single,Travel_Rarely,No,7,2,1,9844,No
+1207,R&D,R&D Manager,Female,39,2010-01-04,16.0,Bachelor,Married,Travel_Rarely,Yes,23,1,4,11228,No
+1208,Sales,Sales Manager,Female,41,2021-03-15,4.8,Bachelor,Married,Travel_Rarely,No,13,4,2,9801,No
+1209,Sales,Sales Executive,Female,49,2008-02-11,17.9,Bachelor,Single,Travel_Rarely,No,13,1,3,11198,No
+1210,R&D,Lab Technician,Female,44,2025-09-13,0.3,Bachelor,Married,Travel_Frequently,No,8,3,3,11204,No
+1211,Finance,Financial Analyst,Male,54,2016-05-28,9.6,Master,Married,Travel_Rarely,No,26,1,3,11152,No
+1212,Sales,Account Manager,Male,22,2025-02-06,0.9,Bachelor,Married,Travel_Rarely,No,29,2,4,8858,No
+1213,Sales,Sales Executive,Male,29,2023-01-01,3.0,Master,Single,Non-Travel,No,26,3,1,8860,Yes
+1214,IT,Data Analyst,Female,43,2009-05-30,16.6,High School,Single,Non-Travel,No,28,1,4,13451,No
+1215,R&D,R&D Manager,Female,53,2019-05-28,6.6,Master,Single,Non-Travel,No,2,4,3,9979,No
+1216,IT,QA Engineer,Male,30,2021-02-07,4.9,Bachelor,Single,Non-Travel,No,23,4,1,12169,No
+1217,IT,Data Analyst,Male,35,2021-04-21,4.7,Bachelor,Married,Travel_Rarely,No,9,1,3,12977,Yes
+1218,R&D,Lab Technician,Male,29,2021-03-15,4.8,Master,Single,Travel_Rarely,No,30,3,2,8971,No
+1219,R&D,R&D Manager,Female,28,2025-11-25,0.1,Bachelor,Divorced,Travel_Rarely,No,13,3,3,11600,No
+1220,IT,IT Manager,Female,32,2020-01-02,6.0,Master,Married,Travel_Rarely,No,12,4,4,12157,No
+1221,Finance,Financial Analyst,Female,60,2019-04-22,6.7,Bachelor,Single,Non-Travel,No,18,3,3,9682,No
+1222,R&D,Research Scientist,Female,32,2016-08-09,9.4,Master,Divorced,Non-Travel,No,13,1,2,11086,No
+1223,R&D,Lab Technician,Female,25,2024-05-26,1.6,Bachelor,Married,Travel_Rarely,No,1,2,3,11871,Yes
+1224,IT,QA Engineer,Female,25,2022-10-20,3.2,Bachelor,Single,Travel_Rarely,Yes,4,1,4,13539,No
+1225,Finance,Finance Manager,Female,29,2018-07-04,7.5,PhD,Single,Travel_Rarely,No,2,2,2,9769,No
+1226,IT,Software Engineer,Male,42,2017-11-27,8.1,Bachelor,Married,Non-Travel,No,28,2,3,11538,No
+1227,Finance,Accountant,Female,57,2013-10-22,12.2,PhD,Single,Non-Travel,No,8,1,3,10404,No
+1228,Finance,Finance Manager,Female,41,2022-01-01,4.0,Master,Single,Non-Travel,No,28,3,2,9756,Yes
+1229,Sales,Account Manager,Male,43,2006-10-24,19.2,PhD,Single,Non-Travel,No,16,1,3,9582,No
+1230,Finance,Financial Analyst,Male,57,2021-07-03,4.5,Master,Divorced,Non-Travel,No,9,4,3,9544,No
+1231,R&D,Lab Technician,Female,41,2015-09-16,10.3,Bachelor,Single,Travel_Rarely,Yes,18,1,4,13516,Yes
+1232,R&D,R&D Manager,Female,26,2021-08-08,4.4,Bachelor,Single,Travel_Rarely,No,18,2,3,11709,No
+1233,HR,HR Manager,Male,50,2020-02-08,5.9,Master,Married,Travel_Frequently,No,19,3,4,6921,No
+1234,R&D,R&D Manager,Female,30,2025-08-07,0.4,Master,Married,Non-Travel,No,28,1,4,11653,No
+1235,Sales,Sales Manager,Male,46,2006-10-24,19.2,Bachelor,Married,Travel_Frequently,Yes,17,4,3,12383,No
+1236,IT,IT Manager,Female,53,2022-09-14,3.3,High School,Divorced,Travel_Rarely,No,8,4,4,13590,No
+1237,IT,Software Engineer,Female,35,2023-05-27,2.6,Bachelor,Married,Travel_Rarely,No,6,4,3,13471,No
+1238,R&D,Lab Technician,Female,29,2018-03-16,7.8,Bachelor,Single,Travel_Rarely,No,11,1,3,10873,No
+1239,Finance,Finance Manager,Male,37,2018-09-15,7.3,Master,Married,Travel_Rarely,No,28,2,3,12241,No
+1240,Finance,Financial Analyst,Female,47,2020-08-08,5.4,Bachelor,Single,Non-Travel,No,24,1,3,8555,Yes
+1241,Sales,Account Manager,Male,37,2023-10-20,2.2,Master,Single,Travel_Rarely,No,26,1,4,7368,No
+1242,Sales,Account Manager,Female,59,2015-03-17,10.8,Master,Single,Non-Travel,No,4,2,3,11778,No
+1243,R&D,Lab Technician,Female,42,2010-02-10,15.9,Bachelor,Married,Non-Travel,Yes,30,3,3,10796,No
+1244,Sales,Sales Manager,Female,54,2006-09-18,19.3,High School,Married,Travel_Rarely,No,16,3,3,12008,No
+1245,IT,Data Analyst,Female,37,2014-07-05,11.5,High School,Single,Non-Travel,No,1,4,3,11306,No
+1246,Sales,Sales Manager,Female,42,2018-11-27,7.1,Master,Married,Non-Travel,No,17,4,3,9174,No
+1247,IT,IT Manager,Male,56,2018-10-21,7.2,Master,Married,Travel_Frequently,No,18,3,3,12660,No
+1248,IT,QA Engineer,Female,38,2009-09-17,16.3,Bachelor,Married,Non-Travel,Yes,18,3,3,13237,No
+1249,Sales,Account Manager,Male,22,2024-12-31,1.0,PhD,Single,Travel_Rarely,No,18,2,3,9617,Yes
+1250,IT,QA Engineer,Female,29,2023-01-01,3.0,Bachelor,Single,Travel_Frequently,No,17,4,4,10836,No
+1251,Marketing,Content Creator,Male,39,2022-03-15,3.8,High School,Married,Non-Travel,No,1,1,4,7627,Yes
+1252,IT,Software Engineer,Male,44,2013-09-16,12.3,Bachelor,Married,Travel_Rarely,No,7,1,2,14096,No
+1253,IT,Data Analyst,Male,39,2008-04-24,17.7,PhD,Married,Travel_Rarely,Yes,11,1,4,14326,No
+1254,Sales,Account Manager,Female,30,2022-10-20,3.2,Master,Married,Travel_Rarely,Yes,24,3,3,7161,No
+1255,HR,HR Specialist,Female,48,2020-07-03,5.5,High School,Single,Non-Travel,No,8,4,3,10094,No
+1256,R&D,Lab Technician,Female,52,2010-01-04,16.0,Master,Married,Travel_Frequently,Yes,3,3,4,13261,No
+1257,Marketing,Marketing Manager,Female,46,2008-01-05,18.0,Bachelor,Single,Non-Travel,Yes,1,1,3,8961,Yes
+1258,HR,HR Manager,Female,31,2018-04-22,7.7,Bachelor,Married,Travel_Frequently,No,14,3,3,10157,Yes
+1259,Marketing,Marketing Specialist,Female,47,2012-09-16,13.3,Master,Married,Non-Travel,No,2,3,3,10910,No
+1260,Sales,Account Manager,Male,37,2014-07-05,11.5,Bachelor,Single,Travel_Frequently,No,13,2,1,11368,No
+1261,R&D,Lab Technician,Male,56,2021-02-07,4.9,Master,Single,Travel_Rarely,No,23,3,3,9983,No
+1262,Marketing,Marketing Specialist,Male,30,2025-09-13,0.3,Bachelor,Married,Non-Travel,Yes,29,4,4,7244,No
+1263,IT,Software Engineer,Male,33,2017-09-15,8.3,PhD,Single,Travel_Rarely,No,24,1,1,11087,No
+1264,Sales,Account Manager,Male,37,2025-11-25,0.1,Bachelor,Single,Travel_Rarely,No,24,2,3,9295,Yes
+1265,R&D,Lab Technician,Female,27,2020-11-26,5.1,Master,Married,Travel_Rarely,Yes,14,1,4,12544,Yes
+1266,HR,HR Specialist,Male,29,2022-11-26,3.1,Bachelor,Married,Travel_Frequently,Yes,19,1,3,8643,No
+1267,HR,HR Specialist,Female,55,2008-09-17,17.3,Master,Divorced,Travel_Rarely,No,21,4,3,9251,No
+1268,R&D,Lab Technician,Male,59,2017-05-28,8.6,Bachelor,Single,Travel_Rarely,No,26,3,3,12209,No
+1269,Marketing,Marketing Manager,Female,37,2013-01-03,13.0,Bachelor,Divorced,Travel_Rarely,No,16,3,2,11160,No
+1270,IT,Software Engineer,Male,38,2017-01-02,9.0,Master,Married,Travel_Rarely,No,3,3,2,11290,No
+1271,Finance,Finance Manager,Female,38,2024-12-31,1.0,Master,Divorced,Travel_Rarely,No,1,4,3,9182,No
+1272,Sales,Sales Manager,Male,33,2016-05-28,9.6,High School,Divorced,Travel_Frequently,No,25,2,3,8778,No
+1273,HR,Recruiter,Female,53,2013-04-23,12.7,Master,Married,Travel_Frequently,Yes,28,3,1,8330,Yes
+1274,Marketing,Marketing Manager,Male,49,2018-04-22,7.7,Bachelor,Single,Travel_Frequently,Yes,25,2,3,9134,No
+1275,R&D,Research Scientist,Female,22,2025-02-06,0.9,Bachelor,Single,Non-Travel,Yes,23,1,2,9591,Yes
+1276,R&D,Lab Technician,Female,42,2006-05-31,19.6,High School,Single,Non-Travel,No,16,2,3,13717,No
+1277,R&D,Lab Technician,Female,27,2024-01-01,2.0,Master,Single,Travel_Rarely,Yes,5,3,3,9823,No
+1278,IT,Software Engineer,Female,32,2021-09-14,4.3,Master,Married,Non-Travel,Yes,14,4,3,12624,No
+1279,Marketing,Marketing Specialist,Male,48,2016-01-03,10.0,Bachelor,Married,Travel_Frequently,No,2,4,4,7837,Yes
+1280,R&D,Research Scientist,Female,47,2022-01-01,4.0,PhD,Married,Travel_Rarely,No,14,2,3,12414,No
+1281,IT,Software Engineer,Male,41,2019-05-28,6.6,High School,Married,Non-Travel,No,26,4,4,13812,No
+1282,IT,Software Engineer,Female,49,2021-03-15,4.8,High School,Married,Travel_Rarely,Yes,2,2,3,10471,Yes
+1283,Sales,Sales Executive,Male,44,2016-10-22,9.2,Master,Single,Travel_Rarely,No,4,4,3,11570,No
+1284,Marketing,Marketing Manager,Female,31,2021-03-15,4.8,High School,Married,Travel_Rarely,No,14,1,4,8669,No
+1285,IT,QA Engineer,Female,58,2021-10-20,4.2,PhD,Married,Non-Travel,No,12,4,3,10954,No
+1286,Sales,Account Manager,Male,48,2018-04-22,7.7,Bachelor,Single,Non-Travel,No,27,4,3,8255,No
+1287,IT,IT Manager,Male,35,2024-02-07,1.9,Master,Married,Travel_Rarely,No,19,3,3,10655,No
+1288,Finance,Accountant,Female,53,2010-02-10,15.9,Master,Single,Non-Travel,No,2,3,2,11125,No
+1289,Sales,Account Manager,Female,27,2023-02-07,2.9,Bachelor,Married,Travel_Frequently,Yes,20,3,3,8170,No
+1290,IT,IT Manager,Female,47,2016-08-09,9.4,Bachelor,Divorced,Non-Travel,Yes,4,2,3,14495,Yes
+1291,R&D,R&D Manager,Female,22,2025-05-26,0.6,Bachelor,Single,Travel_Frequently,Yes,15,3,3,11183,No
+1292,IT,QA Engineer,Female,44,2013-08-10,12.4,Master,Married,Travel_Frequently,Yes,23,1,3,14313,No
+1293,Sales,Account Manager,Female,43,2021-01-01,5.0,Bachelor,Single,Non-Travel,Yes,29,4,3,9044,No
+1294,IT,Data Analyst,Female,45,2007-08-13,18.4,Master,Married,Non-Travel,No,20,2,1,12391,Yes
+1295,Sales,Sales Executive,Female,48,2025-04-20,0.7,Master,Single,Travel_Frequently,No,3,3,3,9972,No
+1296,Sales,Account Manager,Female,57,2023-01-01,3.0,Bachelor,Single,Travel_Rarely,Yes,10,2,2,9966,Yes
+1297,Sales,Sales Executive,Male,31,2024-07-02,1.5,Bachelor,Married,Travel_Rarely,No,16,3,2,6953,No
+1298,HR,Recruiter,Female,30,2020-09-14,5.3,Bachelor,Single,Travel_Frequently,Yes,5,1,3,8068,Yes
+1299,HR,HR Manager,Male,33,2025-08-07,0.4,Master,Married,Travel_Rarely,No,4,4,4,6608,No
+1300,IT,Data Analyst,Male,59,2008-10-23,17.2,PhD,Married,Non-Travel,No,25,1,4,15306,No
+1301,IT,QA Engineer,Female,51,2023-09-14,2.3,Bachelor,Married,Non-Travel,No,26,2,4,13314,Yes
+1302,IT,Software Engineer,Female,53,2017-07-04,8.5,Bachelor,Married,Travel_Rarely,No,9,4,4,11078,No
+1303,IT,IT Manager,Female,39,2024-09-13,1.3,Bachelor,Single,Travel_Frequently,Yes,12,3,2,10401,No
+1304,IT,IT Manager,Female,59,2007-07-07,18.5,Bachelor,Married,Travel_Rarely,Yes,28,1,3,16127,Yes
+1305,Sales,Account Manager,Male,40,2016-09-15,9.3,Master,Single,Travel_Frequently,No,12,2,2,11517,Yes
+1306,IT,Software Engineer,Female,41,2016-05-28,9.6,PhD,Married,Travel_Rarely,No,2,1,3,11215,No
+1307,IT,QA Engineer,Male,31,2017-07-04,8.5,Master,Married,Travel_Frequently,No,10,4,3,12300,No
+1308,Sales,Sales Manager,Male,33,2022-08-08,3.4,Master,Single,Travel_Rarely,No,3,3,3,9995,No
+1309,HR,Recruiter,Male,45,2006-09-18,19.3,Bachelor,Single,Travel_Frequently,Yes,18,4,3,8672,No
+1310,IT,QA Engineer,Female,28,2019-02-08,6.9,High School,Single,Travel_Rarely,Yes,2,4,2,14085,No
+1311,IT,IT Manager,Female,45,2018-08-09,7.4,Bachelor,Married,Travel_Rarely,No,14,2,3,13096,No
+1312,Marketing,Content Creator,Male,35,2012-05-29,13.6,Bachelor,Married,Non-Travel,No,13,2,4,9814,Yes
+1313,HR,HR Specialist,Female,41,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,No,28,1,3,9502,No
+1314,Sales,Sales Executive,Male,28,2019-08-09,6.4,Master,Married,Travel_Frequently,No,2,4,2,10169,No
+1315,IT,QA Engineer,Female,42,2015-10-23,10.2,High School,Single,Non-Travel,Yes,15,1,4,14635,Yes
+1316,Sales,Sales Executive,Male,52,2020-08-08,5.4,Bachelor,Married,Travel_Rarely,Yes,18,4,4,7980,No
+1317,Sales,Account Manager,Male,43,2011-04-24,14.7,Master,Divorced,Non-Travel,No,29,2,3,12188,No
+1318,IT,Software Engineer,Female,29,2025-02-06,0.9,Bachelor,Single,Travel_Frequently,No,22,1,3,10368,No
+1319,R&D,Lab Technician,Male,54,2010-07-06,15.5,Bachelor,Single,Non-Travel,No,21,3,3,13169,No
+1320,Sales,Sales Executive,Female,58,2024-04-20,1.7,Bachelor,Single,Travel_Rarely,Yes,1,4,3,7942,No
+1321,HR,HR Specialist,Female,25,2023-05-27,2.6,Master,Married,Travel_Rarely,No,20,4,3,7760,No
+1322,HR,HR Manager,Male,44,2025-10-19,0.2,Bachelor,Married,Travel_Rarely,No,17,3,2,8315,No
+1323,R&D,Research Scientist,Male,44,2018-08-09,7.4,Master,Married,Travel_Rarely,No,23,1,4,9167,No
+1324,Finance,Finance Manager,Female,23,2025-07-02,0.5,High School,Divorced,Travel_Rarely,No,25,2,3,8638,No
+1325,IT,Software Engineer,Female,29,2018-07-04,7.5,High School,Single,Non-Travel,No,11,4,3,11970,No
+1326,R&D,Lab Technician,Female,28,2024-02-07,1.9,High School,Married,Non-Travel,No,23,1,3,8390,Yes
+1327,Sales,Account Manager,Female,41,2020-03-15,5.8,Master,Single,Travel_Rarely,No,27,2,3,8961,No
+1328,Sales,Account Manager,Male,31,2025-08-07,0.4,Master,Married,Travel_Rarely,Yes,26,1,2,10384,Yes
+1329,Finance,Finance Manager,Female,52,2023-10-20,2.2,Bachelor,Divorced,Non-Travel,Yes,24,2,3,8096,No
+1330,HR,HR Manager,Female,35,2019-01-02,7.0,Bachelor,Single,Travel_Rarely,No,3,2,3,6802,No
+1331,Sales,Account Manager,Female,35,2022-04-21,3.7,Bachelor,Single,Travel_Rarely,No,4,3,2,8849,No
+1332,IT,Data Analyst,Male,26,2022-04-21,3.7,Master,Single,Travel_Rarely,No,18,1,4,13994,No
+1333,Sales,Sales Executive,Male,45,2024-01-01,2.0,PhD,Single,Travel_Rarely,No,13,1,3,9654,No
+1334,R&D,R&D Manager,Male,30,2018-08-09,7.4,High School,Single,Travel_Rarely,No,9,3,3,10276,No
+1335,IT,Data Analyst,Female,53,2024-10-19,1.2,Bachelor,Single,Travel_Rarely,No,28,4,3,9911,No
+1336,IT,Data Analyst,Male,56,2016-08-09,9.4,Bachelor,Single,Non-Travel,No,12,2,3,14376,Yes
+1337,Sales,Account Manager,Male,35,2024-01-01,2.0,PhD,Married,Travel_Rarely,No,15,2,3,6858,No
+1338,IT,IT Manager,Female,33,2016-07-04,9.5,Bachelor,Single,Non-Travel,No,10,1,3,13339,No
+1339,R&D,Lab Technician,Male,29,2020-07-03,5.5,PhD,Married,Travel_Frequently,Yes,15,2,4,10236,No
+1340,Finance,Finance Manager,Female,53,2019-10-21,6.2,Bachelor,Single,Travel_Rarely,Yes,15,1,3,11940,No
+1341,IT,Data Analyst,Female,36,2013-02-09,12.9,Master,Single,Non-Travel,No,21,1,3,13237,Yes
+1342,R&D,Lab Technician,Male,37,2024-05-26,1.6,Bachelor,Single,Travel_Frequently,No,25,2,2,11361,No
+1343,Sales,Account Manager,Male,42,2024-08-08,1.4,Bachelor,Married,Travel_Rarely,No,14,1,2,9883,No
+1344,Sales,Account Manager,Male,56,2018-10-21,7.2,Master,Married,Travel_Rarely,No,22,2,3,9823,No
+1345,Sales,Sales Manager,Male,31,2021-05-28,4.6,Bachelor,Married,Travel_Rarely,Yes,13,3,4,8813,No
+1346,Sales,Sales Manager,Male,51,2025-09-13,0.3,Bachelor,Single,Non-Travel,No,23,2,3,7092,No
+1347,IT,QA Engineer,Male,58,2011-09-17,14.3,PhD,Single,Travel_Frequently,No,8,3,3,14673,Yes
+1348,Sales,Sales Executive,Female,32,2019-07-04,6.5,Bachelor,Single,Non-Travel,No,27,2,3,10489,No
+1349,IT,Data Analyst,Female,42,2007-09-18,18.3,PhD,Single,Non-Travel,Yes,20,4,4,13116,No
+1350,R&D,Lab Technician,Male,56,2023-08-08,2.4,Master,Married,Travel_Rarely,No,3,1,3,9142,No
+1351,Finance,Finance Manager,Male,49,2011-01-04,15.0,Master,Divorced,Non-Travel,No,28,1,3,10040,Yes
+1352,Finance,Financial Analyst,Female,33,2014-09-16,11.3,High School,Married,Travel_Frequently,No,4,2,3,11379,No
+1353,Sales,Sales Executive,Male,49,2012-11-28,13.1,Bachelor,Single,Non-Travel,No,23,4,3,12178,Yes
+1354,Finance,Accountant,Male,38,2017-03-16,8.8,Bachelor,Married,Non-Travel,No,27,1,3,11334,No
+1355,IT,QA Engineer,Male,28,2019-11-27,6.1,Bachelor,Single,Travel_Frequently,No,29,3,3,12864,No
+1356,IT,Software Engineer,Female,30,2018-01-02,8.0,Master,Single,Travel_Rarely,No,12,1,1,12501,No
+1357,IT,QA Engineer,Female,26,2023-10-20,2.2,Master,Married,Travel_Rarely,No,2,1,3,11515,No
+1358,Finance,Accountant,Male,44,2017-03-16,8.8,Master,Single,Travel_Frequently,No,13,2,3,12643,No
+1359,HR,HR Specialist,Female,45,2017-11-27,8.1,Bachelor,Married,Travel_Rarely,Yes,28,4,3,9877,Yes
+1360,Sales,Account Manager,Male,40,2024-09-13,1.3,Bachelor,Single,Non-Travel,No,20,2,2,9521,No
+1361,IT,QA Engineer,Male,49,2020-04-21,5.7,High School,Single,Travel_Frequently,Yes,2,4,3,12767,Yes
+1362,Marketing,Content Creator,Male,53,2014-05-29,11.6,High School,Married,Travel_Rarely,No,24,3,3,8289,No
+1363,R&D,Lab Technician,Male,57,2013-03-17,12.8,Bachelor,Married,Non-Travel,No,16,1,3,12111,Yes
+1364,Sales,Sales Manager,Female,41,2025-11-25,0.1,Bachelor,Single,Non-Travel,No,25,2,3,9849,No
+1365,IT,Software Engineer,Female,45,2012-08-10,13.4,PhD,Married,Travel_Rarely,Yes,25,3,3,13129,No
+1366,IT,Data Analyst,Male,54,2023-03-16,2.8,Bachelor,Married,Travel_Rarely,No,14,1,3,13648,No
+1367,Sales,Sales Executive,Male,58,2008-04-24,17.7,Master,Single,Travel_Rarely,Yes,20,2,3,12730,No
+1368,IT,QA Engineer,Female,46,2014-04-23,11.7,High School,Married,Travel_Frequently,No,12,1,3,14457,No
+1369,Sales,Sales Manager,Female,40,2011-08-11,14.4,Bachelor,Single,Travel_Frequently,No,28,1,4,12493,No
+1370,IT,QA Engineer,Male,53,2008-11-29,17.1,Bachelor,Single,Travel_Rarely,No,10,2,3,16024,No
+1371,Finance,Financial Analyst,Male,24,2024-10-19,1.2,Bachelor,Married,Non-Travel,No,22,4,4,11665,No
+1372,R&D,Research Scientist,Male,30,2023-08-08,2.4,Bachelor,Married,Travel_Frequently,No,11,3,4,12155,Yes
+1373,Sales,Sales Manager,Male,58,2020-03-15,5.8,Bachelor,Married,Travel_Rarely,No,21,3,2,9085,No
+1374,Finance,Financial Analyst,Female,56,2025-07-02,0.5,High School,Single,Travel_Rarely,No,5,3,3,9160,No
+1375,IT,Software Engineer,Female,50,2021-02-07,4.9,Bachelor,Single,Non-Travel,No,17,2,2,11103,No
+1376,R&D,Research Scientist,Male,49,2017-10-22,8.2,PhD,Married,Travel_Rarely,No,16,2,3,9943,No
+1377,Finance,Accountant,Female,42,2008-05-30,17.6,Master,Single,Non-Travel,No,28,2,3,13115,No
+1378,Finance,Accountant,Female,39,2022-09-14,3.3,Bachelor,Married,Travel_Rarely,Yes,19,4,2,8233,No
+1379,IT,Software Engineer,Female,56,2008-07-06,17.5,Bachelor,Divorced,Travel_Rarely,Yes,28,2,3,15808,No
+1380,IT,IT Manager,Female,44,2019-05-28,6.6,Master,Single,Travel_Rarely,No,30,3,3,13804,No
+1381,IT,IT Manager,Female,59,2015-08-10,10.4,High School,Married,Travel_Rarely,No,16,4,3,13981,No
+1382,IT,Data Analyst,Male,56,2009-08-12,16.4,Bachelor,Married,Non-Travel,Yes,12,1,3,12414,Yes
+1383,HR,HR Manager,Male,41,2016-07-04,9.5,Bachelor,Married,Travel_Frequently,Yes,21,3,4,7870,Yes
+1384,Sales,Account Manager,Male,29,2025-04-20,0.7,Master,Single,Travel_Frequently,No,2,2,3,8882,No
+1385,R&D,R&D Manager,Female,30,2024-07-02,1.5,Bachelor,Single,Non-Travel,No,12,3,4,11120,No
+1386,IT,Data Analyst,Female,50,2009-05-30,16.6,Master,Single,Travel_Rarely,Yes,2,2,3,15017,No
+1387,Finance,Accountant,Female,56,2024-09-13,1.3,High School,Married,Non-Travel,No,30,4,2,10534,No
+1388,IT,Data Analyst,Female,39,2014-01-03,12.0,Master,Single,Travel_Rarely,No,18,2,4,11888,No
+1389,R&D,Lab Technician,Female,31,2021-11-26,4.1,High School,Married,Travel_Rarely,No,16,2,3,12398,No
+1390,Marketing,Marketing Manager,Female,27,2025-03-14,0.8,High School,Married,Travel_Frequently,Yes,16,3,3,7392,Yes
+1391,IT,IT Manager,Male,58,2010-01-04,16.0,Master,Married,Travel_Rarely,No,9,3,3,12909,No
+1392,R&D,Research Scientist,Male,60,2011-08-11,14.4,Bachelor,Single,Travel_Rarely,Yes,13,2,3,11335,No
+1393,R&D,Research Scientist,Male,49,2007-07-07,18.5,Bachelor,Married,Travel_Frequently,No,20,1,3,12972,No
+1394,Sales,Sales Executive,Male,35,2020-05-28,5.6,Master,Married,Travel_Rarely,No,28,1,4,10866,No
+1395,R&D,R&D Manager,Female,22,2025-08-07,0.4,Bachelor,Married,Travel_Rarely,No,18,4,3,11400,No
+1396,R&D,Research Scientist,Male,39,2021-11-26,4.1,PhD,Married,Travel_Rarely,No,7,1,1,11303,Yes
+1397,HR,HR Manager,Male,31,2017-10-22,8.2,Master,Married,Travel_Rarely,No,1,2,3,8274,No
+1398,IT,IT Manager,Female,54,2011-03-18,14.8,Bachelor,Single,Non-Travel,No,1,1,4,13480,No
+1399,Marketing,Marketing Manager,Female,30,2018-04-22,7.7,Bachelor,Single,Non-Travel,No,23,2,2,8859,No
+1400,HR,HR Manager,Female,47,2024-12-31,1.0,Bachelor,Married,Non-Travel,Yes,27,1,3,9280,No
+1401,IT,IT Manager,Male,45,2015-03-17,10.8,Bachelor,Married,Travel_Rarely,No,22,3,4,13882,No
+1402,R&D,Research Scientist,Female,46,2021-01-01,5.0,Bachelor,Single,Travel_Rarely,No,12,3,1,8837,No
+1403,R&D,R&D Manager,Male,28,2024-01-01,2.0,Master,Single,Travel_Rarely,Yes,19,2,3,11027,Yes
+1404,HR,HR Specialist,Female,49,2024-03-14,1.8,Bachelor,Single,Travel_Frequently,Yes,12,4,3,9068,No
+1405,R&D,R&D Manager,Female,35,2023-09-14,2.3,Bachelor,Single,Travel_Rarely,No,29,4,4,10938,No
+1406,Sales,Account Manager,Female,29,2022-09-14,3.3,Master,Single,Non-Travel,Yes,2,3,4,9156,No
+1407,IT,QA Engineer,Male,52,2014-04-23,11.7,Bachelor,Single,Travel_Frequently,No,10,4,3,15134,No
+1408,R&D,Lab Technician,Female,53,2009-04-24,16.7,Master,Divorced,Non-Travel,No,13,4,3,11755,No
+1409,Sales,Account Manager,Female,58,2007-08-13,18.4,Bachelor,Married,Non-Travel,No,28,4,1,10568,No
+1410,Sales,Account Manager,Male,28,2022-11-26,3.1,Master,Married,Travel_Rarely,No,21,4,3,10725,Yes
+1411,HR,HR Specialist,Male,31,2016-03-16,9.8,PhD,Single,Travel_Rarely,Yes,19,2,3,10250,No
+1412,R&D,Research Scientist,Female,52,2025-10-19,0.2,Bachelor,Single,Travel_Frequently,Yes,23,1,2,8051,Yes
+1413,Sales,Sales Manager,Male,23,2024-01-01,2.0,Bachelor,Single,Non-Travel,No,16,2,4,8552,No
+1414,IT,QA Engineer,Female,41,2011-08-11,14.4,Bachelor,Divorced,Non-Travel,No,9,2,3,12071,No
+1415,HR,HR Specialist,Female,42,2011-03-18,14.8,Master,Single,Travel_Frequently,No,6,3,3,8803,No
+1416,Sales,Account Manager,Male,32,2020-08-08,5.4,Bachelor,Divorced,Non-Travel,No,15,1,3,8005,Yes
+1417,Sales,Sales Executive,Female,39,2008-09-17,17.3,Bachelor,Married,Travel_Rarely,No,15,4,3,9118,No
+1418,IT,Software Engineer,Female,32,2016-07-04,9.5,Master,Married,Non-Travel,No,29,3,3,14060,No
+1419,R&D,Research Scientist,Female,39,2012-07-05,13.5,Bachelor,Single,Travel_Rarely,No,21,2,3,11059,No
+1420,Finance,Financial Analyst,Male,28,2021-08-08,4.4,PhD,Single,Non-Travel,No,5,2,3,10253,No
+1421,R&D,Research Scientist,Female,24,2025-11-25,0.1,Bachelor,Married,Travel_Rarely,No,5,4,3,9513,No
+1422,Sales,Sales Manager,Female,29,2020-05-28,5.6,Master,Married,Non-Travel,No,11,1,4,9851,No
+1423,Marketing,Marketing Specialist,Male,52,2006-10-24,19.2,Bachelor,Single,Travel_Rarely,No,12,4,4,12359,No
+1424,HR,HR Manager,Male,29,2018-10-21,7.2,Bachelor,Single,Travel_Frequently,No,3,3,4,7201,No
+1425,Finance,Accountant,Male,26,2023-04-21,2.7,Bachelor,Married,Travel_Rarely,Yes,12,3,2,7949,No
+1426,Marketing,Content Creator,Female,29,2023-09-14,2.3,Master,Single,Travel_Rarely,Yes,4,1,2,7259,No
+1427,Sales,Account Manager,Female,25,2024-03-14,1.8,PhD,Married,Travel_Rarely,No,25,2,3,7594,No
+1428,IT,Software Engineer,Male,49,2024-04-20,1.7,Bachelor,Married,Travel_Frequently,No,14,4,4,12731,No
+1429,R&D,R&D Manager,Female,47,2024-12-31,1.0,Master,Married,Travel_Frequently,No,8,4,4,9830,No
+1430,Finance,Finance Manager,Male,27,2022-09-14,3.3,Master,Single,Non-Travel,No,11,1,3,9772,Yes
+1431,Marketing,Content Creator,Female,59,2009-04-24,16.7,Master,Divorced,Travel_Rarely,No,29,3,3,12178,No
+1432,IT,IT Manager,Male,26,2024-02-07,1.9,High School,Single,Non-Travel,No,30,4,3,12582,No
+1433,HR,Recruiter,Male,52,2013-03-17,12.8,Bachelor,Divorced,Travel_Frequently,No,15,2,3,11141,No
+1434,HR,HR Manager,Male,37,2025-05-26,0.6,Master,Married,Travel_Rarely,No,6,2,3,8083,No
+1435,Sales,Sales Executive,Female,50,2019-05-28,6.6,Bachelor,Divorced,Travel_Rarely,No,11,3,3,8451,No
+1436,Marketing,Marketing Manager,Female,24,2023-05-27,2.6,Bachelor,Single,Travel_Frequently,Yes,1,2,2,8208,No
+1437,IT,Data Analyst,Female,26,2023-10-20,2.2,Bachelor,Married,Travel_Rarely,No,10,2,3,11550,No
+1438,R&D,Lab Technician,Female,46,2012-10-22,13.2,Bachelor,Single,Travel_Rarely,No,13,1,3,11459,No
+1439,HR,Recruiter,Female,43,2023-07-03,2.5,Bachelor,Divorced,Non-Travel,No,9,1,3,6102,No
+1440,IT,Data Analyst,Female,43,2010-04-24,15.7,Master,Married,Travel_Rarely,No,2,2,2,12450,No
+1441,Sales,Sales Manager,Male,54,2013-02-09,12.9,Bachelor,Single,Travel_Rarely,Yes,6,1,4,10964,Yes
+1442,Finance,Finance Manager,Male,48,2023-02-07,2.9,PhD,Married,Travel_Rarely,No,1,3,3,11475,No
+1443,Sales,Sales Executive,Female,27,2024-11-25,1.1,Bachelor,Divorced,Travel_Frequently,Yes,5,4,3,10600,No
+1444,HR,Recruiter,Male,24,2025-04-20,0.7,Bachelor,Married,Travel_Rarely,No,10,1,3,6622,Yes
+1445,R&D,Research Scientist,Male,44,2012-08-10,13.4,Bachelor,Divorced,Travel_Rarely,No,5,3,3,11660,No
+1446,R&D,Lab Technician,Male,29,2023-07-03,2.5,Bachelor,Married,Travel_Rarely,No,24,3,3,8415,No
+1447,HR,HR Manager,Male,29,2021-04-21,4.7,Master,Married,Travel_Rarely,Yes,19,1,4,6250,No
+1448,Marketing,Content Creator,Male,54,2015-09-16,10.3,Bachelor,Single,Non-Travel,No,15,1,3,8435,No
+1449,Sales,Sales Manager,Male,43,2007-03-19,18.8,High School,Single,Non-Travel,No,25,4,3,10817,No
+1450,Sales,Sales Manager,Female,55,2021-05-28,4.6,PhD,Married,Travel_Rarely,No,7,1,3,10170,No
+1451,Sales,Sales Manager,Male,32,2017-01-02,9.0,Master,Divorced,Travel_Rarely,No,15,2,2,9157,No
+1452,HR,HR Specialist,Male,25,2022-07-03,3.5,Master,Single,Travel_Rarely,Yes,30,1,3,6399,Yes
+1453,Marketing,Marketing Manager,Male,40,2009-09-17,16.3,PhD,Single,Travel_Rarely,No,14,3,3,9994,No
+1454,IT,IT Manager,Female,36,2016-01-03,10.0,Master,Married,Travel_Rarely,Yes,22,3,3,14635,No
+1455,Sales,Sales Manager,Male,53,2019-08-09,6.4,Bachelor,Married,Travel_Frequently,No,22,2,4,10285,Yes
+1456,IT,QA Engineer,Female,50,2018-03-16,7.8,Bachelor,Married,Non-Travel,No,13,3,3,11273,No
+1457,R&D,R&D Manager,Female,45,2011-11-29,14.1,Bachelor,Married,Travel_Rarely,No,9,3,3,12293,No
+1458,HR,HR Manager,Female,33,2016-02-09,9.9,PhD,Single,Travel_Rarely,Yes,9,2,4,8273,No
+1459,Sales,Account Manager,Female,38,2023-09-14,2.3,PhD,Married,Travel_Rarely,No,17,1,3,7589,No
+1460,HR,Recruiter,Male,58,2009-03-18,16.8,Master,Single,Non-Travel,No,28,3,3,9455,No
+1461,IT,QA Engineer,Female,34,2017-01-02,9.0,Bachelor,Single,Travel_Rarely,No,13,3,3,13673,No
+1462,HR,HR Manager,Male,42,2019-04-22,6.7,Master,Married,Non-Travel,No,13,2,3,9820,No
+1463,Finance,Accountant,Male,44,2012-09-16,13.3,Master,Single,Travel_Rarely,No,24,2,3,11917,No
+1464,Sales,Account Manager,Female,51,2018-10-21,7.2,Master,Single,Travel_Rarely,No,15,4,3,7823,No
+1465,IT,Software Engineer,Female,32,2024-07-02,1.5,Master,Married,Travel_Rarely,No,8,1,2,11774,No
+1466,Marketing,Marketing Specialist,Female,37,2010-01-04,16.0,Bachelor,Married,Travel_Frequently,No,20,2,3,9172,Yes
+1467,Sales,Sales Executive,Female,25,2025-11-25,0.1,Master,Single,Travel_Rarely,No,29,2,4,8202,Yes
+1468,Sales,Sales Manager,Female,55,2017-08-09,8.4,Master,Single,Non-Travel,Yes,9,4,1,11076,No
+1469,Finance,Finance Manager,Female,22,2025-10-19,0.2,Bachelor,Single,Travel_Rarely,Yes,11,3,3,11178,Yes
+1470,Finance,Finance Manager,Male,39,2009-09-17,16.3,Master,Married,Travel_Rarely,No,30,2,3,11621,No
+1471,Sales,Account Manager,Male,37,2015-09-16,10.3,Bachelor,Married,Non-Travel,No,19,1,4,11473,Yes
+1472,R&D,Lab Technician,Female,49,2012-09-16,13.3,High School,Single,Travel_Rarely,No,20,2,2,10102,Yes
+1473,IT,IT Manager,Male,55,2025-11-25,0.1,Bachelor,Single,Travel_Rarely,No,25,2,2,9777,No
+1474,R&D,Lab Technician,Female,37,2025-12-31,0.0,Master,Married,Non-Travel,No,17,3,3,11011,Yes
+1475,Marketing,Marketing Manager,Female,37,2021-07-03,4.5,Bachelor,Married,Travel_Rarely,Yes,21,4,3,7638,No
+1476,Sales,Sales Executive,Female,45,2019-11-27,6.1,Bachelor,Married,Non-Travel,No,7,2,3,7940,No
+1477,Finance,Financial Analyst,Male,27,2020-02-08,5.9,Bachelor,Single,Non-Travel,No,4,2,4,9072,No
+1478,Marketing,Marketing Manager,Male,57,2025-02-06,0.9,Bachelor,Married,Travel_Rarely,Yes,10,4,3,7137,No
+1479,Sales,Sales Executive,Male,58,2024-11-25,1.1,Master,Married,Travel_Rarely,No,9,1,3,7347,No
+1480,Finance,Financial Analyst,Male,46,2015-08-10,10.4,Master,Married,Travel_Frequently,No,22,3,2,10996,Yes
+1481,Finance,Accountant,Female,46,2013-03-17,12.8,Bachelor,Married,Travel_Rarely,No,20,2,3,10520,No
+1482,R&D,Research Scientist,Female,26,2021-10-20,4.2,Master,Married,Travel_Frequently,No,2,2,2,10221,No
+1483,R&D,Research Scientist,Male,29,2018-03-16,7.8,High School,Married,Travel_Frequently,No,14,4,3,9855,No
+1484,Marketing,Marketing Specialist,Female,26,2025-05-26,0.6,High School,Single,Travel_Rarely,No,15,3,4,8874,No
+1485,Finance,Financial Analyst,Female,25,2023-05-27,2.6,Master,Married,Non-Travel,No,30,4,2,9940,No
+1486,R&D,Lab Technician,Female,42,2016-03-16,9.8,Bachelor,Single,Non-Travel,No,16,1,4,9483,No
+1487,IT,Software Engineer,Female,48,2007-11-30,18.1,Bachelor,Married,Travel_Rarely,No,23,2,2,14825,No
+1488,R&D,Lab Technician,Male,47,2006-02-11,19.9,Master,Single,Travel_Rarely,No,28,1,3,14980,Yes
+1489,Marketing,Marketing Specialist,Male,49,2014-02-09,11.9,Bachelor,Married,Travel_Rarely,No,11,1,3,10404,No
+1490,IT,IT Manager,Female,29,2022-05-27,3.6,PhD,Single,Travel_Rarely,No,15,4,3,10214,No
+1491,Sales,Account Manager,Male,45,2019-10-21,6.2,Master,Single,Non-Travel,No,8,4,2,11055,No
+1492,HR,HR Manager,Female,45,2012-09-16,13.3,High School,Married,Travel_Frequently,No,28,3,4,9115,Yes
+1493,Sales,Sales Executive,Female,43,2018-11-27,7.1,Bachelor,Married,Travel_Rarely,No,14,3,4,7565,No
+1494,Sales,Sales Manager,Female,43,2019-09-15,6.3,Bachelor,Married,Non-Travel,No,13,4,4,10888,No
+1495,R&D,R&D Manager,Female,54,2014-04-23,11.7,Bachelor,Single,Non-Travel,No,4,2,2,10314,No
+1496,HR,Recruiter,Female,48,2016-10-22,9.2,Master,Married,Non-Travel,Yes,16,4,3,9610,No
+1497,Sales,Account Manager,Male,45,2015-10-23,10.2,Master,Married,Non-Travel,Yes,25,1,3,11525,No
+1498,HR,Recruiter,Male,33,2016-02-09,9.9,Master,Married,Travel_Rarely,No,22,1,3,7761,No
+1499,R&D,Lab Technician,Female,40,2010-02-10,15.9,Master,Single,Travel_Rarely,No,17,1,4,10675,Yes
+1500,Sales,Sales Executive,Female,37,2015-01-03,11.0,PhD,Single,Non-Travel,Yes,14,1,3,9193,No
+1501,IT,Data Analyst,Female,29,2024-02-07,1.9,PhD,Single,Travel_Rarely,No,30,3,1,12424,No
+1502,HR,HR Specialist,Female,57,2025-09-13,0.3,Bachelor,Divorced,Non-Travel,No,14,3,3,5568,No
+1503,IT,Data Analyst,Female,49,2018-11-27,7.1,PhD,Single,Travel_Rarely,Yes,24,2,1,12682,Yes
+1504,Finance,Financial Analyst,Female,25,2025-07-02,0.5,Bachelor,Married,Travel_Frequently,Yes,23,4,2,9912,Yes
+1505,Sales,Sales Manager,Female,58,2022-11-26,3.1,PhD,Single,Travel_Frequently,Yes,16,1,1,10476,Yes
+1506,R&D,R&D Manager,Male,48,2022-07-03,3.5,Bachelor,Married,Travel_Rarely,No,23,1,3,10572,No
+1507,IT,QA Engineer,Male,52,2013-07-05,12.5,High School,Married,Travel_Frequently,Yes,24,4,3,12153,No
+1508,R&D,Research Scientist,Male,29,2025-08-07,0.4,Bachelor,Married,Travel_Rarely,Yes,14,1,2,11753,Yes
+1509,Sales,Sales Executive,Male,38,2024-11-25,1.1,High School,Single,Non-Travel,Yes,28,3,3,8775,No
+1510,HR,HR Manager,Female,32,2019-09-15,6.3,Master,Married,Travel_Frequently,No,12,1,3,8458,No
+1511,R&D,R&D Manager,Female,28,2022-03-15,3.8,Bachelor,Married,Travel_Rarely,Yes,28,2,3,11428,No
+1512,HR,HR Specialist,Female,24,2025-11-25,0.1,Bachelor,Single,Travel_Rarely,No,22,3,2,8991,No
+1513,Sales,Sales Executive,Female,29,2021-03-15,4.8,Master,Married,Travel_Rarely,No,2,4,3,10053,No
+1514,Finance,Financial Analyst,Male,37,2012-04-23,13.7,Bachelor,Single,Non-Travel,Yes,8,3,3,13088,No
+1515,Sales,Account Manager,Female,39,2018-07-04,7.5,Master,Divorced,Non-Travel,No,24,4,3,8485,No
+1516,HR,HR Manager,Female,50,2019-08-09,6.4,Bachelor,Married,Travel_Rarely,No,12,3,2,6584,No
+1517,R&D,Lab Technician,Female,23,2024-01-01,2.0,Master,Married,Travel_Rarely,No,27,2,3,10037,No
+1518,Finance,Financial Analyst,Male,32,2018-03-16,7.8,Bachelor,Married,Non-Travel,No,6,1,3,11561,Yes
+1519,Marketing,Marketing Manager,Female,47,2010-11-29,15.1,Bachelor,Married,Non-Travel,No,19,4,4,11328,No
+1520,Finance,Accountant,Male,24,2024-03-14,1.8,Bachelor,Married,Travel_Rarely,No,29,1,3,10599,No
+1521,R&D,R&D Manager,Female,28,2025-09-13,0.3,High School,Single,Non-Travel,No,5,4,3,8162,No
+1522,Sales,Account Manager,Female,26,2023-07-03,2.5,Bachelor,Married,Travel_Rarely,No,3,4,3,10844,No
+1523,IT,IT Manager,Male,50,2011-03-18,14.8,Bachelor,Divorced,Travel_Rarely,No,3,2,1,13666,No
+1524,R&D,R&D Manager,Male,46,2008-10-23,17.2,Master,Married,Non-Travel,Yes,18,1,3,12397,Yes
+1525,R&D,Research Scientist,Male,32,2023-05-27,2.6,High School,Single,Travel_Rarely,No,13,3,4,9859,No
+1526,R&D,R&D Manager,Female,32,2016-04-22,9.7,High School,Married,Travel_Frequently,Yes,21,3,2,12804,No
+1527,Marketing,Marketing Manager,Female,37,2010-10-23,15.2,Master,Married,Non-Travel,No,26,2,3,9917,No
+1528,Marketing,Marketing Manager,Male,43,2014-07-05,11.5,Master,Married,Travel_Frequently,No,15,4,3,10546,No
+1529,Finance,Finance Manager,Male,40,2015-04-23,10.7,Master,Single,Travel_Rarely,No,17,4,3,12151,No
+1530,IT,Data Analyst,Male,60,2011-10-23,14.2,Master,Single,Travel_Rarely,Yes,24,1,3,14184,No
+1531,Marketing,Content Creator,Female,40,2015-05-29,10.6,PhD,Married,Non-Travel,Yes,9,4,4,7989,No
+1532,IT,Software Engineer,Female,53,2014-04-23,11.7,Master,Married,Non-Travel,No,22,3,3,11604,No
+1533,IT,QA Engineer,Female,28,2022-01-01,4.0,PhD,Single,Travel_Rarely,Yes,10,3,4,12239,Yes
+1534,IT,IT Manager,Male,47,2024-02-07,1.9,Master,Married,Travel_Frequently,No,29,4,1,12538,No
+1535,IT,Data Analyst,Female,39,2010-02-10,15.9,Bachelor,Married,Travel_Frequently,No,5,2,3,14398,No
+1536,IT,Software Engineer,Male,51,2013-08-10,12.4,Bachelor,Married,Travel_Rarely,No,21,1,3,14102,Yes
+1537,R&D,R&D Manager,Male,44,2010-03-18,15.8,Master,Married,Travel_Rarely,No,19,2,3,12508,No
+1538,R&D,R&D Manager,Male,43,2019-08-09,6.4,Master,Married,Travel_Rarely,Yes,24,2,4,11111,Yes
+1539,R&D,Lab Technician,Female,60,2025-03-14,0.8,Master,Divorced,Travel_Rarely,No,26,4,3,11526,No
+1540,Sales,Account Manager,Female,39,2013-07-05,12.5,High School,Married,Non-Travel,Yes,9,1,4,9542,No
+1541,Marketing,Marketing Manager,Female,47,2023-10-20,2.2,Bachelor,Married,Travel_Rarely,Yes,13,1,3,9013,Yes
+1542,HR,Recruiter,Male,33,2015-05-29,10.6,PhD,Married,Travel_Rarely,No,10,3,4,9485,No
+1543,R&D,Research Scientist,Male,50,2017-09-15,8.3,PhD,Married,Non-Travel,Yes,27,4,3,10529,No
+1544,Finance,Financial Analyst,Male,58,2021-07-03,4.5,High School,Married,Travel_Rarely,No,6,1,4,10378,No
+1545,IT,IT Manager,Male,53,2016-04-22,9.7,High School,Married,Travel_Frequently,No,7,2,3,14815,No
+1546,IT,IT Manager,Male,46,2009-02-10,16.9,Master,Single,Travel_Rarely,Yes,23,3,3,12529,No
+1547,IT,Software Engineer,Female,59,2024-11-25,1.1,Master,Divorced,Travel_Frequently,Yes,1,2,3,12772,Yes
+1548,Sales,Account Manager,Female,46,2021-01-01,5.0,Bachelor,Married,Non-Travel,No,30,1,3,7767,No
+1549,IT,Data Analyst,Female,23,2024-12-31,1.0,Master,Married,Non-Travel,Yes,16,3,4,11534,Yes
+1550,IT,Software Engineer,Female,55,2024-07-02,1.5,PhD,Single,Non-Travel,No,11,3,3,12022,No
+1551,IT,Software Engineer,Male,58,2019-07-04,6.5,Bachelor,Divorced,Travel_Rarely,Yes,1,2,2,13800,No
+1552,Sales,Account Manager,Female,23,2025-07-02,0.5,Master,Married,Travel_Rarely,No,12,3,3,9639,Yes
+1553,Sales,Sales Manager,Male,41,2014-10-23,11.2,High School,Married,Non-Travel,No,16,2,3,12053,No
+1554,HR,Recruiter,Male,60,2010-08-11,15.4,High School,Married,Travel_Rarely,No,4,3,3,10152,No
+1555,Marketing,Marketing Manager,Male,25,2022-09-14,3.3,Bachelor,Single,Travel_Rarely,No,19,2,3,9764,No
+1556,R&D,R&D Manager,Female,58,2012-04-23,13.7,Master,Single,Travel_Rarely,No,14,2,2,11242,No
+1557,R&D,Lab Technician,Female,41,2019-05-28,6.6,Bachelor,Married,Travel_Rarely,No,28,4,3,9169,No
+1558,R&D,Lab Technician,Female,28,2021-01-01,5.0,Master,Single,Travel_Rarely,Yes,17,3,3,11231,No
+1559,Finance,Finance Manager,Male,46,2014-09-16,11.3,Bachelor,Married,Travel_Rarely,No,16,3,3,10125,No
+1560,Sales,Sales Manager,Female,26,2021-08-08,4.4,Master,Single,Non-Travel,No,26,2,4,7883,No
+1561,Finance,Finance Manager,Male,39,2023-11-26,2.1,Master,Married,Travel_Rarely,No,20,2,3,9030,No
+1562,Sales,Account Manager,Female,22,2025-02-06,0.9,Bachelor,Single,Travel_Rarely,Yes,30,4,3,9912,No
+1563,Sales,Sales Executive,Male,32,2024-04-20,1.7,Master,Married,Travel_Rarely,No,23,1,3,7816,No
+1564,Marketing,Marketing Manager,Female,24,2025-10-19,0.2,Master,Single,Travel_Rarely,No,11,1,3,9838,No
+1565,HR,Recruiter,Female,31,2023-09-14,2.3,Master,Divorced,Travel_Rarely,No,22,3,3,8474,No
+1566,Finance,Accountant,Female,41,2014-07-05,11.5,High School,Single,Travel_Frequently,No,19,4,3,11863,No
+1567,R&D,R&D Manager,Male,43,2019-03-16,6.8,Bachelor,Married,Travel_Rarely,No,22,2,3,9544,No
+1568,R&D,Research Scientist,Male,52,2024-09-13,1.3,Master,Single,Travel_Rarely,No,21,4,4,11184,No
+1569,Sales,Sales Executive,Male,56,2021-01-01,5.0,Master,Married,Travel_Rarely,Yes,28,2,4,11102,No
+1570,R&D,Lab Technician,Male,25,2024-08-08,1.4,PhD,Married,Travel_Rarely,No,18,4,3,9693,No
+1571,Marketing,Marketing Manager,Male,27,2024-07-02,1.5,Bachelor,Married,Travel_Rarely,Yes,6,1,3,10063,No
+1572,IT,Data Analyst,Female,53,2012-11-28,13.1,Bachelor,Married,Travel_Rarely,Yes,7,2,3,13533,No
+1573,R&D,R&D Manager,Male,42,2020-09-14,5.3,Bachelor,Married,Travel_Frequently,No,6,2,4,9918,No
+1574,IT,IT Manager,Male,32,2018-02-08,7.9,Bachelor,Single,Non-Travel,Yes,7,4,1,12431,No
+1575,IT,QA Engineer,Female,54,2018-09-15,7.3,Bachelor,Married,Travel_Rarely,Yes,7,2,3,13578,No
+1576,R&D,Lab Technician,Male,51,2009-03-18,16.8,PhD,Single,Non-Travel,No,28,3,3,14275,No
+1577,Finance,Finance Manager,Male,58,2008-01-05,18.0,High School,Married,Travel_Rarely,No,27,2,3,13995,No
+1578,Sales,Sales Manager,Male,39,2010-09-17,15.3,PhD,Single,Travel_Frequently,Yes,23,4,3,11771,No
+1579,IT,IT Manager,Female,33,2025-07-02,0.5,Master,Married,Travel_Rarely,Yes,16,3,4,12732,Yes
+1580,IT,Data Analyst,Male,24,2024-05-26,1.6,Master,Married,Non-Travel,No,16,3,3,12869,No
+1581,IT,Software Engineer,Male,51,2007-04-25,18.7,Bachelor,Married,Travel_Rarely,No,13,4,3,15619,No
+1582,Finance,Finance Manager,Male,26,2023-07-03,2.5,Bachelor,Single,Travel_Rarely,No,28,3,3,9518,No
+1583,IT,Data Analyst,Female,57,2020-11-26,5.1,Bachelor,Married,Non-Travel,No,18,3,4,12285,No
+1584,IT,IT Manager,Male,50,2007-02-11,18.9,Bachelor,Married,Non-Travel,Yes,19,1,3,12963,No
+1585,IT,QA Engineer,Female,50,2018-03-16,7.8,Master,Married,Non-Travel,No,22,2,3,11571,Yes
+1586,Sales,Sales Executive,Male,35,2015-02-09,10.9,Bachelor,Married,Travel_Frequently,No,4,3,4,9864,Yes
+1587,Finance,Finance Manager,Female,22,2025-03-14,0.8,Bachelor,Divorced,Travel_Rarely,No,23,2,3,11200,No
+1588,R&D,Research Scientist,Male,38,2016-10-22,9.2,Bachelor,Divorced,Travel_Frequently,No,1,1,2,13324,No
+1589,IT,QA Engineer,Female,46,2012-11-28,13.1,Master,Single,Travel_Rarely,Yes,14,3,3,13144,No
+1590,IT,Data Analyst,Male,56,2010-10-23,15.2,Master,Married,Travel_Rarely,Yes,27,4,3,13239,No
+1591,Sales,Sales Manager,Female,39,2024-12-31,1.0,Bachelor,Divorced,Travel_Rarely,No,3,1,4,6660,No
+1592,Marketing,Marketing Manager,Female,26,2023-02-07,2.9,Bachelor,Single,Travel_Rarely,Yes,18,3,3,8880,No
+1593,IT,Software Engineer,Male,31,2021-01-01,5.0,Master,Single,Travel_Rarely,Yes,22,1,3,11543,No
+1594,Marketing,Marketing Specialist,Male,54,2020-09-14,5.3,Bachelor,Single,Travel_Frequently,No,9,3,3,7614,Yes
+1595,Sales,Sales Executive,Female,48,2020-04-21,5.7,PhD,Single,Non-Travel,Yes,10,2,2,10116,No
+1596,IT,Software Engineer,Female,42,2010-07-06,15.5,Bachelor,Divorced,Travel_Rarely,No,26,2,1,13479,Yes
+1597,IT,IT Manager,Male,47,2006-11-30,19.1,Bachelor,Married,Travel_Rarely,Yes,5,1,2,15674,No
+1598,R&D,Research Scientist,Male,25,2024-08-08,1.4,PhD,Married,Travel_Rarely,No,18,1,4,10654,Yes
+1599,Sales,Sales Manager,Female,22,2025-03-14,0.8,Master,Single,Travel_Rarely,No,19,3,3,8644,Yes
+1600,IT,Software Engineer,Female,48,2015-07-05,10.5,High School,Married,Non-Travel,No,22,4,4,11218,No
+1601,R&D,Research Scientist,Female,41,2024-10-19,1.2,Bachelor,Married,Travel_Rarely,No,27,1,3,9039,No
+1602,IT,Software Engineer,Female,26,2023-08-08,2.4,PhD,Married,Travel_Rarely,Yes,9,1,4,9984,No
+1603,Sales,Account Manager,Female,41,2007-05-31,18.6,Master,Single,Travel_Rarely,No,5,4,4,11589,No
+1604,Finance,Accountant,Male,56,2017-02-08,8.9,Bachelor,Married,Travel_Rarely,No,25,3,3,9066,No
+1605,R&D,R&D Manager,Female,27,2022-05-27,3.6,Bachelor,Married,Travel_Rarely,No,29,3,3,9685,No
+1606,HR,Recruiter,Male,48,2025-12-31,0.0,Bachelor,Married,Non-Travel,No,10,1,3,7177,No
+1607,R&D,R&D Manager,Female,45,2022-01-01,4.0,Bachelor,Married,Travel_Rarely,Yes,15,4,4,8818,No
+1608,IT,IT Manager,Male,49,2015-01-03,11.0,Bachelor,Married,Travel_Rarely,No,8,1,4,13464,No
+1609,Sales,Sales Manager,Female,22,2024-12-31,1.0,High School,Married,Travel_Rarely,No,3,2,2,7362,No
+1610,Sales,Account Manager,Female,58,2013-09-16,12.3,PhD,Divorced,Non-Travel,Yes,5,4,2,12039,No
+1611,R&D,Lab Technician,Female,42,2021-07-03,4.5,Bachelor,Divorced,Non-Travel,No,6,1,3,9750,No
+1612,Sales,Sales Executive,Male,40,2010-01-04,16.0,Bachelor,Divorced,Travel_Rarely,No,9,2,3,12794,No
+1613,Sales,Sales Manager,Male,55,2012-02-10,13.9,Master,Single,Non-Travel,Yes,27,1,2,9057,No
+1614,Finance,Finance Manager,Male,56,2022-03-15,3.8,High School,Married,Non-Travel,No,18,1,3,8915,No
+1615,Sales,Account Manager,Female,30,2023-05-27,2.6,Master,Married,Travel_Rarely,No,22,4,3,7179,No
+1616,Sales,Sales Executive,Male,52,2024-05-26,1.6,Bachelor,Married,Travel_Rarely,Yes,2,4,3,8603,No
+1617,HR,Recruiter,Female,39,2025-05-26,0.6,Master,Married,Non-Travel,No,15,4,3,7936,No
+1618,Sales,Account Manager,Female,50,2021-10-20,4.2,Master,Married,Travel_Rarely,No,14,2,2,7697,No
+1619,R&D,Lab Technician,Male,39,2013-01-03,13.0,High School,Married,Travel_Rarely,No,18,2,3,13285,No
+1620,Sales,Account Manager,Male,56,2007-08-13,18.4,Bachelor,Divorced,Travel_Rarely,No,28,3,3,11526,No
+1621,R&D,Lab Technician,Male,27,2024-04-20,1.7,Bachelor,Single,Non-Travel,No,2,2,4,10436,No
+1622,IT,IT Manager,Female,33,2023-01-01,3.0,Bachelor,Married,Non-Travel,No,1,4,4,13643,No
+1623,Marketing,Content Creator,Female,40,2008-11-29,17.1,Bachelor,Single,Travel_Rarely,No,10,2,3,8689,No
+1624,HR,HR Specialist,Female,22,2025-12-31,0.0,Bachelor,Single,Travel_Rarely,No,29,1,3,8378,No
+1625,R&D,Lab Technician,Male,25,2024-12-31,1.0,Master,Single,Travel_Rarely,Yes,30,1,3,10190,No
+1626,Finance,Accountant,Male,41,2009-03-18,16.8,Master,Single,Travel_Rarely,No,27,4,4,12498,No
+1627,Finance,Financial Analyst,Female,38,2025-11-25,0.1,High School,Divorced,Travel_Rarely,No,27,4,2,7782,Yes
+1628,Marketing,Marketing Specialist,Female,56,2024-02-07,1.9,Bachelor,Divorced,Travel_Rarely,No,7,1,3,8977,No
+1629,Sales,Sales Executive,Female,40,2022-08-08,3.4,Bachelor,Single,Travel_Rarely,Yes,22,3,2,9211,Yes
+1630,IT,Data Analyst,Male,33,2020-10-20,5.2,Bachelor,Single,Non-Travel,No,26,1,4,13274,No
+1631,HR,HR Specialist,Female,34,2013-10-22,12.2,Bachelor,Single,Non-Travel,Yes,12,2,3,10245,No
+1632,Sales,Account Manager,Female,40,2020-03-15,5.8,Master,Single,Travel_Rarely,No,28,3,2,11161,No
+1633,Sales,Account Manager,Female,52,2011-10-23,14.2,Bachelor,Single,Travel_Rarely,Yes,16,3,2,8664,No
+1634,HR,HR Specialist,Male,50,2006-07-07,19.5,Master,Divorced,Non-Travel,No,23,2,2,11049,Yes
+1635,IT,Data Analyst,Male,38,2020-03-15,5.8,Master,Married,Travel_Rarely,No,13,4,4,12064,No
+1636,Sales,Sales Executive,Male,53,2011-07-06,14.5,Bachelor,Single,Non-Travel,No,15,1,1,11533,Yes
+1637,R&D,Research Scientist,Male,37,2019-11-27,6.1,Master,Divorced,Non-Travel,No,23,4,4,11271,Yes
+1638,Sales,Sales Executive,Female,23,2025-02-06,0.9,High School,Divorced,Travel_Rarely,No,3,3,2,9280,No
+1639,Marketing,Marketing Specialist,Female,34,2023-04-21,2.7,Bachelor,Divorced,Travel_Rarely,Yes,10,2,3,6978,No
+1640,HR,Recruiter,Male,53,2019-02-08,6.9,Master,Married,Travel_Frequently,No,5,4,3,6550,No
+1641,Sales,Sales Manager,Male,43,2022-08-08,3.4,High School,Divorced,Non-Travel,Yes,5,3,2,7565,No
+1642,Finance,Finance Manager,Male,48,2011-01-04,15.0,PhD,Single,Non-Travel,Yes,7,1,2,10891,Yes
+1643,R&D,R&D Manager,Male,42,2017-03-16,8.8,Bachelor,Married,Travel_Rarely,Yes,17,1,3,9766,Yes
+1644,Sales,Sales Manager,Female,44,2014-09-16,11.3,Master,Single,Travel_Frequently,No,2,3,3,10063,No
+1645,IT,Software Engineer,Female,28,2019-10-21,6.2,Bachelor,Single,Travel_Rarely,No,15,3,3,12099,No
+1646,Marketing,Marketing Specialist,Female,60,2016-11-27,9.1,Master,Divorced,Travel_Rarely,No,4,4,4,8548,No
+1647,Sales,Account Manager,Male,27,2025-05-26,0.6,Master,Divorced,Travel_Rarely,Yes,5,3,1,8857,Yes
+1648,Sales,Account Manager,Male,42,2019-11-27,6.1,Bachelor,Single,Travel_Rarely,Yes,16,4,3,8581,No
+1649,Sales,Sales Manager,Female,60,2012-02-10,13.9,Master,Single,Travel_Frequently,No,4,4,3,9075,No
+1650,IT,Data Analyst,Female,46,2015-11-28,10.1,Bachelor,Single,Travel_Rarely,No,10,1,1,14083,Yes
+1651,Sales,Sales Executive,Female,39,2022-03-15,3.8,Bachelor,Single,Non-Travel,No,28,3,3,7737,No
+1652,IT,Software Engineer,Female,28,2024-03-14,1.8,Master,Married,Non-Travel,Yes,23,2,3,9801,No
+1653,Sales,Sales Manager,Male,58,2016-09-15,9.3,Master,Married,Travel_Rarely,Yes,14,2,4,9438,Yes
+1654,Marketing,Content Creator,Female,55,2023-02-07,2.9,PhD,Single,Travel_Rarely,No,20,2,3,7290,No
+1655,Marketing,Content Creator,Male,32,2020-01-02,6.0,Bachelor,Single,Travel_Rarely,No,13,1,4,7182,No
+1656,Finance,Financial Analyst,Female,45,2019-07-04,6.5,Master,Married,Travel_Rarely,No,19,1,3,9961,No
+1657,IT,QA Engineer,Male,54,2021-04-21,4.7,Bachelor,Single,Non-Travel,No,7,4,4,10646,No
+1658,IT,Software Engineer,Female,37,2024-10-19,1.2,Bachelor,Married,Travel_Rarely,No,1,3,1,12740,No
+1659,Finance,Accountant,Female,59,2016-02-09,9.9,PhD,Married,Travel_Rarely,Yes,21,1,3,12225,No
+1660,HR,Recruiter,Male,39,2019-03-16,6.8,PhD,Married,Travel_Rarely,Yes,11,3,3,10294,No
+1661,R&D,Lab Technician,Female,35,2013-08-10,12.4,Master,Single,Travel_Rarely,No,16,3,4,10318,Yes
+1662,Sales,Sales Manager,Male,40,2023-09-14,2.3,Bachelor,Married,Travel_Rarely,No,11,2,3,9329,No
+1663,R&D,Lab Technician,Female,36,2021-10-20,4.2,Bachelor,Married,Travel_Rarely,No,1,2,1,10538,No
+1664,IT,QA Engineer,Male,32,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,No,23,4,2,11403,No
+1665,R&D,R&D Manager,Female,26,2021-09-14,4.3,Bachelor,Single,Non-Travel,No,17,4,3,9924,Yes
+1666,Sales,Sales Executive,Female,58,2023-04-21,2.7,Bachelor,Married,Non-Travel,No,7,4,3,10183,No
+1667,Marketing,Marketing Manager,Female,38,2020-08-08,5.4,Master,Married,Travel_Rarely,No,23,3,3,8497,No
+1668,IT,Data Analyst,Male,58,2017-03-16,8.8,Bachelor,Single,Travel_Rarely,No,23,1,3,11314,No
+1669,HR,Recruiter,Female,52,2020-01-02,6.0,Master,Married,Travel_Rarely,Yes,6,4,3,7768,No
+1670,IT,Software Engineer,Female,22,2025-07-02,0.5,Master,Married,Travel_Rarely,No,2,2,3,10718,No
+1671,Sales,Account Manager,Male,50,2006-10-24,19.2,Master,Single,Travel_Rarely,No,16,3,3,9653,No
+1672,Sales,Sales Manager,Female,59,2008-01-05,18.0,Bachelor,Married,Travel_Frequently,No,14,1,3,9477,Yes
+1673,IT,IT Manager,Female,53,2022-02-07,3.9,Bachelor,Single,Non-Travel,No,30,1,3,11212,No
+1674,Finance,Accountant,Female,44,2019-01-02,7.0,Bachelor,Single,Travel_Rarely,No,8,1,3,9193,No
+1675,R&D,Research Scientist,Female,39,2023-09-14,2.3,PhD,Single,Non-Travel,No,13,2,4,9651,No
+1676,IT,Data Analyst,Male,42,2006-07-07,19.5,Master,Single,Travel_Rarely,Yes,30,3,2,15502,No
+1677,IT,IT Manager,Female,49,2024-10-19,1.2,High School,Married,Travel_Rarely,No,1,3,3,10556,No
+1678,R&D,R&D Manager,Male,45,2010-01-04,16.0,Bachelor,Married,Travel_Rarely,No,6,1,2,14344,No
+1679,R&D,R&D Manager,Male,32,2021-02-07,4.9,Master,Married,Travel_Rarely,Yes,18,1,4,11692,No
+1680,HR,HR Manager,Female,58,2024-02-07,1.9,Master,Married,Non-Travel,No,25,4,3,8521,No
+1681,HR,Recruiter,Female,50,2014-07-05,11.5,Bachelor,Married,Travel_Rarely,No,8,2,3,9833,No
+1682,IT,QA Engineer,Female,46,2019-04-22,6.7,Master,Single,Non-Travel,No,4,1,3,11984,Yes
+1683,Sales,Account Manager,Male,33,2019-01-02,7.0,Bachelor,Married,Non-Travel,Yes,12,4,4,8761,No
+1684,IT,Data Analyst,Female,58,2024-04-20,1.7,PhD,Single,Travel_Rarely,No,14,3,2,11568,No
+1685,R&D,Research Scientist,Male,54,2020-05-28,5.6,Master,Married,Non-Travel,No,9,1,3,11328,No
+1686,R&D,Research Scientist,Female,49,2018-11-27,7.1,Bachelor,Single,Travel_Rarely,Yes,21,3,3,12253,No
+1687,Sales,Account Manager,Male,36,2018-01-02,8.0,PhD,Single,Non-Travel,Yes,26,4,4,11641,No
+1688,Finance,Finance Manager,Female,22,2025-04-20,0.7,Bachelor,Married,Travel_Rarely,Yes,16,2,2,9093,Yes
+1689,IT,Software Engineer,Female,28,2025-08-07,0.4,Bachelor,Single,Travel_Rarely,Yes,19,2,3,12222,No
+1690,Sales,Sales Executive,Male,38,2019-11-27,6.1,Bachelor,Single,Non-Travel,No,30,1,3,11065,No
+1691,Marketing,Content Creator,Female,35,2022-10-20,3.2,Master,Married,Travel_Rarely,No,23,1,3,9451,No
+1692,Sales,Sales Manager,Male,31,2021-08-08,4.4,Master,Married,Travel_Rarely,No,19,3,4,9658,No
+1693,R&D,Lab Technician,Female,58,2022-05-27,3.6,High School,Single,Travel_Rarely,Yes,9,4,3,12032,No
+1694,IT,Software Engineer,Female,47,2017-05-28,8.6,Bachelor,Single,Travel_Rarely,No,29,3,2,12158,No
+1695,HR,Recruiter,Female,59,2014-02-09,11.9,Bachelor,Single,Travel_Frequently,No,24,4,1,7637,No
+1696,IT,IT Manager,Male,47,2016-08-09,9.4,Master,Single,Travel_Rarely,No,21,1,4,13823,No
+1697,R&D,R&D Manager,Male,38,2011-02-10,14.9,Master,Single,Travel_Rarely,No,15,1,4,11363,No
+1698,Finance,Finance Manager,Male,28,2019-07-04,6.5,Bachelor,Married,Non-Travel,No,22,4,4,8910,Yes
+1699,Sales,Account Manager,Female,37,2018-04-22,7.7,High School,Single,Travel_Rarely,Yes,18,2,2,7918,No
+1700,R&D,Lab Technician,Female,36,2021-01-01,5.0,Bachelor,Married,Travel_Rarely,Yes,9,4,3,11843,No
+1701,R&D,Lab Technician,Female,45,2012-01-04,14.0,High School,Single,Travel_Frequently,No,1,4,4,13171,No
+1702,HR,Recruiter,Female,33,2021-10-20,4.2,Bachelor,Single,Travel_Rarely,Yes,30,4,3,8567,No
+1703,Sales,Sales Manager,Male,32,2023-03-16,2.8,Master,Single,Non-Travel,No,1,3,3,9867,No
+1704,R&D,Lab Technician,Female,59,2010-08-11,15.4,Master,Married,Travel_Rarely,No,8,4,4,11405,No
+1705,Sales,Sales Manager,Male,25,2022-02-07,3.9,Bachelor,Single,Travel_Frequently,No,27,2,3,10783,No
+1706,IT,IT Manager,Female,28,2019-10-21,6.2,Master,Married,Travel_Frequently,No,1,1,4,12324,No
+1707,R&D,R&D Manager,Male,44,2023-11-26,2.1,High School,Married,Travel_Frequently,Yes,28,4,4,9880,No
+1708,HR,HR Manager,Female,24,2024-05-26,1.6,Bachelor,Married,Travel_Rarely,Yes,20,2,1,8490,No
+1709,Sales,Sales Manager,Male,53,2024-07-02,1.5,High School,Married,Travel_Rarely,Yes,26,2,2,8947,No
+1710,R&D,Lab Technician,Male,34,2025-11-25,0.1,Master,Married,Travel_Rarely,No,20,2,3,11949,No
+1711,IT,IT Manager,Female,24,2025-08-07,0.4,Bachelor,Married,Non-Travel,No,12,3,2,12733,No
+1712,Sales,Sales Manager,Male,50,2022-01-01,4.0,Master,Single,Travel_Rarely,Yes,22,1,3,7879,No
+1713,Sales,Sales Manager,Female,27,2020-03-15,5.8,Bachelor,Married,Travel_Rarely,No,8,4,4,8933,No
+1714,Marketing,Marketing Specialist,Male,59,2009-10-23,16.2,Master,Married,Non-Travel,Yes,15,4,4,10823,No
+1715,IT,QA Engineer,Male,50,2017-08-09,8.4,Master,Divorced,Non-Travel,Yes,20,3,3,14736,No
+1716,IT,QA Engineer,Male,39,2025-04-20,0.7,Bachelor,Single,Non-Travel,No,1,3,3,12397,No
+1717,R&D,Lab Technician,Female,34,2015-02-09,10.9,Master,Married,Travel_Rarely,No,3,1,1,13339,No
+1718,Finance,Finance Manager,Male,26,2024-11-25,1.1,Bachelor,Married,Non-Travel,No,23,4,3,8780,No
+1719,Finance,Financial Analyst,Male,54,2022-09-14,3.3,PhD,Married,Non-Travel,No,22,4,3,10548,No
+1720,HR,HR Specialist,Female,35,2025-07-02,0.5,Bachelor,Single,Travel_Rarely,Yes,26,3,2,7810,Yes
+1721,Finance,Finance Manager,Male,42,2006-01-05,20.0,Master,Single,Travel_Rarely,Yes,6,2,3,13298,No
+1722,Sales,Account Manager,Male,31,2020-01-02,6.0,Bachelor,Divorced,Travel_Rarely,Yes,1,3,3,9026,No
+1723,Finance,Financial Analyst,Female,41,2014-10-23,11.2,Bachelor,Married,Travel_Frequently,Yes,16,1,4,9343,No
+1724,R&D,Research Scientist,Female,28,2019-01-02,7.0,Master,Married,Travel_Rarely,No,26,1,3,11086,No
+1725,HR,Recruiter,Male,23,2024-05-26,1.6,High School,Single,Travel_Rarely,No,14,2,4,8592,No
+1726,Marketing,Content Creator,Female,60,2015-03-17,10.8,PhD,Divorced,Travel_Rarely,No,17,2,2,11172,No
+1727,IT,Software Engineer,Male,57,2017-05-28,8.6,Bachelor,Married,Travel_Rarely,No,27,4,3,13136,No
+1728,Sales,Sales Manager,Male,52,2024-09-13,1.3,High School,Married,Non-Travel,No,5,3,4,9798,No
+1729,Sales,Sales Manager,Female,51,2021-09-14,4.3,Bachelor,Divorced,Non-Travel,No,24,3,2,9319,No
+1730,Sales,Account Manager,Male,40,2023-01-01,3.0,Master,Single,Travel_Rarely,No,4,2,2,10557,Yes
+1731,Sales,Sales Executive,Male,49,2008-02-11,17.9,Master,Divorced,Travel_Rarely,No,15,4,3,9583,No
+1732,Finance,Accountant,Female,44,2007-02-11,18.9,Bachelor,Married,Travel_Rarely,Yes,4,4,3,13384,No
+1733,R&D,R&D Manager,Male,41,2023-05-27,2.6,Bachelor,Married,Travel_Rarely,No,7,4,2,12365,No
+1734,Marketing,Content Creator,Male,58,2024-04-20,1.7,PhD,Single,Non-Travel,No,28,4,3,6916,No
+1735,IT,IT Manager,Male,27,2024-03-14,1.8,Bachelor,Single,Non-Travel,Yes,16,4,4,13500,Yes
+1736,IT,QA Engineer,Female,34,2014-05-29,11.6,High School,Single,Travel_Frequently,No,11,3,2,14281,No
+1737,Sales,Account Manager,Male,30,2021-02-07,4.9,Master,Single,Travel_Rarely,No,7,3,4,8924,Yes
+1738,HR,HR Specialist,Male,58,2007-11-30,18.1,Master,Single,Non-Travel,Yes,29,1,3,8270,Yes
+1739,Finance,Accountant,Female,55,2009-10-23,16.2,Bachelor,Married,Travel_Rarely,No,17,3,3,11411,No
+1740,Marketing,Marketing Specialist,Female,52,2009-11-29,16.1,Master,Married,Travel_Rarely,No,20,3,3,10775,No
+1741,HR,Recruiter,Female,38,2011-07-06,14.5,Bachelor,Divorced,Travel_Frequently,No,2,1,4,7885,No
+1742,IT,Data Analyst,Female,40,2014-05-29,11.6,Master,Married,Travel_Rarely,Yes,24,2,2,14971,No
+1743,Finance,Finance Manager,Male,52,2022-11-26,3.1,Master,Single,Travel_Frequently,No,19,2,2,11578,No
+1744,Finance,Financial Analyst,Male,32,2020-05-28,5.6,Master,Single,Non-Travel,No,26,4,4,8909,No
+1745,Sales,Sales Manager,Female,25,2024-10-19,1.2,Master,Single,Travel_Rarely,Yes,23,3,2,9389,No
+1746,HR,HR Manager,Male,53,2016-08-09,9.4,Master,Single,Travel_Rarely,No,2,1,4,9648,No
+1747,HR,HR Specialist,Male,26,2025-10-19,0.2,Master,Married,Travel_Rarely,No,23,3,3,6183,No
+1748,Marketing,Marketing Manager,Male,50,2016-01-03,10.0,Bachelor,Married,Travel_Rarely,No,19,4,2,8706,No
+1749,IT,IT Manager,Male,46,2023-11-26,2.1,Master,Single,Non-Travel,Yes,22,4,3,11520,No
+1750,Finance,Financial Analyst,Male,31,2021-07-03,4.5,Master,Divorced,Travel_Rarely,Yes,16,2,3,10824,No
+1751,Marketing,Marketing Manager,Male,22,2025-08-07,0.4,Bachelor,Married,Non-Travel,No,14,4,4,7462,No
+1752,IT,IT Manager,Female,55,2021-10-20,4.2,Bachelor,Single,Travel_Rarely,Yes,30,4,3,12757,Yes
+1753,Finance,Financial Analyst,Male,24,2024-05-26,1.6,Master,Married,Travel_Rarely,No,19,1,3,9845,No
+1754,R&D,R&D Manager,Female,33,2014-09-16,11.3,Master,Single,Travel_Rarely,Yes,12,3,3,11830,No
+1755,IT,Software Engineer,Female,29,2020-05-28,5.6,Bachelor,Single,Travel_Frequently,Yes,4,2,4,11906,No
+1756,Sales,Sales Executive,Male,35,2014-07-05,11.5,Master,Married,Non-Travel,Yes,4,4,2,11010,Yes
+1757,R&D,Lab Technician,Female,55,2008-04-24,17.7,Bachelor,Single,Travel_Frequently,No,1,1,3,10786,No
+1758,IT,Software Engineer,Female,34,2014-08-10,11.4,Bachelor,Single,Travel_Rarely,No,16,3,4,12165,No
+1759,IT,IT Manager,Female,45,2011-09-17,14.3,Master,Single,Non-Travel,No,6,1,3,12610,No
+1760,HR,Recruiter,Female,48,2024-07-02,1.5,High School,Single,Travel_Rarely,Yes,6,4,3,6714,No
+1761,IT,Data Analyst,Female,35,2018-08-09,7.4,High School,Married,Non-Travel,No,14,4,3,14260,No
+1762,Sales,Account Manager,Male,60,2018-07-04,7.5,Bachelor,Single,Travel_Rarely,No,16,1,3,9259,No
+1763,Marketing,Marketing Manager,Female,22,2025-09-13,0.3,High School,Single,Travel_Rarely,Yes,1,2,2,9295,Yes
+1764,Marketing,Marketing Specialist,Female,56,2009-05-30,16.6,Bachelor,Married,Travel_Rarely,No,10,3,3,10710,No
+1765,HR,HR Manager,Male,25,2024-10-19,1.2,Master,Married,Travel_Frequently,Yes,28,2,3,8923,Yes
+1766,R&D,Lab Technician,Male,59,2015-05-29,10.6,Bachelor,Married,Travel_Rarely,No,28,3,3,10132,No
+1767,Marketing,Content Creator,Male,50,2019-01-02,7.0,Bachelor,Single,Travel_Frequently,Yes,19,2,4,8711,Yes
+1768,Finance,Finance Manager,Female,41,2011-08-11,14.4,Bachelor,Single,Travel_Frequently,Yes,19,3,4,11253,No
+1769,Finance,Finance Manager,Female,59,2006-02-11,19.9,High School,Married,Travel_Rarely,No,25,2,3,13704,No
+1770,IT,Software Engineer,Female,28,2020-01-02,6.0,PhD,Divorced,Travel_Frequently,No,27,3,3,13358,No
+1771,IT,Data Analyst,Female,59,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,No,9,3,4,13522,No
+1772,IT,IT Manager,Male,47,2017-11-27,8.1,Bachelor,Single,Travel_Frequently,Yes,12,4,3,11585,No
+1773,Sales,Sales Manager,Male,28,2025-02-06,0.9,Master,Single,Travel_Frequently,No,5,4,4,7262,No
+1774,IT,Data Analyst,Female,55,2008-09-17,17.3,Bachelor,Married,Travel_Rarely,Yes,18,4,3,14744,No
+1775,HR,Recruiter,Male,43,2013-11-28,12.1,Master,Married,Travel_Rarely,No,27,4,3,11192,No
+1776,IT,Data Analyst,Male,56,2019-08-09,6.4,Bachelor,Married,Travel_Rarely,No,14,3,4,13342,No
+1777,Finance,Accountant,Female,29,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,No,23,4,4,11442,No
+1778,IT,IT Manager,Female,25,2024-09-13,1.3,Master,Married,Travel_Frequently,No,29,1,4,9798,Yes
+1779,Sales,Sales Manager,Male,46,2008-04-24,17.7,PhD,Divorced,Travel_Rarely,No,9,2,3,12545,No
+1780,IT,QA Engineer,Female,49,2022-08-08,3.4,Bachelor,Single,Travel_Rarely,No,18,4,3,12781,No
+1781,Finance,Accountant,Female,25,2025-09-13,0.3,Bachelor,Single,Travel_Rarely,No,9,4,3,10650,No
+1782,IT,Software Engineer,Male,28,2023-02-07,2.9,Bachelor,Single,Travel_Rarely,No,11,2,3,10863,No
+1783,Sales,Account Manager,Female,57,2017-10-22,8.2,High School,Married,Travel_Rarely,No,5,3,4,9777,No
+1784,Sales,Sales Manager,Male,26,2023-03-16,2.8,Bachelor,Married,Non-Travel,No,28,2,3,8800,No
+1785,Marketing,Marketing Manager,Male,44,2019-08-09,6.4,Master,Divorced,Non-Travel,No,27,2,3,10742,No
+1786,R&D,Research Scientist,Female,39,2013-08-10,12.4,Bachelor,Married,Non-Travel,No,19,4,3,10845,No
+1787,Sales,Account Manager,Female,34,2021-09-14,4.3,Bachelor,Married,Non-Travel,No,4,1,4,9049,No
+1788,Marketing,Marketing Manager,Male,41,2006-05-31,19.6,Master,Single,Non-Travel,No,9,3,3,11224,No
+1789,Marketing,Marketing Manager,Male,39,2011-07-06,14.5,High School,Married,Travel_Rarely,No,1,4,3,8190,No
+1790,Sales,Sales Manager,Male,58,2015-02-09,10.9,Master,Married,Travel_Frequently,No,8,2,3,9467,No
+1791,R&D,Research Scientist,Male,54,2024-07-02,1.5,Master,Single,Travel_Frequently,No,9,2,3,11710,No
+1792,Finance,Financial Analyst,Female,42,2009-11-29,16.1,Master,Single,Non-Travel,Yes,5,1,3,10009,No
+1793,Sales,Sales Manager,Male,37,2015-03-17,10.8,Bachelor,Married,Travel_Frequently,Yes,22,4,2,9787,No
+1794,R&D,Research Scientist,Female,48,2014-08-10,11.4,Bachelor,Single,Travel_Rarely,Yes,15,1,4,13251,Yes
+1795,IT,IT Manager,Male,36,2021-09-14,4.3,Master,Single,Travel_Rarely,No,25,3,3,12203,No
+1796,IT,Software Engineer,Female,48,2020-02-08,5.9,High School,Divorced,Travel_Frequently,No,21,2,4,13516,No
+1797,R&D,Research Scientist,Female,23,2024-12-31,1.0,Bachelor,Married,Travel_Rarely,No,8,3,3,9977,No
+1798,HR,HR Specialist,Male,39,2009-04-24,16.7,Bachelor,Married,Travel_Rarely,No,19,1,4,10039,Yes
+1799,IT,Software Engineer,Female,55,2007-03-19,18.8,Master,Married,Travel_Frequently,No,14,2,3,14212,Yes
+1800,Sales,Account Manager,Female,59,2025-04-20,0.7,Master,Single,Travel_Frequently,Yes,20,1,3,10185,Yes
+1801,Marketing,Content Creator,Male,33,2025-09-13,0.3,Master,Married,Travel_Frequently,No,2,4,3,7449,Yes
+1802,IT,Software Engineer,Female,52,2016-11-27,9.1,High School,Single,Travel_Frequently,Yes,20,1,4,14749,Yes
+1803,Sales,Account Manager,Female,42,2011-05-30,14.6,High School,Married,Non-Travel,Yes,15,1,3,11540,No
+1804,R&D,Research Scientist,Female,54,2017-04-22,8.7,Master,Divorced,Non-Travel,No,12,3,3,10695,No
+1805,Finance,Finance Manager,Male,59,2009-05-30,16.6,Master,Single,Travel_Rarely,No,7,2,3,11992,No
+1806,Sales,Sales Manager,Male,22,2025-05-26,0.6,Bachelor,Married,Non-Travel,No,16,4,3,8034,Yes
+1807,Marketing,Marketing Manager,Female,25,2022-04-21,3.7,Master,Married,Travel_Frequently,No,25,2,3,10125,Yes
+1808,IT,QA Engineer,Male,50,2010-05-30,15.6,Bachelor,Married,Travel_Frequently,No,25,1,3,12890,No
+1809,IT,Software Engineer,Male,58,2011-08-11,14.4,High School,Single,Travel_Rarely,No,7,1,3,12259,No
+1810,Finance,Accountant,Male,32,2025-03-14,0.8,Bachelor,Single,Travel_Rarely,No,21,3,3,10882,No
+1811,Marketing,Content Creator,Male,31,2020-03-15,5.8,Master,Single,Travel_Rarely,No,12,2,2,7385,No
+1812,R&D,Lab Technician,Female,33,2020-11-26,5.1,Master,Married,Travel_Rarely,No,20,4,2,12583,No
+1813,Marketing,Content Creator,Female,24,2023-05-27,2.6,Bachelor,Married,Travel_Rarely,No,25,2,3,6772,No
+1814,R&D,Research Scientist,Male,34,2023-07-03,2.5,Bachelor,Married,Travel_Rarely,No,15,3,3,10483,No
+1815,R&D,Research Scientist,Female,60,2019-07-04,6.5,Bachelor,Married,Travel_Rarely,No,5,4,3,10018,No
+1816,Finance,Accountant,Female,60,2013-10-22,12.2,Master,Single,Non-Travel,No,10,4,1,11131,No
+1817,R&D,Lab Technician,Male,31,2022-04-21,3.7,Bachelor,Divorced,Travel_Rarely,No,5,1,4,12140,No
+1818,Finance,Financial Analyst,Male,54,2019-08-09,6.4,Bachelor,Single,Travel_Frequently,No,22,1,3,9802,Yes
+1819,IT,Software Engineer,Female,47,2009-04-24,16.7,Master,Single,Travel_Rarely,Yes,3,4,4,15520,No
+1820,R&D,Research Scientist,Female,43,2025-03-14,0.8,Master,Single,Travel_Rarely,Yes,15,2,4,10011,No
+1821,IT,Data Analyst,Female,38,2025-08-07,0.4,Bachelor,Married,Travel_Rarely,No,8,4,3,10433,No
+1822,Sales,Account Manager,Female,43,2016-05-28,9.6,Master,Married,Travel_Rarely,No,30,1,2,10517,No
+1823,Marketing,Marketing Specialist,Male,46,2012-11-28,13.1,Master,Single,Travel_Rarely,Yes,9,1,3,9166,Yes
+1824,HR,HR Specialist,Male,48,2019-11-27,6.1,PhD,Single,Travel_Rarely,Yes,1,4,3,8193,Yes
+1825,IT,Software Engineer,Female,23,2025-02-06,0.9,Master,Single,Travel_Rarely,Yes,12,2,2,12530,No
+1826,IT,Software Engineer,Male,56,2017-09-15,8.3,PhD,Divorced,Travel_Rarely,No,25,2,3,11121,No
+1827,Finance,Finance Manager,Male,23,2024-10-19,1.2,High School,Single,Travel_Rarely,Yes,29,1,3,11533,No
+1828,Finance,Accountant,Female,45,2016-11-27,9.1,Bachelor,Married,Travel_Rarely,Yes,28,2,2,10692,No
+1829,R&D,R&D Manager,Male,27,2022-01-01,4.0,Bachelor,Single,Travel_Rarely,Yes,2,4,3,9846,No
+1830,Sales,Sales Executive,Male,51,2014-07-05,11.5,Bachelor,Married,Travel_Rarely,Yes,29,4,1,11943,No
+1831,Marketing,Marketing Specialist,Female,26,2024-02-07,1.9,Master,Married,Non-Travel,No,7,4,1,7456,No
+1832,IT,QA Engineer,Male,59,2011-11-29,14.1,Bachelor,Divorced,Non-Travel,Yes,4,2,3,15235,No
+1833,Finance,Accountant,Female,36,2014-04-23,11.7,Master,Single,Travel_Frequently,Yes,16,2,2,12511,Yes
+1834,IT,IT Manager,Female,28,2022-11-26,3.1,Bachelor,Single,Travel_Rarely,No,24,4,3,13381,No
+1835,IT,Data Analyst,Male,26,2022-03-15,3.8,Bachelor,Single,Travel_Rarely,No,25,3,3,10880,No
+1836,IT,Software Engineer,Male,52,2007-04-25,18.7,Master,Single,Non-Travel,Yes,12,2,3,14468,No
+1837,R&D,R&D Manager,Male,36,2011-07-06,14.5,Master,Married,Travel_Frequently,No,17,1,3,11613,No
+1838,Marketing,Content Creator,Male,32,2016-05-28,9.6,Bachelor,Single,Non-Travel,No,7,1,3,11430,No
+1839,R&D,R&D Manager,Female,54,2022-05-27,3.6,Bachelor,Married,Travel_Frequently,Yes,9,3,1,10801,Yes
+1840,Sales,Account Manager,Male,42,2007-05-31,18.6,High School,Single,Non-Travel,Yes,3,2,3,9347,No
+1841,Sales,Sales Manager,Male,33,2019-05-28,6.6,Bachelor,Divorced,Travel_Frequently,Yes,5,3,3,10175,Yes
+1842,IT,QA Engineer,Male,57,2019-11-27,6.1,PhD,Single,Non-Travel,No,7,2,4,12845,No
+1843,Finance,Accountant,Male,27,2020-08-08,5.4,Bachelor,Married,Non-Travel,Yes,12,1,3,10303,No
+1844,Marketing,Content Creator,Female,28,2019-11-27,6.1,Master,Married,Travel_Rarely,No,30,2,3,7494,No
+1845,Sales,Account Manager,Female,43,2018-05-28,7.6,Master,Single,Travel_Rarely,Yes,6,3,2,11564,No
+1846,HR,HR Specialist,Male,23,2025-11-25,0.1,Bachelor,Single,Non-Travel,Yes,5,2,3,9478,No
+1847,R&D,Lab Technician,Female,36,2016-07-04,9.5,Master,Married,Travel_Rarely,Yes,9,3,2,12645,No
+1848,HR,HR Manager,Male,55,2022-10-20,3.2,Bachelor,Married,Travel_Rarely,Yes,21,2,3,9040,No
+1849,Sales,Sales Executive,Male,60,2012-10-22,13.2,Master,Divorced,Travel_Rarely,No,25,2,3,10272,No
+1850,IT,QA Engineer,Male,27,2023-09-14,2.3,Master,Married,Travel_Rarely,No,16,1,4,11074,No
+1851,R&D,R&D Manager,Female,57,2022-09-14,3.3,Master,Single,Travel_Rarely,Yes,28,4,3,10444,No
+1852,HR,Recruiter,Female,39,2017-11-27,8.1,Master,Single,Travel_Rarely,No,3,1,3,8113,No
+1853,IT,IT Manager,Female,27,2024-05-26,1.6,Master,Married,Travel_Rarely,No,12,3,3,10189,No
+1854,IT,Software Engineer,Male,47,2012-09-16,13.3,High School,Married,Non-Travel,No,14,1,3,13079,No
+1855,HR,HR Manager,Female,46,2009-03-18,16.8,Master,Single,Non-Travel,No,27,4,4,8674,No
+1856,Marketing,Content Creator,Male,57,2024-10-19,1.2,Bachelor,Single,Non-Travel,No,10,1,3,6209,No
+1857,IT,Software Engineer,Male,52,2017-08-09,8.4,Master,Married,Travel_Rarely,Yes,21,4,3,13645,No
+1858,HR,HR Manager,Male,33,2019-08-09,6.4,Master,Single,Travel_Rarely,No,10,4,3,10307,No
+1859,Marketing,Content Creator,Female,33,2014-09-16,11.3,Master,Single,Non-Travel,No,6,2,2,10614,No
+1860,IT,Data Analyst,Female,46,2017-07-04,8.5,PhD,Single,Travel_Rarely,Yes,4,2,3,10802,No
+1861,Finance,Accountant,Male,32,2019-03-16,6.8,Bachelor,Married,Travel_Frequently,No,13,1,3,9114,No
+1862,IT,QA Engineer,Female,47,2021-11-26,4.1,Master,Married,Travel_Rarely,No,30,4,3,10187,No
+1863,R&D,Lab Technician,Female,45,2016-08-09,9.4,Bachelor,Married,Travel_Rarely,No,10,3,3,10621,No
+1864,HR,Recruiter,Female,59,2020-09-14,5.3,Master,Single,Travel_Frequently,Yes,21,1,3,8321,No
+1865,Marketing,Marketing Manager,Male,33,2020-05-28,5.6,Bachelor,Married,Travel_Rarely,No,11,4,4,8937,No
+1866,IT,IT Manager,Male,55,2017-01-02,9.0,Bachelor,Single,Travel_Rarely,Yes,25,4,3,11695,No
+1867,Sales,Sales Manager,Male,27,2023-04-21,2.7,Bachelor,Married,Travel_Rarely,No,20,1,3,10688,No
+1868,Sales,Sales Executive,Male,60,2010-11-29,15.1,Master,Married,Travel_Rarely,No,18,2,1,12713,No
+1869,IT,QA Engineer,Female,37,2015-09-16,10.3,Bachelor,Single,Travel_Rarely,No,6,1,3,13925,No
+1870,R&D,Lab Technician,Female,49,2006-09-18,19.3,Bachelor,Married,Non-Travel,No,29,2,4,11127,No
+1871,Sales,Sales Executive,Male,30,2019-01-02,7.0,Bachelor,Married,Non-Travel,No,15,1,3,8284,No
+1872,IT,IT Manager,Male,27,2022-07-03,3.5,Master,Married,Travel_Rarely,No,11,4,3,11239,No
+1873,IT,Data Analyst,Female,32,2020-07-03,5.5,Master,Single,Travel_Frequently,No,24,1,3,13816,No
+1874,IT,Software Engineer,Male,50,2017-11-27,8.1,Bachelor,Married,Travel_Rarely,No,30,4,3,12061,No
+1875,IT,Data Analyst,Female,51,2013-02-09,12.9,Bachelor,Married,Non-Travel,No,21,2,4,14488,No
+1876,Marketing,Marketing Manager,Female,46,2012-04-23,13.7,High School,Single,Travel_Rarely,No,29,4,4,9145,No
+1877,IT,QA Engineer,Male,59,2020-08-08,5.4,Master,Single,Non-Travel,Yes,22,3,3,11695,Yes
+1878,R&D,Research Scientist,Male,45,2008-02-11,17.9,Bachelor,Single,Non-Travel,No,13,2,4,12864,No
+1879,R&D,Research Scientist,Female,52,2006-04-25,19.7,Master,Divorced,Non-Travel,No,20,3,3,14717,No
+1880,R&D,Lab Technician,Male,43,2009-10-23,16.2,Master,Single,Travel_Rarely,Yes,6,2,3,12152,Yes
+1881,Marketing,Marketing Manager,Male,47,2010-01-04,16.0,Master,Divorced,Travel_Rarely,Yes,23,4,3,10182,No
+1882,IT,QA Engineer,Male,26,2021-01-01,5.0,Master,Married,Travel_Rarely,Yes,11,3,3,13997,No
+1883,Marketing,Marketing Specialist,Female,26,2024-09-13,1.3,Master,Married,Travel_Rarely,No,29,1,2,8200,No
+1884,Marketing,Marketing Specialist,Male,45,2006-02-11,19.9,PhD,Married,Travel_Rarely,No,26,4,3,12809,No
+1885,Marketing,Marketing Manager,Male,28,2025-11-25,0.1,Master,Married,Travel_Rarely,No,23,2,3,6207,Yes
+1886,HR,HR Manager,Female,33,2015-01-03,11.0,Master,Single,Non-Travel,No,2,1,3,8059,No
+1887,R&D,Lab Technician,Male,58,2011-11-29,14.1,Bachelor,Divorced,Travel_Rarely,No,8,2,3,12682,No
+1888,Marketing,Marketing Manager,Male,59,2011-10-23,14.2,Bachelor,Married,Travel_Frequently,No,25,3,1,12123,No
+1889,R&D,Lab Technician,Male,52,2023-11-26,2.1,Bachelor,Married,Travel_Rarely,Yes,13,2,3,8387,No
+1890,IT,Software Engineer,Female,57,2012-01-04,14.0,Bachelor,Single,Non-Travel,No,7,3,3,14653,No
+1891,Marketing,Marketing Specialist,Female,36,2015-08-10,10.4,Bachelor,Married,Travel_Rarely,No,18,3,3,7746,No
+1892,R&D,R&D Manager,Female,47,2009-03-18,16.8,Master,Single,Travel_Rarely,Yes,17,4,4,12478,Yes
+1893,Sales,Sales Executive,Male,27,2020-10-20,5.2,Bachelor,Single,Travel_Rarely,No,13,3,3,7375,No
+1894,Finance,Finance Manager,Male,26,2023-03-16,2.8,PhD,Married,Travel_Rarely,No,26,3,4,9311,No
+1895,IT,IT Manager,Male,24,2023-09-14,2.3,Bachelor,Married,Travel_Rarely,No,18,4,3,10046,No
+1896,Marketing,Content Creator,Female,23,2024-03-14,1.8,High School,Married,Non-Travel,No,6,1,4,7286,No
+1897,Sales,Sales Manager,Female,59,2009-09-17,16.3,PhD,Married,Travel_Frequently,No,2,2,3,11824,No
+1898,Sales,Sales Executive,Female,56,2022-11-26,3.1,Bachelor,Single,Travel_Rarely,Yes,14,1,4,8504,Yes
+1899,Sales,Account Manager,Female,57,2022-03-15,3.8,Master,Married,Non-Travel,No,1,3,3,7407,No
+1900,Sales,Sales Executive,Female,23,2024-07-02,1.5,Bachelor,Divorced,Travel_Rarely,No,8,2,3,7426,No
+1901,Sales,Account Manager,Female,57,2014-10-23,11.2,PhD,Married,Non-Travel,No,19,4,2,11433,No
+1902,R&D,Lab Technician,Female,41,2019-02-08,6.9,Master,Married,Non-Travel,Yes,17,1,3,12898,No
+1903,R&D,Lab Technician,Female,33,2020-03-15,5.8,Master,Married,Travel_Rarely,No,15,1,3,12252,No
+1904,HR,HR Specialist,Female,38,2016-01-03,10.0,High School,Married,Travel_Rarely,No,23,1,3,10998,No
+1905,IT,Software Engineer,Male,43,2012-04-23,13.7,Bachelor,Single,Non-Travel,No,28,4,4,13454,No
+1906,R&D,R&D Manager,Female,40,2011-05-30,14.6,Bachelor,Single,Travel_Rarely,No,13,4,1,11004,No
+1907,Sales,Sales Executive,Female,45,2015-08-10,10.4,Master,Married,Travel_Rarely,No,10,3,3,8772,No
+1908,HR,HR Specialist,Male,51,2019-10-21,6.2,High School,Single,Travel_Rarely,No,14,3,4,7637,No
+1909,R&D,Research Scientist,Male,41,2021-01-01,5.0,High School,Single,Travel_Rarely,No,12,4,1,12395,No
+1910,R&D,Lab Technician,Male,29,2022-08-08,3.4,Master,Single,Non-Travel,No,9,4,3,9744,No
+1911,IT,QA Engineer,Female,42,2024-12-31,1.0,Bachelor,Divorced,Travel_Rarely,No,5,2,3,10991,No
+1912,R&D,Lab Technician,Female,42,2014-11-28,11.1,Bachelor,Divorced,Travel_Rarely,Yes,20,4,3,11877,No
+1913,Marketing,Marketing Manager,Female,59,2017-09-15,8.3,Bachelor,Married,Travel_Rarely,Yes,30,4,3,10640,No
+1914,IT,QA Engineer,Male,58,2021-03-15,4.8,Master,Married,Travel_Rarely,No,8,4,3,12165,No
+1915,Sales,Account Manager,Male,58,2010-05-30,15.6,Bachelor,Single,Travel_Rarely,No,5,1,4,11591,No
+1916,R&D,Research Scientist,Female,47,2016-10-22,9.2,Master,Married,Travel_Frequently,Yes,18,4,1,11580,No
+1917,IT,QA Engineer,Female,46,2025-09-13,0.3,Bachelor,Married,Travel_Rarely,Yes,11,2,3,10880,Yes
+1918,R&D,R&D Manager,Male,29,2024-01-01,2.0,Bachelor,Single,Non-Travel,No,24,4,3,11645,No
+1919,IT,Software Engineer,Male,59,2014-02-09,11.9,PhD,Single,Travel_Rarely,No,30,2,3,12528,Yes
+1920,IT,IT Manager,Male,47,2014-05-29,11.6,Master,Single,Travel_Rarely,No,1,3,2,14694,No
+1921,R&D,Research Scientist,Female,54,2019-07-04,6.5,Master,Married,Travel_Rarely,No,1,3,3,10332,No
+1922,IT,Data Analyst,Female,33,2019-11-27,6.1,Bachelor,Married,Travel_Rarely,No,19,3,4,11316,No
+1923,Sales,Sales Manager,Male,26,2024-12-31,1.0,Bachelor,Divorced,Non-Travel,No,2,2,2,10187,Yes
+1924,R&D,Research Scientist,Female,33,2019-07-04,6.5,Master,Single,Non-Travel,No,22,2,2,11510,Yes
+1925,R&D,Lab Technician,Male,40,2025-03-14,0.8,High School,Married,Non-Travel,No,26,4,2,9689,No
+1926,R&D,Lab Technician,Female,40,2009-08-12,16.4,PhD,Married,Non-Travel,No,9,3,3,10766,No
+1927,IT,QA Engineer,Female,47,2016-08-09,9.4,Master,Married,Non-Travel,No,16,4,3,12282,No
+1928,IT,IT Manager,Female,51,2011-05-30,14.6,High School,Divorced,Non-Travel,No,23,1,3,14684,No
+1929,Sales,Account Manager,Male,24,2023-08-08,2.4,Bachelor,Single,Travel_Rarely,No,15,1,3,8507,No
+1930,Sales,Account Manager,Female,42,2022-02-07,3.9,High School,Married,Travel_Rarely,No,7,3,4,7166,No
+1931,Sales,Sales Executive,Male,47,2011-10-23,14.2,Bachelor,Married,Travel_Rarely,No,17,1,3,10326,No
+1932,HR,HR Manager,Female,29,2018-01-02,8.0,Master,Single,Travel_Rarely,No,29,1,1,10403,No
+1933,R&D,R&D Manager,Male,38,2023-08-08,2.4,High School,Single,Travel_Rarely,Yes,12,4,3,12338,No
+1934,Marketing,Marketing Manager,Male,39,2012-02-10,13.9,Bachelor,Married,Travel_Rarely,No,3,4,4,10793,No
+1935,Marketing,Marketing Manager,Male,37,2025-07-02,0.5,Bachelor,Single,Non-Travel,Yes,7,1,3,7909,No
+1936,Marketing,Marketing Specialist,Female,33,2021-08-08,4.4,Bachelor,Single,Travel_Rarely,No,4,4,2,8356,No
+1937,Finance,Accountant,Female,26,2022-05-27,3.6,Master,Divorced,Non-Travel,No,24,2,3,9129,No
+1938,IT,Data Analyst,Female,60,2025-09-13,0.3,Bachelor,Single,Travel_Rarely,No,3,3,1,9708,No
+1939,Marketing,Content Creator,Male,24,2024-03-14,1.8,Master,Married,Non-Travel,No,17,1,2,7187,No
+1940,HR,HR Specialist,Male,29,2023-09-14,2.3,Bachelor,Single,Non-Travel,Yes,10,4,3,9807,Yes
+1941,Sales,Sales Executive,Male,43,2016-01-03,10.0,Bachelor,Married,Travel_Frequently,No,17,3,3,10615,No
+1942,IT,QA Engineer,Male,32,2020-08-08,5.4,Master,Married,Travel_Frequently,No,26,3,1,12428,No
+1943,Finance,Financial Analyst,Male,39,2013-03-17,12.8,High School,Single,Non-Travel,No,2,3,3,10968,No
+1944,R&D,R&D Manager,Female,39,2021-10-20,4.2,PhD,Single,Travel_Rarely,No,27,2,4,10048,No
+1945,Sales,Sales Manager,Female,24,2025-02-06,0.9,Master,Divorced,Travel_Frequently,No,6,4,3,9439,Yes
+1946,Finance,Finance Manager,Female,38,2015-07-05,10.5,Bachelor,Married,Travel_Rarely,No,25,4,2,9763,No
+1947,Finance,Accountant,Female,33,2018-09-15,7.3,PhD,Married,Travel_Rarely,Yes,8,3,3,11864,No
+1948,Finance,Finance Manager,Female,51,2020-05-28,5.6,Master,Married,Non-Travel,No,17,3,4,11443,No
+1949,Sales,Account Manager,Female,45,2020-08-08,5.4,Bachelor,Married,Non-Travel,No,18,2,1,8692,No
+1950,IT,Software Engineer,Female,22,2025-08-07,0.4,High School,Divorced,Non-Travel,Yes,12,2,2,13050,No
+1951,Finance,Financial Analyst,Female,55,2022-03-15,3.8,Master,Married,Non-Travel,No,26,1,3,11159,Yes
+1952,Sales,Sales Manager,Female,46,2022-09-14,3.3,Bachelor,Married,Travel_Rarely,Yes,5,2,3,9978,No
+1953,Marketing,Content Creator,Male,34,2018-03-16,7.8,Bachelor,Married,Travel_Rarely,No,30,4,3,8626,No
+1954,IT,Data Analyst,Female,28,2019-03-16,6.8,Bachelor,Single,Non-Travel,No,20,4,3,10556,Yes
+1955,R&D,Research Scientist,Male,57,2007-11-30,18.1,Master,Married,Travel_Frequently,No,27,2,3,12679,No
+1956,Sales,Sales Executive,Female,53,2015-04-23,10.7,Master,Single,Travel_Rarely,Yes,6,2,3,8679,Yes
+1957,HR,HR Specialist,Female,28,2025-05-26,0.6,Bachelor,Married,Travel_Frequently,No,7,2,3,9504,No
+1958,IT,IT Manager,Male,29,2020-02-08,5.9,Master,Married,Non-Travel,No,5,1,3,10518,No
+1959,IT,QA Engineer,Female,22,2025-03-14,0.8,Master,Married,Travel_Frequently,No,13,3,3,10125,No
+1960,HR,HR Manager,Female,48,2009-10-23,16.2,Master,Married,Travel_Frequently,Yes,16,1,3,11593,No
+1961,HR,HR Specialist,Male,38,2022-01-01,4.0,Bachelor,Married,Non-Travel,No,25,4,3,9672,No
+1962,R&D,R&D Manager,Male,41,2014-01-03,12.0,Bachelor,Single,Travel_Rarely,No,8,4,4,12596,No
+1963,Finance,Finance Manager,Male,28,2023-07-03,2.5,PhD,Married,Travel_Rarely,No,22,3,2,10264,No
+1964,Finance,Accountant,Male,53,2021-08-08,4.4,Bachelor,Married,Travel_Rarely,No,7,1,2,12121,No
+1965,Sales,Sales Manager,Male,40,2023-02-07,2.9,High School,Single,Non-Travel,No,7,4,3,7647,No
+1966,R&D,R&D Manager,Male,55,2021-11-26,4.1,Bachelor,Married,Non-Travel,Yes,20,1,3,10315,No
+1967,IT,Software Engineer,Female,22,2025-03-14,0.8,Bachelor,Married,Non-Travel,Yes,26,4,3,9869,No
+1968,R&D,Lab Technician,Male,22,2025-05-26,0.6,Bachelor,Single,Travel_Rarely,No,2,4,3,8304,No
+1969,Finance,Financial Analyst,Male,36,2014-01-03,12.0,PhD,Married,Non-Travel,Yes,5,1,3,10734,No
+1970,HR,Recruiter,Female,52,2023-04-21,2.7,Master,Single,Travel_Frequently,No,30,2,2,6932,No
+1971,Sales,Sales Manager,Female,32,2019-02-08,6.9,High School,Divorced,Travel_Rarely,Yes,2,1,3,10913,Yes
+1972,HR,Recruiter,Female,26,2023-05-27,2.6,Bachelor,Married,Travel_Rarely,No,11,3,3,9849,Yes
+1973,Sales,Account Manager,Female,49,2013-02-09,12.9,Master,Single,Travel_Rarely,No,29,2,3,11725,No
+1974,Marketing,Marketing Manager,Female,26,2025-05-26,0.6,Master,Married,Travel_Rarely,Yes,8,4,3,8699,No
+1975,Sales,Sales Executive,Female,22,2025-11-25,0.1,Bachelor,Married,Travel_Frequently,No,19,1,3,8960,No
+1976,R&D,Research Scientist,Male,49,2010-01-04,16.0,High School,Married,Travel_Rarely,No,28,1,3,10427,No
+1977,IT,QA Engineer,Male,37,2024-12-31,1.0,Bachelor,Single,Travel_Rarely,No,26,2,2,11065,No
+1978,IT,IT Manager,Female,58,2014-07-05,11.5,Bachelor,Divorced,Non-Travel,No,9,3,4,14957,No
+1979,R&D,Lab Technician,Male,54,2022-05-27,3.6,Bachelor,Divorced,Non-Travel,No,8,1,3,9129,No
+1980,IT,IT Manager,Female,39,2024-05-26,1.6,PhD,Single,Non-Travel,No,29,1,3,12984,No
+1981,Sales,Sales Manager,Male,29,2018-02-08,7.9,Bachelor,Married,Travel_Rarely,No,15,4,3,10769,No
+1982,R&D,R&D Manager,Female,33,2018-07-04,7.5,Master,Single,Travel_Rarely,Yes,21,3,2,10806,No
+1983,IT,IT Manager,Male,58,2023-09-14,2.3,Bachelor,Married,Non-Travel,No,16,2,4,12804,Yes
+1984,Finance,Financial Analyst,Male,53,2014-01-03,12.0,PhD,Single,Travel_Rarely,No,7,4,3,12102,No
+1985,Sales,Sales Manager,Female,31,2020-10-20,5.2,Master,Single,Travel_Frequently,No,23,2,3,10183,No
+1986,IT,Data Analyst,Male,58,2006-08-13,19.4,Bachelor,Married,Travel_Rarely,No,18,4,3,12430,No
+1987,Marketing,Marketing Specialist,Male,59,2008-08-12,17.4,Bachelor,Married,Non-Travel,No,2,2,2,9538,No
+1988,HR,HR Specialist,Male,22,2025-03-14,0.8,Master,Married,Travel_Rarely,No,22,1,3,8470,No
+1989,Marketing,Marketing Manager,Male,33,2018-04-22,7.7,Bachelor,Married,Travel_Rarely,No,26,1,2,8816,Yes
+1990,Sales,Account Manager,Male,54,2021-05-28,4.6,Bachelor,Married,Non-Travel,No,6,1,4,7316,No
+1991,R&D,Lab Technician,Male,55,2014-02-09,11.9,Bachelor,Married,Travel_Rarely,No,12,4,2,12204,Yes
+1992,Sales,Account Manager,Female,55,2021-11-26,4.1,PhD,Single,Non-Travel,No,23,4,3,10069,No
+1993,Marketing,Marketing Manager,Male,23,2025-10-19,0.2,Master,Single,Travel_Frequently,No,8,4,3,7572,Yes
+1994,R&D,Lab Technician,Male,41,2009-07-06,16.5,Master,Single,Travel_Rarely,No,6,3,3,12458,No
+1995,Marketing,Marketing Manager,Male,51,2020-09-14,5.3,Master,Single,Travel_Frequently,No,9,3,3,9880,No
+1996,Finance,Accountant,Male,30,2022-08-08,3.4,High School,Married,Travel_Frequently,No,29,4,4,10790,Yes
+1997,HR,HR Specialist,Male,42,2012-04-23,13.7,Master,Single,Travel_Rarely,Yes,27,4,4,8706,No
+1998,Marketing,Content Creator,Female,57,2017-04-22,8.7,Bachelor,Married,Travel_Rarely,No,2,1,2,11050,Yes
+1999,HR,Recruiter,Male,31,2022-01-01,4.0,Bachelor,Married,Non-Travel,No,7,3,3,6522,No
+2000,R&D,Lab Technician,Male,33,2018-09-15,7.3,Master,Single,Travel_Rarely,No,21,2,3,11025,Yes
+2001,IT,Data Analyst,Male,49,2016-04-22,9.7,High School,Divorced,Travel_Rarely,No,9,1,2,12318,No
+2002,IT,IT Manager,Female,54,2025-09-13,0.3,Bachelor,Single,Travel_Rarely,No,9,1,3,13047,Yes
+2003,Sales,Sales Executive,Male,59,2023-03-16,2.8,Master,Single,Travel_Rarely,Yes,8,3,3,9915,No
+2004,Finance,Finance Manager,Male,55,2017-03-16,8.8,Bachelor,Married,Travel_Rarely,Yes,19,1,3,11372,No
+2005,Sales,Sales Manager,Female,48,2016-11-27,9.1,PhD,Married,Non-Travel,No,5,1,1,11597,No
+2006,R&D,R&D Manager,Female,38,2021-02-07,4.9,Master,Single,Travel_Rarely,No,1,3,3,8837,No
+2007,Marketing,Marketing Specialist,Male,25,2024-05-26,1.6,PhD,Married,Travel_Rarely,No,19,2,4,7077,No
+2008,Sales,Sales Manager,Male,50,2025-05-26,0.6,Master,Married,Travel_Rarely,No,13,2,3,7161,Yes
+2009,IT,Data Analyst,Female,39,2025-02-06,0.9,Master,Single,Non-Travel,No,28,1,3,11826,No
+2010,Finance,Finance Manager,Female,30,2019-07-04,6.5,Bachelor,Married,Travel_Frequently,No,19,1,3,12260,No
+2011,Marketing,Content Creator,Female,42,2006-03-19,19.8,PhD,Single,Travel_Rarely,No,25,4,2,12446,No
+2012,Sales,Sales Executive,Male,26,2024-12-31,1.0,Bachelor,Married,Travel_Rarely,No,12,2,3,6750,No
+2013,IT,Software Engineer,Female,30,2022-02-07,3.9,Master,Married,Travel_Rarely,No,23,4,1,10774,No
+2014,HR,HR Specialist,Female,37,2023-03-16,2.8,High School,Single,Travel_Frequently,No,16,1,3,7638,Yes
+2015,R&D,Research Scientist,Male,45,2020-07-03,5.5,High School,Married,Non-Travel,Yes,1,1,2,10086,No
+2016,Marketing,Marketing Manager,Female,27,2025-05-26,0.6,Bachelor,Single,Travel_Frequently,No,9,2,1,9783,No
+2017,Sales,Account Manager,Female,25,2024-08-08,1.4,Bachelor,Married,Non-Travel,No,12,2,2,6937,No
+2018,IT,Data Analyst,Female,35,2021-01-01,5.0,Bachelor,Single,Non-Travel,Yes,12,1,3,12080,No
+2019,Sales,Account Manager,Female,22,2025-07-02,0.5,Master,Married,Travel_Rarely,Yes,4,1,3,8673,Yes
+2020,HR,HR Manager,Female,28,2021-08-08,4.4,PhD,Single,Travel_Rarely,No,17,4,2,8286,No
+2021,IT,IT Manager,Female,43,2007-03-19,18.8,High School,Married,Travel_Rarely,No,21,4,3,13907,No
+2022,Sales,Sales Executive,Female,24,2025-03-14,0.8,Bachelor,Single,Travel_Rarely,No,3,4,3,7763,No
+2023,Marketing,Marketing Manager,Female,40,2021-02-07,4.9,PhD,Married,Non-Travel,No,5,4,4,7567,No
+2024,Finance,Finance Manager,Female,41,2019-07-04,6.5,PhD,Single,Non-Travel,No,9,1,2,10251,No
+2025,IT,QA Engineer,Female,42,2023-02-07,2.9,Master,Married,Travel_Frequently,No,21,1,3,12084,No
+2026,R&D,R&D Manager,Female,50,2021-09-14,4.3,Master,Single,Travel_Frequently,Yes,2,1,2,11014,Yes
+2027,Finance,Financial Analyst,Male,48,2022-01-01,4.0,High School,Divorced,Travel_Frequently,No,17,4,3,11716,No
+2028,R&D,Lab Technician,Male,57,2008-08-12,17.4,Bachelor,Single,Travel_Rarely,No,21,2,1,11583,No
+2029,Sales,Sales Executive,Female,27,2025-04-20,0.7,PhD,Single,Travel_Frequently,No,18,1,2,9375,Yes
+2030,IT,Data Analyst,Male,35,2024-01-01,2.0,Bachelor,Single,Travel_Rarely,No,12,3,3,11377,Yes
+2031,Finance,Financial Analyst,Female,53,2015-02-09,10.9,Bachelor,Divorced,Travel_Rarely,No,10,3,4,11750,No
+2032,IT,Software Engineer,Male,29,2018-03-16,7.8,Master,Married,Non-Travel,No,20,1,3,11535,Yes
+2033,Finance,Financial Analyst,Male,31,2020-08-08,5.4,High School,Married,Travel_Rarely,Yes,27,3,3,10748,No
+2034,Sales,Sales Executive,Male,43,2023-07-03,2.5,Master,Married,Travel_Rarely,Yes,19,4,3,8045,No
+2035,Finance,Financial Analyst,Female,54,2014-09-16,11.3,Bachelor,Single,Travel_Rarely,No,30,1,4,11246,No
+2036,Finance,Accountant,Male,43,2017-09-15,8.3,Master,Single,Non-Travel,No,24,1,3,12009,No
+2037,IT,QA Engineer,Male,28,2025-11-25,0.1,Master,Married,Non-Travel,No,20,2,4,9630,No
+2038,R&D,R&D Manager,Male,38,2012-05-29,13.6,Bachelor,Single,Travel_Rarely,No,6,1,3,13369,No
+2039,Sales,Account Manager,Male,43,2012-09-16,13.3,Master,Married,Non-Travel,No,4,3,3,8623,No
+2040,IT,Software Engineer,Female,36,2015-09-16,10.3,Bachelor,Single,Travel_Rarely,No,9,2,4,11399,No
+2041,Sales,Account Manager,Female,44,2020-07-03,5.5,PhD,Married,Travel_Rarely,No,21,1,3,9725,No
+2042,Sales,Sales Executive,Male,40,2018-07-04,7.5,Bachelor,Married,Non-Travel,No,17,2,4,8211,Yes
+2043,Sales,Sales Manager,Male,42,2012-09-16,13.3,Bachelor,Single,Non-Travel,Yes,30,3,3,10308,No
+2044,IT,Data Analyst,Female,25,2022-05-27,3.6,Bachelor,Single,Non-Travel,No,5,1,4,12894,No
+2045,IT,IT Manager,Female,40,2020-09-14,5.3,Bachelor,Married,Travel_Rarely,No,1,1,1,13227,No
+2046,HR,Recruiter,Male,58,2023-02-07,2.9,PhD,Single,Non-Travel,No,14,4,3,6966,No
+2047,Sales,Account Manager,Female,29,2022-02-07,3.9,High School,Married,Non-Travel,Yes,17,3,3,10513,No
+2048,Sales,Account Manager,Male,46,2010-11-29,15.1,Bachelor,Married,Travel_Rarely,Yes,8,3,2,11251,No
+2049,R&D,Lab Technician,Male,40,2023-01-01,3.0,Bachelor,Single,Travel_Frequently,Yes,7,4,2,10380,No
+2050,Sales,Sales Manager,Female,37,2012-09-16,13.3,Bachelor,Single,Travel_Rarely,No,29,2,3,8788,No
+2051,IT,IT Manager,Female,36,2017-02-08,8.9,Bachelor,Married,Travel_Rarely,No,9,2,3,12126,No
+2052,Marketing,Marketing Manager,Female,54,2019-08-09,6.4,Master,Single,Travel_Frequently,Yes,20,1,3,7164,Yes
+2053,Finance,Finance Manager,Female,42,2012-01-04,14.0,PhD,Single,Travel_Rarely,No,19,4,3,9681,No
+2054,IT,QA Engineer,Male,41,2021-01-01,5.0,High School,Divorced,Travel_Rarely,No,16,4,3,12056,No
+2055,IT,Data Analyst,Male,24,2025-02-06,0.9,Bachelor,Single,Travel_Frequently,No,3,3,2,11037,Yes
+2056,Finance,Finance Manager,Female,25,2023-07-03,2.5,Master,Married,Travel_Rarely,No,14,1,2,11437,No
+2057,Marketing,Marketing Manager,Female,51,2025-04-20,0.7,Master,Single,Travel_Rarely,Yes,16,1,4,6510,No
+2058,Sales,Sales Manager,Male,27,2020-10-20,5.2,Bachelor,Married,Travel_Rarely,No,13,3,2,8795,No
+2059,IT,Data Analyst,Male,25,2023-08-08,2.4,Bachelor,Single,Travel_Frequently,No,10,3,3,12401,No
+2060,R&D,R&D Manager,Female,32,2015-07-05,10.5,Bachelor,Married,Travel_Frequently,No,3,4,3,12056,No
+2061,Marketing,Marketing Specialist,Male,32,2019-07-04,6.5,Bachelor,Single,Non-Travel,Yes,24,2,3,7208,No
+2062,Sales,Sales Manager,Male,29,2020-10-20,5.2,High School,Married,Non-Travel,No,30,2,3,10921,No
+2063,Finance,Finance Manager,Female,43,2006-09-18,19.3,Master,Single,Travel_Rarely,Yes,17,4,1,11078,No
+2064,R&D,Research Scientist,Female,26,2025-09-13,0.3,PhD,Single,Travel_Rarely,No,12,4,3,11379,No
+2065,IT,QA Engineer,Male,53,2013-08-10,12.4,Bachelor,Married,Travel_Rarely,No,4,3,3,14266,No
+2066,R&D,Lab Technician,Male,28,2025-03-14,0.8,PhD,Married,Non-Travel,Yes,2,1,2,11789,No
+2067,Sales,Sales Manager,Male,46,2007-03-19,18.8,Master,Single,Travel_Rarely,No,1,3,4,10202,No
+2068,Finance,Financial Analyst,Male,47,2012-04-23,13.7,Master,Married,Non-Travel,No,20,3,3,10903,No
+2069,Finance,Finance Manager,Female,47,2018-01-02,8.0,Bachelor,Single,Travel_Rarely,No,7,3,2,12401,No
+2070,R&D,Lab Technician,Male,35,2020-09-14,5.3,Master,Married,Travel_Rarely,Yes,6,4,2,9397,No
+2071,Sales,Sales Executive,Male,54,2020-10-20,5.2,Master,Single,Travel_Rarely,No,10,3,3,9187,No
+2072,Finance,Accountant,Female,45,2011-03-18,14.8,Master,Married,Non-Travel,Yes,18,3,3,13067,No
+2073,Finance,Accountant,Female,34,2017-01-02,9.0,Bachelor,Divorced,Non-Travel,No,3,4,2,9616,No
+2074,IT,IT Manager,Male,34,2013-03-17,12.8,Master,Divorced,Travel_Rarely,No,20,3,4,13126,No
+2075,Sales,Sales Manager,Female,39,2014-01-03,12.0,Master,Married,Non-Travel,No,18,3,3,9761,No
+2076,Finance,Accountant,Female,30,2024-10-19,1.2,Bachelor,Single,Non-Travel,Yes,18,2,3,8192,Yes
+2077,R&D,Lab Technician,Male,59,2007-02-11,18.9,Master,Married,Travel_Rarely,Yes,21,3,3,12264,Yes
+2078,IT,IT Manager,Male,60,2010-04-24,15.7,Bachelor,Married,Non-Travel,No,11,3,4,14705,No
+2079,Sales,Account Manager,Female,43,2014-08-10,11.4,Bachelor,Single,Travel_Rarely,Yes,9,2,3,11143,No
+2080,Sales,Sales Manager,Female,41,2012-04-23,13.7,Bachelor,Single,Travel_Frequently,No,5,4,4,10922,No
+2081,Finance,Financial Analyst,Female,43,2022-04-21,3.7,High School,Married,Travel_Rarely,No,29,2,4,8515,No
+2082,R&D,Research Scientist,Male,45,2012-11-28,13.1,Bachelor,Married,Travel_Rarely,No,14,4,3,12707,No
+2083,Sales,Sales Executive,Female,43,2022-03-15,3.8,PhD,Single,Travel_Frequently,No,8,3,4,11058,No
+2084,Sales,Sales Manager,Female,34,2016-02-09,9.9,Master,Married,Non-Travel,No,27,3,3,9668,No
+2085,HR,Recruiter,Male,30,2024-04-20,1.7,Bachelor,Married,Non-Travel,No,8,4,3,6551,No
+2086,Sales,Account Manager,Female,33,2021-08-08,4.4,High School,Divorced,Travel_Rarely,No,29,3,4,8627,No
+2087,R&D,Research Scientist,Male,22,2025-03-14,0.8,Bachelor,Married,Travel_Rarely,Yes,13,2,2,9360,No
+2088,Sales,Sales Manager,Male,35,2013-03-17,12.8,Master,Single,Travel_Rarely,No,20,4,3,12349,No
+2089,IT,Data Analyst,Female,45,2020-11-26,5.1,Bachelor,Single,Travel_Rarely,Yes,2,3,3,10571,No
+2090,IT,QA Engineer,Male,41,2012-10-22,13.2,Master,Married,Travel_Rarely,No,15,4,3,11858,Yes
+2091,IT,Software Engineer,Male,34,2025-03-14,0.8,PhD,Single,Travel_Frequently,No,12,2,3,12049,Yes
+2092,Marketing,Marketing Manager,Female,30,2022-10-20,3.2,Bachelor,Divorced,Travel_Rarely,Yes,12,3,3,10080,No
+2093,HR,Recruiter,Female,41,2012-09-16,13.3,PhD,Married,Travel_Frequently,No,9,1,2,10420,Yes
+2094,Sales,Account Manager,Male,58,2011-10-23,14.2,Bachelor,Married,Travel_Rarely,Yes,27,4,3,9733,No
+2095,IT,IT Manager,Male,33,2021-10-20,4.2,Master,Married,Travel_Frequently,No,18,1,3,10703,No
+2096,Sales,Sales Executive,Female,49,2018-09-15,7.3,Master,Married,Travel_Rarely,No,3,4,3,8656,No
+2097,Sales,Sales Manager,Female,60,2013-02-09,12.9,PhD,Divorced,Non-Travel,Yes,16,4,4,11838,No
+2098,Sales,Sales Executive,Male,59,2017-01-02,9.0,Master,Single,Travel_Rarely,No,16,3,1,10270,No
+2099,Sales,Sales Executive,Female,45,2020-01-02,6.0,Bachelor,Single,Non-Travel,No,3,3,3,9542,No
+2100,Sales,Account Manager,Female,55,2006-09-18,19.3,Master,Married,Travel_Rarely,No,7,2,3,11613,No
+2101,HR,Recruiter,Male,34,2025-10-19,0.2,Bachelor,Married,Travel_Rarely,Yes,14,4,3,6715,No
+2102,Sales,Sales Executive,Female,47,2010-01-04,16.0,Master,Married,Travel_Rarely,No,15,2,3,12469,No
+2103,Finance,Finance Manager,Female,25,2024-02-07,1.9,Master,Married,Travel_Frequently,No,12,3,4,9618,No
+2104,IT,Software Engineer,Female,36,2024-07-02,1.5,High School,Married,Non-Travel,No,13,2,3,13332,No
+2105,IT,Software Engineer,Male,44,2012-01-04,14.0,PhD,Single,Travel_Rarely,No,1,2,3,13946,No
+2106,IT,Software Engineer,Male,22,2025-03-14,0.8,PhD,Married,Non-Travel,Yes,23,3,3,13209,No
+2107,IT,Data Analyst,Female,46,2011-01-04,15.0,Bachelor,Single,Travel_Frequently,No,30,4,3,12643,No
+2108,Sales,Account Manager,Female,53,2021-08-08,4.4,Bachelor,Married,Non-Travel,No,16,3,3,10146,No
+2109,Marketing,Content Creator,Female,32,2021-02-07,4.9,High School,Married,Travel_Frequently,Yes,3,4,3,10491,Yes
+2110,Finance,Financial Analyst,Female,53,2009-04-24,16.7,High School,Married,Non-Travel,Yes,27,1,3,12472,Yes
+2111,IT,IT Manager,Male,34,2020-07-03,5.5,Master,Married,Non-Travel,No,13,3,3,12739,No
+2112,IT,Data Analyst,Female,60,2020-03-15,5.8,Master,Married,Travel_Frequently,No,3,4,3,10928,No
+2113,IT,Data Analyst,Female,29,2023-11-26,2.1,Master,Married,Non-Travel,No,16,1,3,13018,Yes
+2114,R&D,R&D Manager,Male,49,2022-01-01,4.0,Bachelor,Married,Travel_Frequently,No,7,2,3,10484,Yes
+2115,Finance,Accountant,Male,60,2023-02-07,2.9,Master,Single,Travel_Rarely,No,17,3,3,11663,Yes
+2116,Finance,Finance Manager,Male,60,2008-01-05,18.0,Master,Married,Travel_Rarely,No,21,1,3,13492,No
+2117,HR,HR Specialist,Male,52,2018-11-27,7.1,High School,Single,Travel_Frequently,No,27,2,4,10200,Yes
+2118,Sales,Account Manager,Female,24,2025-02-06,0.9,Bachelor,Divorced,Non-Travel,No,17,3,3,9422,No
+2119,Finance,Financial Analyst,Male,55,2006-09-18,19.3,Master,Single,Travel_Rarely,Yes,14,2,3,12528,Yes
+2120,Sales,Sales Manager,Male,42,2024-08-08,1.4,Bachelor,Married,Travel_Frequently,No,4,2,3,8037,No
+2121,R&D,R&D Manager,Female,46,2015-10-23,10.2,Master,Single,Travel_Rarely,No,7,2,3,11764,No
+2122,R&D,R&D Manager,Male,48,2008-02-11,17.9,PhD,Single,Travel_Rarely,No,30,1,3,14044,No
+2123,Marketing,Marketing Manager,Male,36,2012-04-23,13.7,Master,Married,Travel_Rarely,Yes,1,2,3,8616,Yes
+2124,Marketing,Content Creator,Female,48,2018-08-09,7.4,Master,Married,Non-Travel,No,19,1,2,9212,No
+2125,Sales,Sales Executive,Male,50,2013-07-05,12.5,Master,Divorced,Travel_Rarely,No,8,2,3,10337,No
+2126,Finance,Finance Manager,Male,44,2024-12-31,1.0,Master,Single,Travel_Rarely,No,29,1,4,10337,No
+2127,R&D,Research Scientist,Female,36,2025-02-06,0.9,Master,Single,Non-Travel,Yes,3,2,3,10282,No
+2128,Marketing,Marketing Specialist,Male,45,2006-11-30,19.1,Master,Married,Travel_Frequently,No,24,2,3,11807,No
+2129,IT,Data Analyst,Female,45,2011-10-23,14.2,Master,Single,Travel_Rarely,Yes,29,2,4,14499,No
+2130,IT,Data Analyst,Female,40,2015-05-29,10.6,Master,Single,Travel_Rarely,No,26,1,4,12136,No
+2131,Finance,Finance Manager,Male,54,2019-10-21,6.2,Bachelor,Single,Travel_Rarely,No,11,4,4,10960,No
+2132,HR,HR Specialist,Male,25,2022-11-26,3.1,Master,Single,Non-Travel,No,16,1,3,9080,No
+2133,Finance,Accountant,Female,36,2024-08-08,1.4,Master,Married,Travel_Rarely,Yes,22,2,3,8357,No
+2134,Marketing,Marketing Manager,Male,22,2025-10-19,0.2,Master,Single,Travel_Rarely,No,25,4,3,9983,Yes
+2135,IT,IT Manager,Female,26,2023-11-26,2.1,Bachelor,Married,Travel_Frequently,Yes,19,3,3,10595,Yes
+2136,HR,HR Specialist,Male,53,2009-05-30,16.6,Master,Single,Travel_Rarely,Yes,16,2,3,10171,No
+2137,Sales,Sales Executive,Female,25,2022-02-07,3.9,Master,Single,Travel_Rarely,No,26,4,2,10941,No
+2138,Sales,Account Manager,Female,57,2020-09-14,5.3,PhD,Divorced,Travel_Rarely,No,18,4,4,10673,No
+2139,R&D,R&D Manager,Male,60,2016-02-09,9.9,High School,Single,Travel_Rarely,No,18,2,4,11288,No
+2140,R&D,R&D Manager,Female,42,2007-11-30,18.1,Bachelor,Married,Travel_Frequently,No,17,1,3,13315,No
+2141,HR,HR Specialist,Male,55,2010-01-04,16.0,PhD,Single,Travel_Rarely,No,3,1,3,8646,No
+2142,HR,HR Specialist,Female,23,2025-12-31,0.0,Bachelor,Single,Non-Travel,No,13,3,3,8049,No
+2143,Sales,Sales Manager,Male,43,2025-11-25,0.1,PhD,Married,Non-Travel,No,22,3,3,9480,No
+2144,Sales,Sales Executive,Male,47,2025-05-26,0.6,Bachelor,Married,Non-Travel,No,13,2,3,9979,No
+2145,IT,QA Engineer,Male,56,2025-11-25,0.1,Master,Single,Travel_Rarely,No,18,4,3,11751,No
+2146,Sales,Account Manager,Male,31,2023-04-21,2.7,Bachelor,Married,Non-Travel,Yes,17,2,3,9375,No
+2147,IT,Software Engineer,Male,25,2024-12-31,1.0,Bachelor,Single,Non-Travel,Yes,11,2,4,12378,No
+2148,Finance,Finance Manager,Male,43,2008-11-29,17.1,Bachelor,Married,Non-Travel,No,20,2,3,10734,No
+2149,Sales,Sales Executive,Female,36,2018-03-16,7.8,Bachelor,Single,Non-Travel,No,25,1,4,9126,No
+2150,R&D,Lab Technician,Male,46,2008-10-23,17.2,Master,Single,Travel_Rarely,No,22,2,3,13227,No
+2151,R&D,R&D Manager,Male,41,2024-01-01,2.0,Master,Single,Non-Travel,Yes,1,2,3,12048,No
+2152,R&D,Lab Technician,Male,60,2021-10-20,4.2,Bachelor,Single,Travel_Rarely,No,19,1,2,10049,No
+2153,Finance,Finance Manager,Female,60,2007-11-30,18.1,Bachelor,Married,Travel_Frequently,Yes,17,1,3,12074,No
+2154,IT,Data Analyst,Male,31,2017-08-09,8.4,Bachelor,Divorced,Travel_Rarely,No,26,3,4,12751,No
+2155,R&D,Research Scientist,Male,47,2021-09-14,4.3,Bachelor,Single,Travel_Rarely,Yes,28,2,4,10039,Yes
+2156,HR,Recruiter,Male,34,2013-05-29,12.6,High School,Married,Travel_Rarely,No,22,4,2,8815,No
+2157,IT,QA Engineer,Female,40,2024-02-07,1.9,Master,Single,Travel_Rarely,Yes,4,3,1,11325,No
+2158,HR,HR Manager,Female,60,2017-02-08,8.9,Master,Single,Travel_Rarely,No,29,2,3,7191,No
+2159,R&D,Research Scientist,Male,46,2022-03-15,3.8,Bachelor,Divorced,Non-Travel,No,5,3,3,10572,No
+2160,Sales,Account Manager,Male,44,2009-07-06,16.5,Bachelor,Divorced,Travel_Frequently,No,17,4,3,11664,No
+2161,Sales,Account Manager,Male,48,2009-09-17,16.3,Bachelor,Married,Travel_Frequently,No,26,1,2,11088,Yes
+2162,Marketing,Marketing Manager,Female,57,2010-11-29,15.1,Master,Single,Travel_Rarely,Yes,23,4,4,12119,No
+2163,Sales,Sales Manager,Male,60,2023-08-08,2.4,Bachelor,Married,Non-Travel,Yes,19,2,3,7409,Yes
+2164,IT,QA Engineer,Male,47,2011-10-23,14.2,Master,Single,Travel_Frequently,No,27,1,3,14310,No
+2165,R&D,R&D Manager,Male,55,2020-03-15,5.8,Bachelor,Single,Travel_Frequently,Yes,10,3,4,12473,No
+2166,IT,Software Engineer,Female,42,2013-05-29,12.6,Master,Single,Travel_Rarely,No,24,2,2,14526,No
+2167,Sales,Sales Manager,Male,26,2024-05-26,1.6,Master,Married,Travel_Rarely,Yes,27,1,3,9453,Yes
+2168,Finance,Accountant,Female,31,2020-03-15,5.8,Master,Married,Travel_Rarely,Yes,10,2,1,10811,No
+2169,Marketing,Marketing Specialist,Female,37,2011-08-11,14.4,Bachelor,Single,Travel_Rarely,Yes,19,2,2,9589,No
+2170,IT,Data Analyst,Male,59,2019-07-04,6.5,Master,Divorced,Non-Travel,Yes,21,1,2,12346,Yes
+2171,Sales,Account Manager,Female,53,2020-10-20,5.2,Bachelor,Divorced,Travel_Rarely,No,26,2,1,9486,No
+2172,IT,Data Analyst,Male,39,2024-04-20,1.7,Bachelor,Married,Travel_Rarely,Yes,18,4,2,10634,No
+2173,IT,IT Manager,Female,38,2021-05-28,4.6,PhD,Married,Travel_Rarely,No,2,1,3,12145,No
+2174,Sales,Sales Executive,Female,38,2018-02-08,7.9,Master,Single,Travel_Rarely,No,23,3,3,10098,No
+2175,Sales,Account Manager,Male,42,2011-03-18,14.8,High School,Single,Travel_Rarely,No,4,1,4,11202,No
+2176,Sales,Account Manager,Male,58,2008-04-24,17.7,Master,Single,Travel_Frequently,Yes,11,4,2,10438,No
+2177,Sales,Account Manager,Female,25,2025-07-02,0.5,Bachelor,Married,Travel_Rarely,No,3,2,3,8982,Yes
+2178,Sales,Sales Manager,Female,57,2010-01-04,16.0,PhD,Married,Travel_Frequently,No,26,2,2,11738,Yes
+2179,IT,Data Analyst,Female,38,2020-01-02,6.0,Master,Single,Travel_Rarely,No,27,1,2,13339,No
+2180,Sales,Account Manager,Male,55,2008-10-23,17.2,Master,Married,Travel_Rarely,No,11,2,4,12563,No
+2181,IT,IT Manager,Female,44,2019-05-28,6.6,Master,Single,Non-Travel,Yes,8,1,4,14264,No
+2182,Sales,Account Manager,Female,32,2020-07-03,5.5,Master,Married,Travel_Rarely,No,11,1,3,8317,No
+2183,IT,IT Manager,Female,36,2018-01-02,8.0,Bachelor,Married,Non-Travel,Yes,20,4,3,13015,Yes
+2184,Sales,Sales Manager,Male,38,2015-09-16,10.3,Bachelor,Single,Non-Travel,Yes,16,1,3,11569,No
+2185,R&D,Research Scientist,Female,31,2021-03-15,4.8,Bachelor,Married,Travel_Rarely,Yes,3,3,2,10988,Yes
+2186,Marketing,Content Creator,Female,56,2025-12-31,0.0,Master,Single,Travel_Rarely,No,16,4,3,9111,No
+2187,IT,Data Analyst,Male,38,2009-03-18,16.8,Master,Divorced,Non-Travel,No,18,3,4,12444,No
+2188,Marketing,Marketing Specialist,Male,43,2010-10-23,15.2,High School,Married,Travel_Rarely,Yes,26,1,3,8595,No
+2189,Sales,Account Manager,Female,34,2015-02-09,10.9,Master,Single,Travel_Rarely,No,26,1,3,10044,No
+2190,HR,Recruiter,Female,22,2025-04-20,0.7,High School,Single,Travel_Rarely,No,1,1,3,5629,No
+2191,Sales,Sales Executive,Female,49,2011-04-24,14.7,Bachelor,Married,Travel_Rarely,Yes,12,2,3,8859,Yes
+2192,Marketing,Content Creator,Male,41,2025-04-20,0.7,Master,Single,Non-Travel,No,17,4,3,7585,Yes
+2193,Finance,Accountant,Female,54,2009-01-04,17.0,Master,Single,Non-Travel,Yes,24,2,4,13274,Yes
+2194,Finance,Financial Analyst,Female,31,2024-08-08,1.4,Master,Married,Travel_Rarely,No,19,3,1,11703,No
+2195,Marketing,Marketing Manager,Male,56,2021-08-08,4.4,Master,Single,Non-Travel,No,19,3,2,7982,No
+2196,IT,QA Engineer,Female,29,2020-10-20,5.2,PhD,Single,Travel_Rarely,No,4,3,2,10902,No
+2197,Marketing,Content Creator,Male,52,2010-09-17,15.3,Bachelor,Single,Non-Travel,No,25,2,3,12292,No
+2198,HR,Recruiter,Female,31,2024-01-01,2.0,PhD,Single,Travel_Frequently,No,12,4,3,6692,No
+2199,R&D,Research Scientist,Female,35,2016-10-22,9.2,PhD,Married,Non-Travel,No,15,3,3,11175,No
+2200,Finance,Financial Analyst,Female,27,2024-04-20,1.7,High School,Single,Non-Travel,Yes,3,3,3,10250,No
+2201,R&D,Lab Technician,Male,45,2015-08-10,10.4,Master,Single,Non-Travel,Yes,25,1,3,13055,No
+2202,Finance,Financial Analyst,Male,52,2012-05-29,13.6,High School,Divorced,Travel_Rarely,No,30,2,3,11018,No
+2203,Sales,Account Manager,Female,32,2021-08-08,4.4,PhD,Married,Travel_Rarely,Yes,12,3,2,10681,No
+2204,Sales,Account Manager,Female,45,2012-02-10,13.9,Master,Single,Non-Travel,No,26,1,1,12267,No
+2205,Finance,Financial Analyst,Female,38,2018-02-08,7.9,High School,Single,Travel_Rarely,No,21,3,3,10591,No
+2206,HR,HR Specialist,Male,25,2024-04-20,1.7,PhD,Single,Travel_Rarely,No,23,1,3,8996,Yes
+2207,Finance,Accountant,Female,52,2010-10-23,15.2,Master,Married,Non-Travel,No,27,1,4,10940,No
+2208,Sales,Sales Manager,Female,37,2017-05-28,8.6,Bachelor,Single,Travel_Rarely,No,19,3,1,8028,No
+2209,Sales,Sales Executive,Female,50,2013-08-10,12.4,Master,Married,Travel_Rarely,No,2,2,4,11592,No
+2210,R&D,R&D Manager,Female,36,2020-07-03,5.5,Bachelor,Single,Travel_Rarely,Yes,21,2,1,12423,Yes
+2211,Sales,Sales Executive,Male,25,2023-02-07,2.9,Master,Single,Travel_Rarely,Yes,11,1,4,7288,No
+2212,IT,QA Engineer,Male,56,2017-07-04,8.5,Master,Married,Non-Travel,Yes,24,3,3,10778,No
+2213,R&D,Research Scientist,Male,35,2015-01-03,11.0,Bachelor,Married,Travel_Rarely,No,3,4,4,10416,No
+2214,IT,Software Engineer,Male,42,2021-01-01,5.0,Bachelor,Single,Travel_Rarely,Yes,25,4,1,11823,No
+2215,IT,QA Engineer,Female,48,2013-07-05,12.5,High School,Single,Travel_Rarely,No,18,4,3,14588,No
+2216,IT,Data Analyst,Female,40,2009-01-04,17.0,Bachelor,Married,Travel_Frequently,Yes,19,3,4,14855,No
+2217,Finance,Accountant,Male,22,2025-02-06,0.9,Bachelor,Single,Travel_Rarely,Yes,12,3,1,9399,No
+2218,Marketing,Content Creator,Female,57,2006-03-19,19.8,Master,Married,Non-Travel,Yes,19,1,4,9423,No
+2219,IT,IT Manager,Female,47,2013-07-05,12.5,Bachelor,Married,Travel_Rarely,Yes,28,4,3,14427,No
+2220,Marketing,Marketing Specialist,Male,50,2009-02-10,16.9,Bachelor,Single,Non-Travel,No,1,2,3,10664,No
+2221,R&D,Research Scientist,Female,30,2022-10-20,3.2,Master,Married,Non-Travel,No,30,4,3,12022,No
+2222,Finance,Accountant,Male,59,2011-03-18,14.8,PhD,Married,Travel_Rarely,Yes,9,1,3,11172,No
+2223,HR,Recruiter,Male,37,2015-09-16,10.3,Bachelor,Divorced,Travel_Rarely,Yes,20,3,3,10344,Yes
+2224,IT,QA Engineer,Female,24,2023-07-03,2.5,Master,Married,Non-Travel,No,17,3,3,11187,No
+2225,IT,QA Engineer,Female,27,2021-02-07,4.9,Master,Single,Non-Travel,No,18,3,3,10629,No
+2226,Sales,Sales Manager,Male,34,2017-05-28,8.6,Bachelor,Single,Travel_Rarely,No,17,3,3,11410,No
+2227,Sales,Sales Executive,Male,34,2018-08-09,7.4,PhD,Married,Travel_Rarely,No,12,3,3,11432,No
+2228,R&D,Lab Technician,Male,24,2024-07-02,1.5,Master,Single,Travel_Rarely,No,5,3,4,10704,Yes
+2229,R&D,Lab Technician,Female,38,2015-08-10,10.4,Master,Divorced,Travel_Frequently,No,3,4,2,12154,No
+2230,Marketing,Content Creator,Female,26,2022-08-08,3.4,PhD,Single,Non-Travel,No,1,4,3,9792,No
+2231,R&D,Research Scientist,Male,54,2019-03-16,6.8,Bachelor,Single,Travel_Rarely,No,30,3,4,10371,No
+2232,Sales,Sales Executive,Female,40,2023-08-08,2.4,Master,Married,Travel_Rarely,No,1,3,3,10724,No
+2233,Finance,Accountant,Male,23,2024-12-31,1.0,High School,Married,Travel_Frequently,No,2,1,2,8683,No
+2234,HR,HR Specialist,Male,45,2006-10-24,19.2,Master,Married,Non-Travel,No,5,3,4,10440,No
+2235,HR,HR Manager,Female,60,2025-05-26,0.6,Bachelor,Single,Travel_Rarely,No,16,3,3,7868,Yes
+2236,Finance,Finance Manager,Female,24,2023-07-03,2.5,High School,Married,Travel_Rarely,Yes,11,2,3,11454,Yes
+2237,Sales,Sales Manager,Male,42,2025-10-19,0.2,Master,Single,Travel_Rarely,No,29,4,3,7531,Yes
+2238,R&D,Research Scientist,Female,58,2019-02-08,6.9,Bachelor,Divorced,Travel_Rarely,No,7,2,4,10056,Yes
+2239,Sales,Sales Manager,Female,48,2011-02-10,14.9,High School,Married,Travel_Rarely,Yes,12,2,3,11219,No
+2240,HR,HR Manager,Female,29,2024-12-31,1.0,Master,Married,Travel_Rarely,Yes,13,4,3,6780,No
+2241,IT,Software Engineer,Female,60,2024-08-08,1.4,Master,Divorced,Travel_Rarely,No,1,3,3,9978,No
+2242,R&D,Lab Technician,Female,26,2023-09-14,2.3,Bachelor,Married,Travel_Frequently,No,29,2,3,11068,Yes
+2243,Finance,Accountant,Male,27,2024-08-08,1.4,High School,Single,Travel_Rarely,Yes,30,4,4,9960,No
+2244,Finance,Financial Analyst,Female,34,2017-10-22,8.2,Bachelor,Married,Travel_Rarely,Yes,3,1,3,9199,Yes
+2245,IT,Data Analyst,Female,41,2014-02-09,11.9,PhD,Divorced,Travel_Frequently,No,21,4,3,14332,No
+2246,Sales,Sales Manager,Female,42,2022-01-01,4.0,Master,Married,Non-Travel,No,6,2,4,10311,No
+2247,Finance,Finance Manager,Female,52,2008-09-17,17.3,Bachelor,Single,Non-Travel,No,22,4,4,13440,No
+2248,IT,IT Manager,Female,37,2010-01-04,16.0,Bachelor,Married,Travel_Frequently,No,10,4,3,12032,No
+2249,Sales,Sales Manager,Female,43,2022-03-15,3.8,Bachelor,Single,Travel_Rarely,No,8,2,4,10200,No
+2250,IT,IT Manager,Female,29,2023-02-07,2.9,PhD,Single,Non-Travel,No,25,4,3,13203,No
+2251,IT,Data Analyst,Male,32,2023-11-26,2.1,Master,Single,Travel_Rarely,No,2,2,3,13686,Yes
+2252,HR,HR Specialist,Female,38,2014-10-23,11.2,PhD,Married,Travel_Frequently,Yes,3,4,3,10402,No
+2253,Sales,Sales Executive,Female,35,2012-08-10,13.4,High School,Single,Travel_Rarely,No,23,4,4,8995,Yes
+2254,HR,HR Specialist,Female,22,2025-07-02,0.5,Bachelor,Married,Travel_Rarely,No,2,3,4,8773,No
+2255,IT,IT Manager,Male,28,2022-01-01,4.0,Bachelor,Single,Travel_Frequently,No,18,1,3,13362,No
+2256,IT,IT Manager,Male,40,2024-05-26,1.6,Bachelor,Married,Travel_Rarely,No,11,2,4,9782,No
+2257,IT,QA Engineer,Female,42,2020-05-28,5.6,Bachelor,Married,Non-Travel,No,24,1,3,12177,No
+2258,Sales,Sales Manager,Female,56,2010-11-29,15.1,Master,Single,Non-Travel,No,6,2,3,11275,Yes
+2259,HR,HR Specialist,Female,31,2022-09-14,3.3,PhD,Divorced,Non-Travel,No,1,2,3,6878,No
+2260,Marketing,Content Creator,Female,57,2009-08-12,16.4,High School,Divorced,Non-Travel,Yes,13,3,4,11487,No
+2261,Sales,Sales Manager,Male,56,2016-04-22,9.7,Bachelor,Married,Travel_Rarely,No,1,3,4,8791,No
+2262,IT,Software Engineer,Male,49,2019-03-16,6.8,Bachelor,Married,Travel_Rarely,No,28,4,3,13845,No
+2263,Finance,Accountant,Female,41,2019-10-21,6.2,Master,Married,Non-Travel,No,15,1,3,10696,No
+2264,Finance,Finance Manager,Female,28,2022-08-08,3.4,PhD,Married,Non-Travel,No,5,4,3,9791,No
+2265,R&D,Lab Technician,Female,55,2008-04-24,17.7,Bachelor,Married,Travel_Frequently,No,15,2,3,13896,Yes
+2266,Sales,Account Manager,Male,37,2015-07-05,10.5,High School,Married,Travel_Frequently,No,28,4,4,9579,No
+2267,HR,HR Manager,Male,44,2012-11-28,13.1,Master,Divorced,Travel_Rarely,No,28,3,3,11213,No
+2268,HR,HR Specialist,Female,41,2007-07-07,18.5,Bachelor,Married,Non-Travel,No,11,2,3,8617,No
+2269,IT,Data Analyst,Male,50,2008-01-05,18.0,Master,Divorced,Travel_Rarely,No,7,3,3,15748,No
+2270,HR,HR Manager,Female,56,2020-03-15,5.8,Master,Married,Travel_Frequently,No,23,4,3,9907,No
+2271,Finance,Accountant,Male,40,2019-05-28,6.6,Master,Married,Travel_Frequently,Yes,13,4,4,9073,Yes
+2272,Sales,Sales Executive,Female,50,2012-05-29,13.6,Bachelor,Married,Travel_Frequently,No,20,2,3,8935,No
+2273,IT,Data Analyst,Male,24,2024-08-08,1.4,Bachelor,Married,Travel_Frequently,No,6,4,4,12623,No
+2274,Marketing,Content Creator,Female,42,2008-07-06,17.5,PhD,Married,Non-Travel,No,26,4,2,11332,No
+2275,R&D,Research Scientist,Female,23,2025-07-02,0.5,Bachelor,Divorced,Travel_Frequently,No,5,3,4,9386,No
+2276,Sales,Account Manager,Female,35,2024-08-08,1.4,Bachelor,Single,Travel_Rarely,No,19,1,3,7782,No
+2277,Finance,Financial Analyst,Male,30,2023-04-21,2.7,Master,Single,Non-Travel,No,21,1,3,8908,No
+2278,IT,QA Engineer,Female,45,2024-04-20,1.7,Bachelor,Married,Travel_Rarely,No,5,4,3,11976,No
+2279,R&D,R&D Manager,Female,25,2022-11-26,3.1,Master,Single,Travel_Rarely,No,30,4,4,10676,No
+2280,HR,Recruiter,Male,39,2018-03-16,7.8,Bachelor,Single,Travel_Rarely,No,16,4,2,8499,No
+2281,Finance,Accountant,Male,39,2016-01-03,10.0,Bachelor,Married,Non-Travel,No,13,4,3,11051,No
+2282,IT,Data Analyst,Female,53,2006-07-07,19.5,PhD,Married,Travel_Rarely,No,25,1,3,13442,No
+2283,R&D,Research Scientist,Male,35,2017-11-27,8.1,Master,Married,Travel_Frequently,No,27,4,3,11008,Yes
+2284,IT,IT Manager,Male,35,2023-09-14,2.3,Bachelor,Single,Travel_Frequently,No,23,3,3,11024,No
+2285,Sales,Sales Executive,Female,54,2016-05-28,9.6,Bachelor,Married,Travel_Rarely,Yes,6,4,3,8512,No
+2286,Marketing,Content Creator,Male,44,2024-10-19,1.2,High School,Married,Travel_Rarely,Yes,6,3,3,8899,No
+2287,HR,Recruiter,Female,52,2017-01-02,9.0,Bachelor,Single,Travel_Rarely,Yes,10,4,3,10249,No
+2288,IT,Software Engineer,Female,29,2024-09-13,1.3,Bachelor,Married,Travel_Rarely,No,18,3,3,10147,No
+2289,Marketing,Marketing Manager,Male,27,2022-07-03,3.5,Bachelor,Married,Travel_Rarely,No,22,4,3,8536,No
+2290,Sales,Sales Executive,Female,58,2022-03-15,3.8,Master,Single,Non-Travel,No,25,2,3,7604,No
+2291,Marketing,Content Creator,Male,23,2025-05-26,0.6,Master,Married,Travel_Rarely,Yes,2,4,2,7702,Yes
+2292,IT,IT Manager,Male,29,2018-10-21,7.2,Master,Single,Travel_Rarely,No,17,3,4,11440,No
+2293,Sales,Account Manager,Female,58,2008-11-29,17.1,High School,Married,Non-Travel,No,1,3,3,12972,No
+2294,HR,HR Specialist,Female,43,2011-11-29,14.1,Master,Single,Non-Travel,Yes,15,3,3,8081,No
+2295,R&D,Lab Technician,Female,44,2017-03-16,8.8,Bachelor,Divorced,Travel_Rarely,Yes,26,4,3,10934,No
+2296,R&D,Lab Technician,Female,46,2024-09-13,1.3,Master,Married,Travel_Frequently,No,6,4,3,8608,No
+2297,Finance,Accountant,Male,53,2022-07-03,3.5,Bachelor,Married,Travel_Rarely,No,6,2,4,8874,No
+2298,IT,Data Analyst,Female,44,2013-10-22,12.2,Master,Married,Travel_Rarely,No,3,1,3,11783,No
+2299,Finance,Finance Manager,Female,42,2018-09-15,7.3,Master,Married,Non-Travel,Yes,8,4,3,12543,No
+2300,Marketing,Marketing Manager,Male,35,2014-11-28,11.1,PhD,Married,Travel_Frequently,No,10,2,3,7884,No
+2301,Sales,Sales Manager,Male,46,2010-03-18,15.8,Master,Married,Travel_Rarely,Yes,16,4,4,11351,Yes
+2302,Sales,Sales Manager,Female,45,2009-02-10,16.9,Bachelor,Married,Travel_Rarely,Yes,22,1,2,9974,No
+2303,HR,HR Manager,Female,43,2024-04-20,1.7,Bachelor,Single,Travel_Rarely,No,23,1,4,6742,No
+2304,Sales,Sales Manager,Female,55,2010-10-23,15.2,Bachelor,Divorced,Travel_Rarely,Yes,21,1,4,8833,No
+2305,IT,IT Manager,Male,22,2025-12-31,0.0,High School,Single,Travel_Rarely,Yes,19,3,3,10802,Yes
+2306,Sales,Sales Executive,Male,59,2019-03-16,6.8,Bachelor,Married,Travel_Rarely,No,21,4,3,7636,No
+2307,R&D,R&D Manager,Female,60,2007-03-19,18.8,Bachelor,Married,Travel_Rarely,No,19,2,3,13904,Yes
+2308,Sales,Account Manager,Male,55,2008-03-18,17.8,Master,Married,Non-Travel,No,5,2,1,11806,No
+2309,IT,QA Engineer,Female,26,2024-01-01,2.0,High School,Divorced,Non-Travel,No,18,1,3,12524,Yes
+2310,IT,Data Analyst,Female,39,2025-03-14,0.8,Master,Married,Travel_Rarely,No,6,2,3,12586,No
+2311,R&D,Research Scientist,Female,38,2021-08-08,4.4,Master,Single,Travel_Rarely,No,27,3,3,8822,No
+2312,IT,QA Engineer,Female,42,2025-04-20,0.7,Bachelor,Married,Travel_Frequently,No,20,2,4,12426,Yes
+2313,R&D,R&D Manager,Female,58,2016-02-09,9.9,PhD,Married,Travel_Rarely,No,23,4,4,13163,No
+2314,R&D,Research Scientist,Male,36,2020-09-14,5.3,Bachelor,Single,Travel_Rarely,No,14,3,3,11272,No
+2315,Finance,Financial Analyst,Male,51,2009-11-29,16.1,Bachelor,Married,Non-Travel,No,19,2,2,10577,No
+2316,Sales,Sales Manager,Female,50,2011-09-17,14.3,Master,Single,Non-Travel,No,19,3,1,12198,No
+2317,Marketing,Marketing Manager,Male,22,2025-07-02,0.5,Master,Divorced,Travel_Frequently,Yes,16,3,3,7887,No
+2318,Finance,Financial Analyst,Male,44,2014-11-28,11.1,Master,Divorced,Travel_Frequently,No,24,3,3,9376,No
+2319,R&D,Research Scientist,Male,46,2025-04-20,0.7,High School,Single,Travel_Rarely,No,28,3,3,10205,Yes
+2320,R&D,Lab Technician,Female,31,2024-07-02,1.5,Master,Married,Travel_Rarely,No,11,1,4,8950,No
+2321,Marketing,Marketing Manager,Male,50,2006-08-13,19.4,Bachelor,Single,Travel_Rarely,No,20,2,3,10421,No
+2322,IT,IT Manager,Male,34,2013-02-09,12.9,Bachelor,Married,Travel_Frequently,No,21,1,2,14132,No
+2323,Sales,Account Manager,Male,38,2025-03-14,0.8,PhD,Single,Travel_Frequently,Yes,15,2,3,7773,Yes
+2324,Sales,Account Manager,Male,25,2025-08-07,0.4,Bachelor,Married,Travel_Rarely,No,8,4,3,7503,No
+2325,Marketing,Marketing Specialist,Male,51,2020-04-21,5.7,PhD,Single,Travel_Rarely,No,29,4,3,7341,Yes
+2326,Sales,Sales Manager,Female,56,2020-04-21,5.7,Bachelor,Married,Non-Travel,Yes,8,2,4,8322,No
+2327,Sales,Account Manager,Male,50,2012-11-28,13.1,High School,Married,Travel_Frequently,Yes,5,3,2,12041,No
+2328,HR,HR Specialist,Male,49,2021-01-01,5.0,Bachelor,Married,Travel_Rarely,Yes,21,2,3,9544,No
+2329,R&D,Research Scientist,Male,39,2011-10-23,14.2,Master,Married,Non-Travel,No,5,2,3,11277,No
+2330,Sales,Sales Executive,Male,47,2015-08-10,10.4,Master,Married,Non-Travel,Yes,19,1,3,8745,No
+2331,Sales,Sales Executive,Female,36,2020-01-02,6.0,PhD,Single,Travel_Rarely,No,13,2,3,8293,Yes
+2332,HR,HR Manager,Female,39,2011-07-06,14.5,Bachelor,Divorced,Travel_Rarely,No,27,1,2,9714,No
+2333,IT,Data Analyst,Female,48,2007-07-07,18.5,Master,Married,Travel_Frequently,No,8,2,3,12812,No
+2334,HR,HR Manager,Male,22,2025-08-07,0.4,Master,Single,Non-Travel,No,30,1,3,6912,Yes
+2335,Sales,Sales Executive,Male,29,2023-09-14,2.3,Bachelor,Divorced,Travel_Rarely,Yes,23,4,1,8565,No
+2336,Finance,Financial Analyst,Male,30,2020-05-28,5.6,Master,Married,Travel_Rarely,Yes,16,1,3,9009,Yes
+2337,R&D,Lab Technician,Male,39,2011-04-24,14.7,Bachelor,Single,Travel_Rarely,No,25,1,3,12286,No
+2338,Marketing,Marketing Manager,Male,22,2025-05-26,0.6,PhD,Single,Travel_Rarely,Yes,29,4,3,7376,No
+2339,Finance,Accountant,Female,46,2010-02-10,15.9,Bachelor,Married,Travel_Rarely,No,3,1,3,12595,No
+2340,R&D,Research Scientist,Female,45,2006-11-30,19.1,Master,Divorced,Travel_Rarely,No,21,1,4,14620,No
+2341,Sales,Sales Executive,Female,50,2014-09-16,11.3,Bachelor,Married,Travel_Rarely,No,10,2,4,8956,No
+2342,R&D,Research Scientist,Male,42,2010-11-29,15.1,Bachelor,Married,Non-Travel,No,9,4,3,11971,No
+2343,Sales,Sales Manager,Female,32,2024-03-14,1.8,Master,Married,Non-Travel,No,29,2,3,10587,No
+2344,Marketing,Marketing Specialist,Male,41,2022-05-27,3.6,PhD,Married,Travel_Rarely,No,15,4,4,7262,No
+2345,R&D,Lab Technician,Male,46,2014-04-23,11.7,Master,Divorced,Travel_Rarely,Yes,25,3,3,12109,No
+2346,Finance,Accountant,Female,32,2023-07-03,2.5,Master,Married,Travel_Rarely,No,15,1,4,10785,No
+2347,Sales,Sales Executive,Female,30,2021-04-21,4.7,PhD,Single,Travel_Rarely,No,28,4,2,9140,No
+2348,HR,HR Manager,Female,33,2015-04-23,10.7,High School,Divorced,Travel_Rarely,No,3,4,3,7122,No
+2349,IT,Software Engineer,Female,50,2007-08-13,18.4,Master,Married,Non-Travel,Yes,7,4,3,14772,No
+2350,Sales,Sales Executive,Male,29,2025-07-02,0.5,PhD,Married,Travel_Rarely,No,1,1,3,8774,Yes
+2351,HR,HR Specialist,Female,40,2014-01-03,12.0,High School,Divorced,Travel_Rarely,No,27,4,1,9426,No
+2352,Sales,Account Manager,Male,42,2019-10-21,6.2,Master,Divorced,Non-Travel,Yes,12,3,3,10998,No
+2353,Sales,Account Manager,Male,48,2024-04-20,1.7,Master,Single,Travel_Frequently,No,7,1,4,6761,No
+2354,Finance,Finance Manager,Male,30,2020-05-28,5.6,Bachelor,Single,Non-Travel,No,10,1,3,9287,No
+2355,IT,QA Engineer,Female,56,2012-05-29,13.6,High School,Single,Travel_Rarely,Yes,22,4,4,13799,No
+2356,Finance,Financial Analyst,Male,48,2021-10-20,4.2,Bachelor,Single,Travel_Frequently,No,13,3,3,8180,No
+2357,R&D,R&D Manager,Male,48,2006-04-25,19.7,Bachelor,Married,Non-Travel,No,13,1,3,12695,No
+2358,IT,Data Analyst,Female,23,2024-09-13,1.3,Bachelor,Married,Travel_Rarely,Yes,29,4,3,12876,No
+2359,Sales,Sales Manager,Female,26,2024-09-13,1.3,Master,Married,Travel_Frequently,Yes,14,1,3,10293,No
+2360,Sales,Account Manager,Male,28,2024-10-19,1.2,High School,Single,Non-Travel,No,15,4,2,7541,No
+2361,Marketing,Content Creator,Male,24,2025-02-06,0.9,Master,Married,Travel_Rarely,No,21,2,2,8382,No
+2362,R&D,Lab Technician,Female,33,2018-11-27,7.1,Master,Married,Travel_Rarely,No,12,2,3,10032,No
+2363,HR,HR Manager,Male,43,2012-03-17,13.8,Master,Married,Non-Travel,No,2,3,3,7793,No
+2364,Sales,Sales Executive,Male,50,2016-09-15,9.3,PhD,Single,Travel_Frequently,No,11,4,3,8677,No
+2365,IT,QA Engineer,Male,54,2014-11-28,11.1,Bachelor,Married,Travel_Rarely,No,3,4,3,14443,Yes
+2366,IT,QA Engineer,Female,38,2013-05-29,12.6,Master,Single,Non-Travel,Yes,6,2,4,14224,No
+2367,HR,HR Manager,Male,34,2014-09-16,11.3,Bachelor,Married,Non-Travel,Yes,25,2,3,9912,No
+2368,IT,Data Analyst,Female,41,2024-12-31,1.0,Master,Single,Travel_Rarely,No,26,3,3,12195,No
+2369,R&D,Lab Technician,Female,46,2011-01-04,15.0,High School,Single,Travel_Frequently,No,23,4,4,12138,No
+2370,Marketing,Marketing Manager,Male,46,2008-09-17,17.3,Master,Single,Travel_Rarely,No,17,1,3,9768,No
+2371,HR,HR Manager,Female,22,2025-12-31,0.0,Bachelor,Married,Travel_Rarely,No,1,3,4,7768,No
+2372,Finance,Finance Manager,Female,22,2025-03-14,0.8,Bachelor,Single,Travel_Frequently,No,22,4,3,10348,No
+2373,IT,QA Engineer,Male,32,2022-04-21,3.7,Bachelor,Married,Travel_Rarely,Yes,13,3,1,10127,No
+2374,R&D,Lab Technician,Female,54,2014-02-09,11.9,Master,Married,Travel_Rarely,No,9,3,2,11490,No
+2375,IT,QA Engineer,Female,34,2018-01-02,8.0,Bachelor,Married,Travel_Rarely,No,14,4,3,14242,No
+2376,R&D,R&D Manager,Male,42,2020-11-26,5.1,PhD,Single,Travel_Frequently,No,30,1,4,11875,Yes
+2377,IT,Data Analyst,Female,53,2007-11-30,18.1,PhD,Single,Travel_Rarely,Yes,2,1,4,14052,No
+2378,IT,Software Engineer,Female,23,2025-11-25,0.1,Master,Married,Travel_Rarely,No,3,3,4,11753,No
+2379,IT,Data Analyst,Male,23,2024-10-19,1.2,Bachelor,Married,Travel_Rarely,No,30,3,1,11324,No
+2380,IT,IT Manager,Male,31,2019-07-04,6.5,Master,Single,Travel_Rarely,No,21,3,3,11253,No
+2381,Sales,Sales Manager,Female,29,2025-12-31,0.0,Master,Married,Non-Travel,No,10,2,3,10134,No
+2382,HR,Recruiter,Male,24,2023-01-01,3.0,Bachelor,Single,Travel_Rarely,Yes,18,3,4,7955,No
+2383,Finance,Accountant,Male,46,2012-08-10,13.4,Master,Single,Travel_Rarely,No,27,4,3,12051,No
+2384,Finance,Finance Manager,Female,24,2024-08-08,1.4,Bachelor,Married,Travel_Frequently,Yes,23,1,3,9332,Yes
+2385,Finance,Finance Manager,Female,32,2021-08-08,4.4,Bachelor,Married,Travel_Rarely,Yes,22,1,4,10581,No
+2386,R&D,R&D Manager,Male,46,2020-05-28,5.6,PhD,Married,Travel_Frequently,No,10,4,2,11614,No
+2387,IT,Software Engineer,Female,49,2016-10-22,9.2,PhD,Divorced,Travel_Rarely,Yes,18,2,3,14600,No
+2388,R&D,Research Scientist,Male,39,2021-01-01,5.0,Master,Married,Travel_Rarely,No,23,4,2,11276,No
+2389,Sales,Account Manager,Female,32,2024-05-26,1.6,Master,Single,Travel_Rarely,No,24,4,3,7303,No
+2390,HR,HR Manager,Female,34,2016-09-15,9.3,High School,Divorced,Travel_Rarely,No,26,3,4,7803,No
+2391,Sales,Account Manager,Male,29,2023-11-26,2.1,Bachelor,Single,Non-Travel,Yes,30,3,4,10368,Yes
+2392,Sales,Account Manager,Male,27,2025-09-13,0.3,Bachelor,Single,Non-Travel,Yes,6,3,3,9634,No
+2393,Sales,Account Manager,Female,27,2022-05-27,3.6,Master,Married,Non-Travel,No,13,1,3,8966,No
+2394,Sales,Sales Executive,Female,32,2022-05-27,3.6,Bachelor,Single,Travel_Rarely,No,19,4,3,9882,No
+2395,R&D,Lab Technician,Male,32,2019-03-16,6.8,Master,Single,Non-Travel,Yes,28,3,3,12700,No
+2396,Sales,Sales Manager,Female,22,2025-02-06,0.9,Bachelor,Married,Travel_Rarely,No,8,4,2,8601,No
+2397,Sales,Account Manager,Male,27,2024-01-01,2.0,Master,Married,Non-Travel,Yes,24,3,3,9510,No
+2398,Finance,Accountant,Male,44,2010-05-30,15.6,Bachelor,Single,Non-Travel,No,21,1,1,11049,No
+2399,Sales,Sales Executive,Male,40,2022-09-14,3.3,Master,Single,Travel_Rarely,No,7,4,3,8797,No
+2400,Finance,Accountant,Female,24,2023-10-20,2.2,Bachelor,Divorced,Travel_Rarely,Yes,3,3,3,10583,No
+2401,Sales,Sales Executive,Male,35,2012-09-16,13.3,Bachelor,Divorced,Non-Travel,No,9,1,3,12070,No
+2402,R&D,Lab Technician,Female,25,2023-10-20,2.2,Bachelor,Single,Non-Travel,No,2,4,3,9457,No
+2403,Sales,Account Manager,Female,60,2014-09-16,11.3,Bachelor,Single,Travel_Rarely,Yes,5,2,4,11291,No
+2404,HR,HR Manager,Male,44,2017-01-02,9.0,Bachelor,Married,Non-Travel,Yes,12,4,3,8814,No
+2405,IT,Software Engineer,Female,49,2019-04-22,6.7,PhD,Single,Travel_Frequently,No,13,1,4,10986,No
+2406,Marketing,Marketing Manager,Male,54,2025-03-14,0.8,Master,Single,Travel_Frequently,No,23,2,2,8544,No
+2407,HR,HR Manager,Female,47,2023-01-01,3.0,Bachelor,Married,Non-Travel,No,7,4,3,9671,No
+2408,IT,Data Analyst,Female,38,2014-01-03,12.0,Master,Divorced,Non-Travel,No,6,1,3,14200,No
+2409,Marketing,Content Creator,Male,46,2012-10-22,13.2,Master,Married,Travel_Rarely,No,9,2,3,11300,No
+2410,R&D,R&D Manager,Female,43,2021-08-08,4.4,Master,Married,Travel_Rarely,No,3,3,3,10334,No
+2411,IT,Data Analyst,Male,33,2021-05-28,4.6,Bachelor,Married,Travel_Rarely,No,23,2,3,10981,No
+2412,Sales,Sales Manager,Female,50,2014-03-17,11.8,Bachelor,Single,Travel_Rarely,Yes,13,2,3,8855,No
+2413,Sales,Sales Manager,Female,54,2009-05-30,16.6,Bachelor,Single,Travel_Frequently,Yes,28,2,4,11969,Yes
+2414,IT,IT Manager,Male,28,2020-03-15,5.8,Master,Married,Travel_Rarely,No,15,1,3,13640,No
+2415,R&D,R&D Manager,Female,39,2011-03-18,14.8,Bachelor,Single,Travel_Rarely,Yes,10,2,3,12241,No
+2416,Sales,Sales Manager,Male,24,2023-10-20,2.2,PhD,Single,Travel_Rarely,No,8,2,3,7723,Yes
+2417,IT,Software Engineer,Female,36,2017-04-22,8.7,Bachelor,Married,Non-Travel,No,2,1,3,11529,Yes
+2418,Sales,Sales Executive,Male,25,2022-08-08,3.4,Bachelor,Married,Non-Travel,No,29,4,2,10668,No
+2419,Sales,Sales Executive,Female,45,2011-07-06,14.5,High School,Married,Travel_Rarely,No,28,1,3,8970,No
+2420,IT,IT Manager,Female,58,2022-01-01,4.0,PhD,Married,Non-Travel,No,1,2,3,10537,No
+2421,Finance,Accountant,Male,29,2024-08-08,1.4,Bachelor,Single,Travel_Frequently,Yes,14,2,3,10237,Yes
+2422,IT,Software Engineer,Female,39,2015-11-28,10.1,Master,Single,Non-Travel,Yes,21,3,2,13917,Yes
+2423,R&D,Research Scientist,Female,45,2007-02-11,18.9,Master,Married,Travel_Rarely,Yes,26,1,3,11960,Yes
+2424,Finance,Finance Manager,Male,54,2011-05-30,14.6,Master,Married,Non-Travel,Yes,30,1,3,11613,No
+2425,Marketing,Marketing Manager,Female,45,2007-09-18,18.3,PhD,Married,Non-Travel,Yes,16,4,3,12316,No
+2426,Sales,Account Manager,Female,41,2017-09-15,8.3,Bachelor,Married,Travel_Rarely,No,16,3,3,10518,No
+2427,Sales,Sales Manager,Male,41,2025-04-20,0.7,High School,Single,Non-Travel,No,13,2,3,7510,No
+2428,Sales,Sales Manager,Female,52,2013-03-17,12.8,Bachelor,Married,Travel_Rarely,No,6,3,2,10588,No
+2429,IT,Data Analyst,Male,31,2024-11-25,1.1,Master,Single,Travel_Rarely,No,2,2,3,11356,No
+2430,HR,HR Specialist,Female,29,2024-03-14,1.8,Bachelor,Single,Non-Travel,No,30,2,1,9559,Yes
+2431,HR,HR Manager,Male,27,2025-09-13,0.3,Bachelor,Divorced,Non-Travel,Yes,4,4,3,5930,No
+2432,Finance,Accountant,Male,34,2016-10-22,9.2,Bachelor,Single,Travel_Frequently,No,6,2,3,11198,No
+2433,Sales,Account Manager,Female,52,2015-10-23,10.2,Master,Single,Travel_Rarely,No,18,1,3,11526,No
+2434,IT,Data Analyst,Female,27,2021-01-01,5.0,Master,Married,Travel_Rarely,No,8,2,3,11174,No
+2435,Sales,Sales Executive,Male,49,2018-08-09,7.4,Bachelor,Married,Travel_Frequently,Yes,18,4,3,8829,No
+2436,HR,HR Specialist,Female,54,2025-07-02,0.5,Master,Divorced,Travel_Rarely,No,12,3,2,6661,No
+2437,HR,HR Specialist,Female,53,2022-08-08,3.4,Bachelor,Single,Travel_Frequently,No,27,1,3,8935,No
+2438,R&D,R&D Manager,Male,36,2015-08-10,10.4,Master,Single,Travel_Frequently,No,7,2,3,10704,No
+2439,Sales,Sales Executive,Male,37,2020-02-08,5.9,Master,Married,Travel_Rarely,No,8,1,4,8672,No
+2440,HR,HR Specialist,Female,41,2021-03-15,4.8,Bachelor,Married,Travel_Rarely,No,3,4,3,7390,No
+2441,HR,Recruiter,Female,42,2011-01-04,15.0,Master,Married,Travel_Rarely,Yes,14,1,3,7995,No
+2442,R&D,Lab Technician,Male,40,2008-11-29,17.1,Bachelor,Single,Non-Travel,No,14,4,3,14245,No
+2443,HR,HR Specialist,Male,58,2022-08-08,3.4,Master,Married,Travel_Frequently,No,30,3,4,9771,No
+2444,R&D,Research Scientist,Female,25,2022-04-21,3.7,Bachelor,Divorced,Travel_Frequently,No,28,4,3,11556,No
+2445,Finance,Accountant,Female,32,2017-04-22,8.7,Bachelor,Single,Travel_Rarely,No,25,1,2,11369,No
+2446,IT,IT Manager,Female,25,2025-02-06,0.9,Bachelor,Single,Non-Travel,No,18,4,3,10661,No
+2447,Sales,Sales Executive,Male,46,2021-08-08,4.4,Bachelor,Single,Non-Travel,No,11,3,2,8554,No
+2448,HR,HR Specialist,Male,38,2014-02-09,11.9,Master,Divorced,Non-Travel,No,17,1,3,8195,Yes
+2449,Finance,Finance Manager,Female,52,2010-04-24,15.7,Master,Married,Travel_Rarely,Yes,4,4,2,12764,No
+2450,R&D,R&D Manager,Male,60,2019-02-08,6.9,Master,Married,Travel_Rarely,Yes,27,1,4,12344,No
+2451,R&D,Research Scientist,Female,37,2011-10-23,14.2,PhD,Married,Non-Travel,Yes,12,3,2,13797,Yes
+2452,HR,HR Manager,Male,56,2009-08-12,16.4,Bachelor,Married,Travel_Rarely,No,24,3,4,11470,No
+2453,Finance,Finance Manager,Female,39,2013-03-17,12.8,Bachelor,Divorced,Travel_Rarely,Yes,28,2,3,13285,Yes
+2454,IT,IT Manager,Male,22,2025-11-25,0.1,Master,Divorced,Travel_Rarely,No,6,4,2,11467,No
+2455,HR,Recruiter,Male,45,2025-02-06,0.9,Bachelor,Married,Travel_Frequently,No,20,2,3,8334,Yes
+2456,Finance,Financial Analyst,Male,45,2017-09-15,8.3,Master,Married,Non-Travel,No,13,2,4,11509,No
+2457,R&D,Lab Technician,Female,54,2019-10-21,6.2,Bachelor,Married,Non-Travel,Yes,4,2,1,10134,No
+2458,Sales,Account Manager,Male,23,2025-07-02,0.5,Bachelor,Divorced,Travel_Rarely,Yes,20,4,4,7165,No
+2459,R&D,Research Scientist,Female,60,2022-08-08,3.4,Bachelor,Married,Travel_Rarely,No,10,1,3,10797,No
+2460,Sales,Sales Manager,Female,51,2011-04-24,14.7,Bachelor,Single,Travel_Rarely,No,23,2,3,8932,Yes
+2461,HR,Recruiter,Male,56,2022-04-21,3.7,Bachelor,Divorced,Travel_Rarely,No,10,2,3,8010,No
+2462,IT,IT Manager,Female,57,2007-08-13,18.4,Bachelor,Married,Travel_Rarely,No,20,3,3,14918,No
+2463,Marketing,Marketing Manager,Male,50,2008-11-29,17.1,PhD,Single,Travel_Frequently,No,19,1,4,8749,No
+2464,Finance,Financial Analyst,Female,57,2023-05-27,2.6,Bachelor,Married,Travel_Rarely,No,6,1,4,9998,No
+2465,Finance,Accountant,Male,23,2025-05-26,0.6,Master,Married,Non-Travel,Yes,3,4,2,10177,Yes
+2466,IT,QA Engineer,Female,23,2025-08-07,0.4,Bachelor,Married,Travel_Rarely,No,7,3,3,10021,No
+2467,Sales,Account Manager,Male,55,2009-05-30,16.6,Bachelor,Married,Travel_Rarely,No,25,2,3,12624,No
+2468,Sales,Sales Manager,Female,40,2020-01-02,6.0,Master,Single,Non-Travel,Yes,4,3,3,10720,No
+2469,HR,HR Specialist,Female,27,2024-10-19,1.2,High School,Single,Travel_Rarely,No,10,3,4,9253,Yes
+2470,Marketing,Content Creator,Female,57,2012-01-04,14.0,Bachelor,Single,Travel_Frequently,No,29,4,3,9517,No
+2471,Marketing,Content Creator,Female,40,2025-04-20,0.7,High School,Divorced,Non-Travel,Yes,25,3,3,9991,No
+2472,IT,IT Manager,Female,40,2015-09-16,10.3,PhD,Single,Travel_Rarely,No,5,2,3,14612,No
+2473,HR,HR Specialist,Female,24,2023-11-26,2.1,Bachelor,Married,Travel_Rarely,Yes,27,3,3,9164,No
+2474,R&D,Lab Technician,Male,31,2021-05-28,4.6,Bachelor,Single,Travel_Rarely,No,11,4,4,9402,No
+2475,R&D,Lab Technician,Female,22,2025-07-02,0.5,Bachelor,Married,Non-Travel,No,29,4,4,9106,No
+2476,Sales,Sales Manager,Male,59,2014-03-17,11.8,Bachelor,Single,Non-Travel,Yes,11,1,3,10625,Yes
+2477,HR,HR Specialist,Female,40,2011-03-18,14.8,Master,Single,Travel_Frequently,Yes,18,3,3,11044,Yes
+2478,IT,Data Analyst,Male,50,2007-09-18,18.3,Bachelor,Single,Travel_Rarely,No,23,3,1,12967,No
+2479,Finance,Accountant,Female,43,2017-10-22,8.2,Master,Single,Non-Travel,Yes,8,1,3,9637,No
+2480,R&D,R&D Manager,Female,30,2023-07-03,2.5,Bachelor,Single,Travel_Frequently,Yes,18,3,3,10233,No
+2481,IT,Software Engineer,Female,58,2025-05-26,0.6,PhD,Married,Travel_Frequently,No,28,4,3,11792,No
+2482,Sales,Sales Executive,Male,40,2009-05-30,16.6,PhD,Single,Travel_Frequently,No,14,3,3,10385,No
+2483,Marketing,Content Creator,Female,29,2019-02-08,6.9,High School,Married,Travel_Rarely,No,21,1,3,7724,No
+2484,Finance,Accountant,Female,24,2024-02-07,1.9,PhD,Married,Non-Travel,No,10,3,3,8626,No
+2485,R&D,Research Scientist,Female,41,2014-08-10,11.4,Bachelor,Single,Travel_Rarely,No,26,4,3,9910,No
+2486,IT,Data Analyst,Female,36,2015-07-05,10.5,Bachelor,Married,Non-Travel,No,6,1,4,12537,No
+2487,IT,Software Engineer,Female,52,2006-02-11,19.9,High School,Married,Travel_Rarely,Yes,29,2,3,15439,No
+2488,Sales,Sales Manager,Female,22,2025-03-14,0.8,Master,Married,Travel_Rarely,No,8,1,3,9875,Yes
+2489,Marketing,Marketing Specialist,Female,33,2017-02-08,8.9,High School,Single,Non-Travel,No,29,2,3,8817,No
+2490,HR,HR Specialist,Female,28,2025-08-07,0.4,Master,Married,Travel_Rarely,Yes,18,1,3,9439,No
+2491,Sales,Sales Executive,Male,39,2013-11-28,12.1,Bachelor,Married,Travel_Rarely,No,9,1,2,8420,No
+2492,R&D,R&D Manager,Male,29,2019-01-02,7.0,Bachelor,Single,Non-Travel,No,14,2,4,11566,Yes
+2493,Finance,Finance Manager,Female,30,2017-02-08,8.9,High School,Divorced,Travel_Rarely,Yes,22,1,3,12444,No
+2494,HR,HR Manager,Male,42,2008-08-12,17.4,Master,Married,Non-Travel,No,18,3,3,11859,No
+2495,Marketing,Marketing Manager,Male,33,2018-03-16,7.8,Bachelor,Married,Travel_Rarely,No,14,4,3,9625,No
+2496,R&D,Lab Technician,Female,26,2024-11-25,1.1,High School,Single,Travel_Rarely,Yes,25,4,3,11718,No
+2497,R&D,R&D Manager,Female,44,2010-11-29,15.1,High School,Married,Travel_Rarely,No,11,1,3,11331,Yes
+2498,R&D,Lab Technician,Female,51,2016-10-22,9.2,Bachelor,Single,Travel_Frequently,Yes,18,4,3,12822,No
+2499,HR,HR Specialist,Male,54,2024-01-01,2.0,Bachelor,Single,Non-Travel,No,15,1,3,8533,No
+2500,HR,HR Specialist,Female,28,2023-08-08,2.4,Bachelor,Married,Travel_Rarely,No,24,3,4,6701,No
+2501,Marketing,Marketing Manager,Male,51,2012-09-16,13.3,Bachelor,Divorced,Non-Travel,No,5,2,3,8476,No
+2502,R&D,R&D Manager,Female,39,2011-07-06,14.5,Bachelor,Single,Travel_Rarely,Yes,10,3,3,12177,No
+2503,Sales,Sales Executive,Male,34,2018-05-28,7.6,Bachelor,Married,Non-Travel,No,1,4,3,10847,No
+2504,Finance,Financial Analyst,Male,38,2011-08-11,14.4,High School,Married,Travel_Frequently,No,26,2,2,13608,Yes
+2505,Finance,Accountant,Male,54,2011-09-17,14.3,PhD,Divorced,Travel_Rarely,No,19,3,3,11388,No
+2506,Marketing,Marketing Specialist,Male,28,2024-10-19,1.2,Bachelor,Single,Travel_Rarely,No,29,2,4,9132,No
+2507,HR,HR Specialist,Male,36,2019-09-15,6.3,Bachelor,Married,Non-Travel,No,27,4,3,8291,No
+2508,Sales,Sales Manager,Female,50,2007-04-25,18.7,Bachelor,Married,Travel_Rarely,No,14,4,4,12606,No
+2509,R&D,R&D Manager,Female,25,2024-09-13,1.3,Master,Married,Non-Travel,No,14,4,4,11077,No
+2510,IT,Data Analyst,Male,36,2020-08-08,5.4,Master,Married,Non-Travel,No,9,3,2,14256,No
+2511,IT,Software Engineer,Male,38,2009-04-24,16.7,Bachelor,Divorced,Non-Travel,No,3,4,4,14797,No
+2512,Sales,Account Manager,Female,42,2010-11-29,15.1,Bachelor,Single,Travel_Rarely,No,10,3,4,9295,No
+2513,R&D,Research Scientist,Male,41,2015-10-23,10.2,Bachelor,Single,Non-Travel,Yes,8,1,2,11685,No
+2514,R&D,Lab Technician,Male,54,2023-10-20,2.2,PhD,Married,Non-Travel,No,24,4,4,8949,No
+2515,Sales,Account Manager,Female,52,2007-08-13,18.4,Bachelor,Married,Travel_Frequently,No,7,2,4,9884,Yes
+2516,Sales,Sales Manager,Female,56,2006-03-19,19.8,Bachelor,Divorced,Travel_Frequently,No,5,3,3,12361,No
+2517,IT,IT Manager,Male,31,2022-07-03,3.5,Master,Married,Travel_Rarely,No,28,1,2,13876,No
+2518,HR,HR Specialist,Female,50,2008-04-24,17.7,Master,Single,Non-Travel,Yes,2,3,3,10370,No
+2519,IT,IT Manager,Female,40,2023-03-16,2.8,Master,Single,Travel_Rarely,No,18,3,3,11632,No
+2520,Finance,Accountant,Female,46,2019-03-16,6.8,Master,Married,Travel_Rarely,Yes,16,1,3,9826,No
+2521,R&D,Lab Technician,Female,49,2006-04-25,19.7,Bachelor,Single,Non-Travel,No,1,3,3,13085,No
+2522,R&D,R&D Manager,Female,25,2024-11-25,1.1,Master,Divorced,Non-Travel,No,27,1,3,9003,No
+2523,IT,QA Engineer,Male,39,2011-10-23,14.2,Master,Single,Non-Travel,No,11,3,3,13745,No
+2524,IT,IT Manager,Male,45,2023-05-27,2.6,Master,Single,Non-Travel,No,17,2,3,11272,No
+2525,IT,Software Engineer,Male,39,2010-11-29,15.1,Bachelor,Married,Non-Travel,No,19,3,3,12600,No
+2526,R&D,Research Scientist,Female,50,2021-01-01,5.0,Master,Single,Travel_Rarely,No,14,3,1,10390,No
+2527,HR,HR Specialist,Female,22,2024-12-31,1.0,Bachelor,Divorced,Travel_Rarely,No,24,2,3,8537,No
+2528,IT,QA Engineer,Male,44,2018-11-27,7.1,Bachelor,Married,Non-Travel,Yes,5,4,4,12553,No
+2529,IT,Software Engineer,Male,28,2025-02-06,0.9,Bachelor,Divorced,Travel_Rarely,No,6,1,2,10766,No
+2530,Finance,Accountant,Female,38,2012-01-04,14.0,Bachelor,Single,Travel_Rarely,No,23,2,3,12355,Yes
+2531,Finance,Accountant,Male,30,2024-01-01,2.0,Bachelor,Married,Non-Travel,Yes,12,4,3,10213,No
+2532,IT,IT Manager,Male,55,2008-08-12,17.4,Master,Married,Travel_Rarely,Yes,10,4,3,14566,No
+2533,Finance,Accountant,Female,22,2025-10-19,0.2,Master,Married,Non-Travel,No,23,3,3,9403,Yes
+2534,Sales,Sales Manager,Male,32,2016-09-15,9.3,Bachelor,Married,Travel_Frequently,Yes,7,2,3,9933,No
+2535,R&D,Lab Technician,Female,36,2015-10-23,10.2,Bachelor,Single,Travel_Rarely,No,13,1,4,12326,No
+2536,IT,QA Engineer,Female,48,2020-01-02,6.0,High School,Divorced,Non-Travel,No,9,4,3,12473,No
+2537,R&D,R&D Manager,Female,59,2010-02-10,15.9,Master,Single,Travel_Rarely,No,22,4,2,13069,No
+2538,R&D,Lab Technician,Female,43,2014-02-09,11.9,PhD,Single,Travel_Rarely,Yes,8,3,3,12769,No
+2539,IT,IT Manager,Male,51,2010-04-24,15.7,Master,Married,Travel_Rarely,No,20,1,3,14993,Yes
+2540,HR,HR Manager,Female,27,2024-09-13,1.3,Bachelor,Single,Travel_Rarely,No,6,1,4,8380,No
+2541,HR,Recruiter,Female,25,2023-11-26,2.1,PhD,Married,Travel_Rarely,No,14,4,3,7064,No
+2542,Finance,Finance Manager,Female,27,2021-03-15,4.8,Bachelor,Single,Non-Travel,No,26,2,2,11319,No
+2543,Marketing,Marketing Specialist,Female,39,2010-09-17,15.3,Bachelor,Married,Travel_Rarely,No,4,3,3,10416,No
+2544,HR,HR Specialist,Male,23,2024-10-19,1.2,PhD,Single,Travel_Rarely,No,26,1,3,8686,No
+2545,Finance,Financial Analyst,Male,58,2020-03-15,5.8,PhD,Married,Travel_Rarely,Yes,4,2,3,9158,No
+2546,IT,QA Engineer,Male,33,2023-04-21,2.7,Bachelor,Married,Non-Travel,Yes,4,4,3,12539,No
+2547,HR,Recruiter,Female,40,2008-04-24,17.7,Master,Divorced,Non-Travel,Yes,26,3,1,8159,No
+2548,R&D,R&D Manager,Male,46,2024-11-25,1.1,PhD,Single,Travel_Rarely,No,24,4,3,8944,No
+2549,Finance,Finance Manager,Male,44,2011-08-11,14.4,Bachelor,Married,Non-Travel,Yes,26,2,2,10191,No
+2550,Sales,Account Manager,Male,51,2015-03-17,10.8,Master,Married,Travel_Rarely,No,16,1,2,10906,No
+2551,Marketing,Marketing Manager,Female,53,2021-10-20,4.2,Master,Single,Non-Travel,No,22,4,3,7013,No
+2552,Marketing,Marketing Manager,Female,35,2024-02-07,1.9,Bachelor,Married,Travel_Rarely,No,23,3,3,8382,No
+2553,R&D,Research Scientist,Female,44,2008-08-12,17.4,Master,Married,Non-Travel,No,20,1,4,13485,No
+2554,R&D,R&D Manager,Female,49,2020-04-21,5.7,Bachelor,Single,Travel_Frequently,No,18,3,3,10964,No
+2555,Sales,Sales Executive,Female,47,2018-01-02,8.0,Master,Married,Travel_Rarely,No,6,4,2,7988,No
+2556,Sales,Sales Manager,Male,59,2021-01-01,5.0,Bachelor,Single,Non-Travel,Yes,11,3,3,10533,No
+2557,HR,Recruiter,Male,51,2016-04-22,9.7,Master,Married,Non-Travel,Yes,5,1,2,8063,No
+2558,IT,Data Analyst,Female,25,2022-10-20,3.2,Bachelor,Single,Travel_Rarely,No,9,3,4,12505,No
+2559,Sales,Sales Executive,Female,48,2012-05-29,13.6,Master,Married,Travel_Rarely,Yes,3,1,3,10067,No
+2560,Sales,Account Manager,Female,32,2016-11-27,9.1,Master,Married,Travel_Rarely,Yes,29,2,3,8424,Yes
+2561,IT,Software Engineer,Female,52,2008-05-30,17.6,PhD,Married,Travel_Rarely,No,15,2,1,15691,No
+2562,Sales,Sales Executive,Female,52,2013-09-16,12.3,High School,Single,Non-Travel,No,2,1,4,8861,No
+2563,Sales,Account Manager,Female,40,2013-02-09,12.9,Master,Single,Travel_Frequently,No,22,3,3,12148,No
+2564,Sales,Account Manager,Male,57,2023-02-07,2.9,Bachelor,Single,Travel_Rarely,No,14,3,3,9757,No
+2565,Sales,Sales Executive,Male,22,2025-07-02,0.5,PhD,Married,Non-Travel,Yes,3,2,2,8925,No
+2566,R&D,Lab Technician,Male,24,2025-04-20,0.7,Master,Married,Non-Travel,No,18,2,4,9347,No
+2567,Finance,Finance Manager,Female,58,2013-01-03,13.0,Master,Married,Travel_Rarely,No,25,2,3,11297,No
+2568,IT,Software Engineer,Female,49,2020-05-28,5.6,Bachelor,Single,Travel_Rarely,Yes,13,2,3,13179,Yes
+2569,R&D,Lab Technician,Male,59,2022-04-21,3.7,Bachelor,Married,Non-Travel,No,26,3,4,9645,No
+2570,Finance,Accountant,Male,31,2025-09-13,0.3,Master,Married,Travel_Rarely,No,12,1,2,8762,Yes
+2571,Sales,Account Manager,Female,38,2010-10-23,15.2,Bachelor,Single,Travel_Rarely,No,24,1,3,11481,No
+2572,Sales,Account Manager,Male,59,2019-03-16,6.8,Master,Single,Non-Travel,No,9,4,2,7619,Yes
+2573,Sales,Sales Executive,Female,25,2023-04-21,2.7,Master,Single,Travel_Rarely,No,10,1,4,9055,Yes
+2574,Finance,Accountant,Female,51,2021-11-26,4.1,Master,Single,Non-Travel,No,6,2,3,10133,No
+2575,Marketing,Marketing Specialist,Female,51,2016-05-28,9.6,Master,Married,Non-Travel,No,1,1,3,11260,No
+2576,IT,QA Engineer,Male,53,2006-02-11,19.9,Bachelor,Single,Travel_Rarely,No,18,4,2,13587,Yes
+2577,HR,Recruiter,Male,32,2015-01-03,11.0,Bachelor,Single,Travel_Frequently,Yes,21,3,3,7684,Yes
+2578,Sales,Account Manager,Male,27,2020-08-08,5.4,Master,Married,Travel_Rarely,No,1,1,3,10679,No
+2579,IT,QA Engineer,Male,43,2011-03-18,14.8,PhD,Married,Travel_Rarely,Yes,22,3,3,12936,No
+2580,Marketing,Marketing Manager,Male,22,2025-07-02,0.5,Bachelor,Married,Non-Travel,Yes,25,2,2,8824,No
+2581,R&D,Research Scientist,Male,54,2011-09-17,14.3,Bachelor,Single,Travel_Frequently,No,19,2,3,13879,No
+2582,Marketing,Marketing Specialist,Female,34,2018-05-28,7.6,Master,Single,Travel_Frequently,No,25,4,2,9197,No
+2583,R&D,Lab Technician,Male,25,2022-11-26,3.1,Bachelor,Single,Travel_Frequently,No,15,2,4,10900,No
+2584,Sales,Sales Manager,Male,29,2019-09-15,6.3,High School,Married,Travel_Rarely,No,2,3,3,10770,No
+2585,Marketing,Marketing Specialist,Female,41,2015-05-29,10.6,Master,Married,Travel_Rarely,Yes,14,4,3,7745,No
+2586,R&D,R&D Manager,Male,35,2015-01-03,11.0,Bachelor,Single,Travel_Rarely,Yes,9,3,3,12412,No
+2587,Sales,Account Manager,Male,38,2016-05-28,9.6,Bachelor,Single,Travel_Frequently,No,7,2,3,10087,No
+2588,R&D,R&D Manager,Female,29,2019-04-22,6.7,PhD,Divorced,Travel_Rarely,No,17,2,2,9422,No
+2589,Marketing,Marketing Manager,Male,23,2025-11-25,0.1,Master,Married,Travel_Rarely,No,13,2,2,6530,No
+2590,R&D,Lab Technician,Female,31,2018-01-02,8.0,Master,Married,Travel_Rarely,No,5,3,3,12241,No
+2591,R&D,Research Scientist,Female,35,2025-09-13,0.3,Bachelor,Single,Travel_Rarely,No,29,4,1,11015,No
+2592,Sales,Sales Executive,Female,57,2015-02-09,10.9,Bachelor,Married,Non-Travel,No,4,1,3,10608,Yes
+2593,HR,Recruiter,Male,24,2023-07-03,2.5,High School,Married,Travel_Rarely,No,5,2,4,6778,No
+2594,Sales,Sales Manager,Female,23,2025-05-26,0.6,Master,Single,Non-Travel,No,28,2,3,7088,No
+2595,IT,QA Engineer,Female,54,2007-02-11,18.9,Master,Married,Travel_Frequently,No,27,2,3,13037,No
+2596,IT,IT Manager,Male,25,2024-08-08,1.4,Master,Single,Non-Travel,No,3,3,3,11816,No
+2597,Marketing,Marketing Specialist,Male,26,2021-05-28,4.6,Bachelor,Single,Travel_Rarely,Yes,18,1,1,7203,Yes
+2598,IT,Software Engineer,Male,58,2006-07-07,19.5,Master,Married,Travel_Rarely,Yes,9,3,4,15545,Yes
+2599,R&D,R&D Manager,Female,39,2017-03-16,8.8,Master,Married,Non-Travel,Yes,17,1,3,12242,No
+2600,Finance,Finance Manager,Male,25,2025-12-31,0.0,Bachelor,Single,Travel_Frequently,No,5,2,1,8446,No
+2601,HR,HR Manager,Female,34,2015-03-17,10.8,Bachelor,Married,Non-Travel,Yes,21,3,4,8194,No
+2602,HR,HR Specialist,Male,37,2016-04-22,9.7,Master,Married,Travel_Frequently,No,19,4,3,10216,No
+2603,IT,IT Manager,Female,58,2025-11-25,0.1,Bachelor,Single,Travel_Rarely,Yes,22,2,3,9743,No
+2604,Finance,Financial Analyst,Male,30,2021-10-20,4.2,Bachelor,Single,Travel_Rarely,No,9,3,3,10695,Yes
+2605,IT,QA Engineer,Male,44,2016-07-04,9.5,Bachelor,Married,Travel_Rarely,No,30,3,4,14486,No
+2606,Finance,Finance Manager,Male,59,2019-04-22,6.7,Bachelor,Divorced,Travel_Frequently,No,23,2,3,9455,No
+2607,IT,Software Engineer,Male,29,2021-03-15,4.8,Master,Single,Travel_Frequently,Yes,10,3,3,13727,No
+2608,HR,HR Manager,Female,41,2023-11-26,2.1,Bachelor,Married,Travel_Frequently,No,6,1,4,7339,Yes
+2609,IT,QA Engineer,Male,52,2006-05-31,19.6,Bachelor,Married,Travel_Frequently,No,25,4,1,13296,No
+2610,Sales,Sales Manager,Female,40,2022-04-21,3.7,PhD,Married,Non-Travel,Yes,12,1,3,10415,Yes
+2611,Sales,Account Manager,Female,42,2007-09-18,18.3,Bachelor,Married,Non-Travel,No,14,3,3,9421,No
+2612,Sales,Sales Manager,Female,28,2024-11-25,1.1,PhD,Divorced,Travel_Rarely,No,28,3,3,9547,Yes
+2613,IT,Data Analyst,Female,33,2022-07-03,3.5,PhD,Married,Travel_Rarely,Yes,21,3,1,11171,No
+2614,HR,HR Specialist,Male,49,2020-01-02,6.0,Master,Married,Travel_Rarely,No,9,4,4,9507,No
+2615,IT,Software Engineer,Male,32,2015-03-17,10.8,Master,Single,Travel_Rarely,No,16,1,4,15060,No
+2616,IT,QA Engineer,Male,51,2011-07-06,14.5,Bachelor,Married,Travel_Rarely,No,15,3,3,13628,No
+2617,Sales,Sales Executive,Female,44,2007-09-18,18.3,Bachelor,Married,Travel_Rarely,No,14,3,4,12668,No
+2618,R&D,Lab Technician,Female,48,2023-09-14,2.3,Master,Single,Travel_Rarely,Yes,9,1,3,9654,No
+2619,HR,HR Specialist,Male,45,2018-10-21,7.2,Bachelor,Single,Non-Travel,No,28,3,2,10235,No
+2620,Sales,Account Manager,Male,38,2010-10-23,15.2,High School,Married,Travel_Rarely,Yes,6,1,3,11176,No
+2621,R&D,Research Scientist,Female,37,2025-10-19,0.2,Master,Single,Travel_Rarely,No,21,1,3,9405,No
+2622,Marketing,Marketing Specialist,Male,25,2024-12-31,1.0,Bachelor,Married,Travel_Rarely,Yes,7,1,3,7079,Yes
+2623,IT,QA Engineer,Male,52,2025-08-07,0.4,Bachelor,Single,Travel_Frequently,Yes,8,2,3,13135,No
+2624,IT,IT Manager,Female,44,2010-08-11,15.4,Bachelor,Divorced,Travel_Rarely,No,20,2,1,15798,No
+2625,R&D,Lab Technician,Male,56,2007-08-13,18.4,Master,Divorced,Non-Travel,No,13,2,3,11815,Yes
+2626,HR,HR Specialist,Female,36,2016-08-09,9.4,High School,Married,Travel_Rarely,No,29,1,3,9429,No
+2627,R&D,Lab Technician,Female,56,2021-03-15,4.8,Bachelor,Married,Travel_Rarely,Yes,9,1,4,9620,No
+2628,Finance,Accountant,Male,24,2024-11-25,1.1,High School,Married,Travel_Rarely,No,8,3,3,7877,No
+2629,R&D,R&D Manager,Male,31,2020-09-14,5.3,High School,Married,Non-Travel,Yes,26,2,3,12148,No
+2630,HR,HR Manager,Male,60,2021-01-01,5.0,High School,Married,Non-Travel,No,21,1,3,10224,No
+2631,Sales,Account Manager,Female,36,2022-09-14,3.3,PhD,Married,Travel_Rarely,No,15,2,3,10672,Yes
+2632,Sales,Sales Manager,Male,47,2007-08-13,18.4,PhD,Single,Travel_Rarely,Yes,13,2,4,13114,No
+2633,Sales,Sales Executive,Female,44,2007-02-11,18.9,Master,Single,Travel_Frequently,No,22,1,3,13167,No
+2634,Sales,Sales Manager,Male,34,2016-03-16,9.8,Bachelor,Married,Travel_Rarely,Yes,12,3,3,9275,No
+2635,HR,HR Manager,Female,30,2023-10-20,2.2,Bachelor,Single,Non-Travel,No,6,2,3,7679,No
+2636,R&D,Research Scientist,Male,51,2007-02-11,18.9,Bachelor,Married,Non-Travel,No,16,1,4,12244,No
+2637,R&D,Research Scientist,Male,44,2006-01-05,20.0,Bachelor,Divorced,Travel_Frequently,No,22,2,3,11077,No
+2638,Marketing,Marketing Manager,Male,42,2009-05-30,16.6,High School,Married,Non-Travel,Yes,19,4,3,8937,No
+2639,R&D,Research Scientist,Male,48,2023-11-26,2.1,Bachelor,Married,Non-Travel,Yes,1,4,3,11166,No
+2640,R&D,Research Scientist,Female,32,2025-02-06,0.9,PhD,Married,Non-Travel,Yes,11,2,3,8828,No
+2641,R&D,R&D Manager,Male,22,2025-03-14,0.8,Master,Married,Non-Travel,No,5,2,3,8223,Yes
+2642,IT,IT Manager,Female,38,2021-03-15,4.8,Bachelor,Single,Non-Travel,Yes,18,2,4,10789,No
+2643,Sales,Sales Manager,Male,44,2021-02-07,4.9,High School,Married,Non-Travel,No,28,2,3,7351,No
+2644,R&D,Research Scientist,Male,59,2009-01-04,17.0,Master,Single,Travel_Rarely,No,18,1,3,12412,No
+2645,Sales,Sales Manager,Male,48,2019-11-27,6.1,PhD,Single,Travel_Rarely,Yes,28,4,4,10242,No
+2646,Sales,Account Manager,Male,28,2021-07-03,4.5,Bachelor,Single,Travel_Rarely,No,28,2,4,9993,Yes
+2647,Sales,Account Manager,Female,51,2021-07-03,4.5,Bachelor,Married,Non-Travel,No,22,2,4,10961,No
+2648,R&D,R&D Manager,Male,45,2021-08-08,4.4,Bachelor,Single,Non-Travel,No,17,1,3,12223,Yes
+2649,Sales,Account Manager,Female,46,2011-09-17,14.3,Master,Single,Non-Travel,No,22,2,3,9474,Yes
+2650,R&D,Research Scientist,Female,26,2023-05-27,2.6,Master,Married,Travel_Frequently,No,23,1,3,10389,No
+2651,HR,HR Specialist,Female,24,2023-09-14,2.3,Bachelor,Divorced,Non-Travel,No,13,1,3,8219,Yes
+2652,Sales,Sales Manager,Male,35,2014-03-17,11.8,Master,Married,Travel_Rarely,No,28,4,2,10187,No
+2653,IT,IT Manager,Male,31,2016-09-15,9.3,Bachelor,Single,Non-Travel,No,3,4,3,11768,No
+2654,Finance,Financial Analyst,Male,34,2018-03-16,7.8,Bachelor,Single,Non-Travel,No,3,2,2,10728,No
+2655,Sales,Sales Executive,Male,24,2023-11-26,2.1,Master,Married,Travel_Rarely,No,11,2,2,10391,Yes
+2656,Finance,Financial Analyst,Male,55,2022-10-20,3.2,Master,Single,Non-Travel,No,25,2,3,10719,No
+2657,Finance,Financial Analyst,Female,40,2018-11-27,7.1,Bachelor,Single,Travel_Frequently,No,9,4,2,10263,Yes
+2658,Sales,Sales Manager,Male,27,2022-10-20,3.2,Bachelor,Married,Travel_Frequently,Yes,30,3,3,8685,No
+2659,IT,IT Manager,Male,26,2021-07-03,4.5,Bachelor,Divorced,Travel_Rarely,Yes,9,1,3,12205,Yes
+2660,Finance,Finance Manager,Female,24,2023-08-08,2.4,Master,Single,Travel_Rarely,Yes,30,1,3,11527,Yes
+2661,Marketing,Marketing Specialist,Female,22,2025-10-19,0.2,Bachelor,Married,Travel_Rarely,Yes,26,3,3,8735,No
+2662,IT,Data Analyst,Female,47,2025-11-25,0.1,PhD,Married,Travel_Rarely,No,2,3,4,11729,No
+2663,Finance,Financial Analyst,Male,44,2021-05-28,4.6,Bachelor,Divorced,Non-Travel,No,22,4,2,11995,No
+2664,R&D,R&D Manager,Female,26,2023-01-01,3.0,Bachelor,Single,Travel_Rarely,No,18,3,3,8488,No
+2665,IT,Software Engineer,Male,34,2020-03-15,5.8,PhD,Single,Non-Travel,Yes,16,4,3,11844,No
+2666,R&D,Lab Technician,Male,25,2022-04-21,3.7,Bachelor,Married,Non-Travel,No,22,4,3,9724,No
+2667,IT,Software Engineer,Female,45,2016-03-16,9.8,Bachelor,Married,Travel_Rarely,No,5,1,4,14681,No
+2668,Marketing,Marketing Specialist,Female,45,2009-09-17,16.3,Master,Married,Non-Travel,Yes,25,2,3,10343,No
+2669,Sales,Sales Executive,Female,52,2013-05-29,12.6,Bachelor,Married,Non-Travel,No,23,1,1,10879,Yes
+2670,Finance,Accountant,Female,40,2024-01-01,2.0,PhD,Married,Travel_Rarely,No,12,3,4,11285,No
+2671,Sales,Sales Executive,Male,28,2019-09-15,6.3,PhD,Single,Travel_Rarely,No,10,1,3,10221,No
+2672,R&D,Research Scientist,Male,24,2025-04-20,0.7,Master,Single,Non-Travel,No,29,1,3,8134,No
+2673,IT,Data Analyst,Female,38,2017-09-15,8.3,Master,Married,Non-Travel,No,20,3,3,12167,No
+2674,Marketing,Marketing Manager,Female,48,2008-07-06,17.5,Master,Single,Travel_Frequently,Yes,24,3,3,12203,Yes
+2675,HR,HR Manager,Male,31,2025-12-31,0.0,High School,Married,Non-Travel,Yes,26,1,4,6581,No
+2676,Finance,Financial Analyst,Male,45,2011-10-23,14.2,Bachelor,Single,Travel_Rarely,No,9,2,3,10773,No
+2677,Sales,Sales Executive,Female,29,2020-03-15,5.8,Bachelor,Married,Non-Travel,No,18,3,2,11180,No
+2678,Finance,Financial Analyst,Female,31,2020-04-21,5.7,Master,Married,Non-Travel,Yes,5,4,2,12106,No
+2679,IT,QA Engineer,Male,33,2018-02-08,7.9,High School,Single,Non-Travel,Yes,10,1,4,14448,No
+2680,R&D,R&D Manager,Male,29,2019-04-22,6.7,Bachelor,Single,Travel_Rarely,No,1,1,3,11774,No
+2681,Sales,Account Manager,Male,60,2017-09-15,8.3,PhD,Single,Non-Travel,No,22,3,2,8583,No
+2682,IT,IT Manager,Female,32,2017-10-22,8.2,Bachelor,Divorced,Travel_Rarely,Yes,7,4,3,11414,No
+2683,Marketing,Marketing Manager,Male,57,2013-01-03,13.0,Master,Single,Travel_Frequently,No,18,2,1,8780,No
+2684,Marketing,Marketing Specialist,Female,29,2025-08-07,0.4,PhD,Married,Non-Travel,Yes,14,4,3,6161,No
+2685,IT,Software Engineer,Male,36,2017-01-02,9.0,Master,Married,Travel_Rarely,No,6,1,2,11115,Yes
+2686,IT,Software Engineer,Male,43,2017-10-22,8.2,Master,Married,Travel_Rarely,No,27,2,1,12534,No
+2687,Sales,Sales Executive,Female,22,2025-12-31,0.0,Bachelor,Divorced,Non-Travel,No,26,3,3,8852,No
+2688,R&D,Lab Technician,Male,24,2024-03-14,1.8,High School,Married,Travel_Rarely,No,9,2,3,11233,No
+2689,Sales,Sales Manager,Male,38,2012-04-23,13.7,Bachelor,Married,Travel_Rarely,No,28,4,3,8731,No
+2690,Sales,Sales Executive,Male,45,2009-01-04,17.0,Master,Single,Non-Travel,Yes,29,4,2,9710,No
+2691,HR,HR Specialist,Female,40,2009-05-30,16.6,High School,Married,Non-Travel,No,6,3,3,11071,No
+2692,Sales,Account Manager,Female,42,2019-11-27,6.1,Bachelor,Married,Travel_Rarely,No,18,1,3,8784,No
+2693,IT,Software Engineer,Female,30,2024-12-31,1.0,Bachelor,Married,Travel_Rarely,No,28,1,3,10862,Yes
+2694,HR,Recruiter,Female,45,2020-10-20,5.2,Bachelor,Single,Non-Travel,No,19,1,4,7062,Yes
+2695,IT,QA Engineer,Male,50,2014-11-28,11.1,Master,Divorced,Non-Travel,Yes,4,3,1,14474,No
+2696,R&D,R&D Manager,Male,32,2023-08-08,2.4,Bachelor,Married,Travel_Frequently,Yes,1,1,3,11421,Yes
+2697,HR,HR Specialist,Female,36,2023-03-16,2.8,High School,Single,Non-Travel,Yes,3,1,3,9479,No
+2698,R&D,Research Scientist,Female,37,2018-04-22,7.7,High School,Divorced,Travel_Rarely,Yes,18,3,3,12702,No
+2699,Marketing,Content Creator,Female,49,2016-09-15,9.3,Master,Married,Travel_Frequently,No,13,2,2,9322,No
+2700,Sales,Sales Manager,Female,32,2022-03-15,3.8,Bachelor,Single,Travel_Rarely,No,25,2,4,9244,No
+2701,Sales,Account Manager,Female,41,2006-04-25,19.7,Master,Married,Travel_Rarely,No,9,4,2,10971,No
+2702,Sales,Sales Manager,Male,30,2024-01-01,2.0,Bachelor,Married,Non-Travel,Yes,6,4,2,9373,Yes
+2703,HR,HR Manager,Male,48,2011-08-11,14.4,Master,Married,Travel_Rarely,No,18,2,3,8076,No
+2704,Finance,Finance Manager,Male,49,2012-11-28,13.1,Bachelor,Married,Non-Travel,No,6,3,3,11346,No
+2705,Sales,Sales Executive,Female,30,2019-11-27,6.1,Master,Single,Travel_Frequently,No,2,1,3,7890,No
+2706,IT,Data Analyst,Female,48,2015-11-28,10.1,Bachelor,Single,Non-Travel,Yes,29,2,3,14115,Yes
+2707,Finance,Financial Analyst,Male,56,2010-11-29,15.1,Master,Married,Non-Travel,No,9,2,3,10721,No
+2708,Finance,Finance Manager,Female,26,2023-09-14,2.3,High School,Married,Travel_Rarely,No,25,2,3,8424,No
+2709,Sales,Account Manager,Male,45,2015-03-17,10.8,Bachelor,Married,Non-Travel,No,23,2,3,8994,No
+2710,Sales,Sales Manager,Female,40,2020-02-08,5.9,Bachelor,Single,Travel_Rarely,No,14,3,3,9573,No
+2711,Marketing,Content Creator,Female,45,2018-08-09,7.4,Bachelor,Single,Travel_Rarely,No,8,4,2,7593,No
+2712,R&D,Lab Technician,Male,40,2025-11-25,0.1,Master,Single,Travel_Frequently,Yes,2,3,4,10986,No
+2713,Sales,Account Manager,Female,59,2021-07-03,4.5,Bachelor,Single,Travel_Rarely,No,30,1,3,10362,Yes
+2714,HR,HR Specialist,Male,50,2007-10-24,18.2,High School,Married,Non-Travel,No,12,2,3,11045,No
+2715,HR,Recruiter,Female,38,2011-05-30,14.6,Bachelor,Single,Travel_Rarely,Yes,24,4,4,10726,No
+2716,Sales,Sales Executive,Male,32,2019-05-28,6.6,Bachelor,Single,Travel_Rarely,Yes,25,3,3,8796,Yes
+2717,IT,IT Manager,Male,33,2016-04-22,9.7,Master,Married,Travel_Frequently,No,15,1,4,11843,Yes
+2718,Finance,Finance Manager,Female,25,2024-07-02,1.5,Master,Divorced,Travel_Rarely,No,4,1,4,9635,No
+2719,IT,QA Engineer,Male,49,2009-02-10,16.9,Master,Single,Travel_Rarely,No,11,3,3,15480,No
+2720,HR,HR Specialist,Male,55,2019-01-02,7.0,Bachelor,Single,Travel_Rarely,No,20,2,3,7366,No
+2721,R&D,Research Scientist,Female,49,2024-11-25,1.1,Master,Married,Travel_Rarely,No,21,2,2,12031,No
+2722,Sales,Account Manager,Female,58,2008-10-23,17.2,Bachelor,Married,Non-Travel,No,15,2,3,10855,No
+2723,Sales,Sales Manager,Female,42,2007-07-07,18.5,Master,Single,Travel_Rarely,No,2,1,3,11114,No
+2724,IT,Software Engineer,Female,37,2011-03-18,14.8,Master,Single,Non-Travel,No,5,1,2,15144,Yes
+2725,Finance,Financial Analyst,Female,28,2023-07-03,2.5,High School,Married,Travel_Rarely,Yes,8,3,3,11700,Yes
+2726,IT,QA Engineer,Male,29,2019-01-02,7.0,Master,Married,Non-Travel,No,10,3,2,11852,No
+2727,Sales,Sales Manager,Female,42,2016-05-28,9.6,High School,Married,Non-Travel,Yes,8,2,3,8792,No
+2728,IT,IT Manager,Male,54,2014-09-16,11.3,Bachelor,Married,Travel_Rarely,No,30,1,3,14100,No
+2729,IT,Software Engineer,Male,32,2022-05-27,3.6,Bachelor,Married,Travel_Rarely,Yes,26,1,3,12104,No
+2730,Marketing,Content Creator,Male,31,2017-05-28,8.6,Bachelor,Married,Non-Travel,No,9,2,4,8634,No
+2731,Sales,Sales Manager,Female,46,2024-05-26,1.6,PhD,Married,Travel_Rarely,No,18,4,3,7127,No
+2732,IT,IT Manager,Male,23,2024-02-07,1.9,Master,Single,Non-Travel,Yes,20,2,2,12570,Yes
+2733,Finance,Finance Manager,Male,49,2019-02-08,6.9,Bachelor,Married,Travel_Rarely,Yes,19,1,3,10502,Yes
+2734,IT,IT Manager,Female,52,2006-11-30,19.1,High School,Married,Travel_Rarely,Yes,2,2,2,16109,Yes
+2735,Finance,Accountant,Male,58,2014-03-17,11.8,High School,Married,Travel_Rarely,No,14,2,3,9715,Yes
+2736,R&D,Research Scientist,Male,36,2017-09-15,8.3,Master,Married,Travel_Rarely,No,19,3,3,12844,No
+2737,IT,IT Manager,Female,24,2024-07-02,1.5,Master,Married,Non-Travel,No,4,3,4,12122,No
+2738,IT,IT Manager,Female,26,2024-11-25,1.1,Master,Married,Travel_Rarely,No,23,4,2,10520,No
+2739,Sales,Sales Executive,Male,39,2013-09-16,12.3,Master,Single,Travel_Rarely,No,14,2,4,12177,No
+2740,R&D,Research Scientist,Male,47,2013-07-05,12.5,Bachelor,Single,Travel_Frequently,No,10,3,4,13317,No
+2741,Finance,Financial Analyst,Female,25,2024-11-25,1.1,Master,Married,Non-Travel,No,30,3,3,8100,No
+2742,IT,Software Engineer,Female,53,2010-05-30,15.6,Bachelor,Single,Travel_Rarely,Yes,21,2,3,14004,No
+2743,IT,Data Analyst,Male,22,2025-03-14,0.8,Master,Married,Travel_Rarely,Yes,15,1,3,10180,No
+2744,IT,Data Analyst,Male,43,2010-04-24,15.7,Bachelor,Single,Travel_Rarely,No,18,4,3,15411,No
+2745,Finance,Accountant,Male,22,2025-09-13,0.3,High School,Married,Travel_Rarely,No,5,1,3,10337,No
+2746,IT,QA Engineer,Male,36,2021-04-21,4.7,Bachelor,Married,Travel_Rarely,No,2,2,3,13509,No
+2747,R&D,Lab Technician,Male,43,2017-04-22,8.7,Master,Married,Travel_Rarely,No,24,4,2,9758,No
+2748,HR,HR Specialist,Male,56,2013-10-22,12.2,Master,Single,Travel_Rarely,No,19,1,3,9977,No
+2749,Sales,Sales Executive,Male,57,2019-10-21,6.2,PhD,Single,Travel_Rarely,Yes,25,2,3,9285,No
+2750,Marketing,Content Creator,Female,38,2012-09-16,13.3,Master,Single,Travel_Frequently,Yes,21,4,3,9284,No
+2751,IT,QA Engineer,Male,33,2018-04-22,7.7,Bachelor,Single,Travel_Rarely,No,2,4,3,12229,No
+2752,Finance,Financial Analyst,Female,41,2015-04-23,10.7,Master,Married,Travel_Rarely,Yes,30,1,3,11311,Yes
+2753,HR,Recruiter,Female,45,2012-05-29,13.6,Master,Divorced,Travel_Rarely,No,6,4,3,9810,No
+2754,HR,HR Specialist,Female,39,2011-09-17,14.3,High School,Single,Non-Travel,No,20,1,4,10555,No
+2755,R&D,R&D Manager,Male,54,2022-07-03,3.5,Bachelor,Single,Travel_Rarely,No,1,3,3,10346,No
+2756,IT,IT Manager,Female,59,2021-07-03,4.5,Bachelor,Single,Non-Travel,No,6,3,2,12411,No
+2757,Sales,Sales Executive,Male,60,2013-02-09,12.9,High School,Single,Travel_Rarely,No,3,4,4,8600,No
+2758,IT,Data Analyst,Female,33,2020-07-03,5.5,Master,Married,Non-Travel,No,15,3,4,11421,No
+2759,Marketing,Marketing Manager,Male,36,2021-10-20,4.2,PhD,Married,Non-Travel,Yes,14,1,1,6821,No
+2760,IT,IT Manager,Female,49,2008-09-17,17.3,Master,Single,Travel_Rarely,Yes,29,4,3,15258,No
+2761,Sales,Sales Executive,Male,32,2022-02-07,3.9,Master,Single,Non-Travel,No,22,1,3,7414,No
+2762,Marketing,Marketing Specialist,Female,56,2009-04-24,16.7,Master,Married,Travel_Rarely,No,7,3,3,9243,No
+2763,Finance,Finance Manager,Female,40,2010-11-29,15.1,Master,Divorced,Travel_Rarely,Yes,13,2,3,13488,No
+2764,R&D,Research Scientist,Female,42,2015-08-10,10.4,Master,Single,Non-Travel,No,12,4,2,11396,No
+2765,Sales,Sales Executive,Female,54,2017-09-15,8.3,Master,Single,Travel_Rarely,No,20,4,3,9658,No
+2766,Marketing,Marketing Manager,Male,48,2025-11-25,0.1,High School,Married,Travel_Rarely,Yes,19,1,4,7700,No
+2767,IT,Data Analyst,Male,32,2023-10-20,2.2,Bachelor,Married,Travel_Rarely,No,30,3,3,11712,No
+2768,R&D,Research Scientist,Female,43,2012-03-17,13.8,Bachelor,Married,Travel_Rarely,No,26,3,3,12935,No
+2769,IT,QA Engineer,Male,53,2016-08-09,9.4,Bachelor,Single,Travel_Rarely,Yes,12,1,3,13286,Yes
+2770,IT,Software Engineer,Female,42,2021-02-07,4.9,Master,Single,Travel_Frequently,No,14,1,3,11363,Yes
+2771,Finance,Financial Analyst,Female,35,2012-09-16,13.3,Master,Married,Non-Travel,No,7,3,2,11468,No
+2772,Sales,Sales Manager,Female,53,2022-01-01,4.0,Master,Single,Travel_Rarely,Yes,4,4,3,7875,No
+2773,Sales,Account Manager,Male,27,2024-09-13,1.3,Bachelor,Married,Non-Travel,No,10,2,3,7665,No
+2774,R&D,Research Scientist,Female,55,2024-02-07,1.9,High School,Married,Travel_Rarely,No,1,2,3,9494,No
+2775,Finance,Finance Manager,Male,23,2025-10-19,0.2,High School,Married,Non-Travel,Yes,11,1,2,9673,No
+2776,IT,QA Engineer,Female,50,2024-09-13,1.3,Master,Single,Travel_Rarely,No,3,1,3,11782,No
+2777,HR,HR Specialist,Female,31,2022-02-07,3.9,Bachelor,Married,Travel_Frequently,No,6,2,3,6575,No
+2778,IT,QA Engineer,Female,53,2024-04-20,1.7,Master,Single,Non-Travel,No,30,4,1,10564,No
+2779,Marketing,Content Creator,Male,49,2015-08-10,10.4,High School,Single,Travel_Rarely,No,24,3,4,10842,Yes
+2780,HR,HR Specialist,Male,23,2024-01-01,2.0,Master,Married,Non-Travel,Yes,22,3,4,7034,Yes
+2781,R&D,Lab Technician,Male,24,2025-03-14,0.8,Bachelor,Married,Travel_Rarely,Yes,6,4,3,11181,No
+2782,R&D,Research Scientist,Female,43,2015-08-10,10.4,Bachelor,Single,Travel_Rarely,No,2,2,3,10777,No
+2783,HR,Recruiter,Male,39,2015-04-23,10.7,Master,Married,Travel_Rarely,No,26,4,3,7758,No
+2784,Sales,Sales Executive,Male,60,2012-05-29,13.6,High School,Single,Non-Travel,No,30,2,1,9706,No
+2785,Marketing,Content Creator,Female,53,2015-10-23,10.2,Master,Single,Travel_Frequently,No,20,4,3,10154,No
+2786,R&D,Lab Technician,Male,26,2022-11-26,3.1,PhD,Married,Travel_Frequently,Yes,13,2,2,12371,Yes
+2787,R&D,Lab Technician,Female,43,2008-08-12,17.4,High School,Married,Non-Travel,No,27,2,1,10920,No
+2788,Sales,Sales Manager,Female,53,2012-03-17,13.8,PhD,Single,Non-Travel,Yes,5,3,4,11997,No
+2789,Sales,Sales Manager,Female,50,2023-09-14,2.3,Bachelor,Divorced,Travel_Rarely,No,16,4,3,9548,No
+2790,HR,HR Manager,Male,52,2006-11-30,19.1,Bachelor,Married,Travel_Frequently,No,5,2,3,11949,No
+2791,HR,HR Specialist,Male,48,2010-10-23,15.2,Bachelor,Single,Non-Travel,No,28,3,3,11767,No
+2792,Finance,Accountant,Female,52,2008-09-17,17.3,Master,Married,Travel_Rarely,No,17,4,3,13489,No
+2793,IT,QA Engineer,Female,36,2020-02-08,5.9,High School,Single,Travel_Rarely,No,7,1,2,14200,Yes
+2794,Sales,Sales Executive,Female,51,2015-08-10,10.4,High School,Divorced,Travel_Frequently,Yes,25,1,3,8975,Yes
+2795,R&D,Lab Technician,Male,40,2014-02-09,11.9,PhD,Single,Travel_Frequently,No,9,2,2,10403,No
+2796,Sales,Account Manager,Male,32,2021-09-14,4.3,High School,Married,Travel_Rarely,No,3,2,2,8984,No
+2797,IT,Software Engineer,Female,39,2015-03-17,10.8,Master,Single,Travel_Rarely,No,7,2,3,12414,No
+2798,R&D,Lab Technician,Male,35,2024-02-07,1.9,PhD,Married,Travel_Rarely,Yes,12,1,3,11853,No
+2799,Sales,Sales Manager,Male,45,2021-03-15,4.8,Bachelor,Single,Non-Travel,Yes,22,4,2,10640,Yes
+2800,R&D,Lab Technician,Male,49,2014-10-23,11.2,High School,Married,Travel_Rarely,No,4,1,3,9847,No
